@@ -1,0 +1,14 @@
+{
+  "partidos": {
+    "regla": "Candidaturas a las que el estudio preelectoral del CIS n.º 3584 (elecciones generales 2026) atribuye al menos un escaño en su horquilla nacional. La página nombra el estudio, no reproduce sus cifras.",
+    "fuente": "https://www.cis.es/documents/d/guest/3584_estimacion-pdf",
+    "orden": "Alfabético, primero las candidaturas que se presentan en toda España y luego las territoriales. No se ordena por la encuesta: el orden revelaría su resultado, y desde el 24-11 no se pueden difundir sondeos.",
+    "decidido": "2026-11-15, por el responsable del proyecto",
+    "pendiente": "Compromís: Front Valencià, UPC y Ara Més-Front Ampli también cumplen la regla: falta saber si tienen programa propio o usan el del Frente Amplio."
+  },
+  "temas": {
+    "regla": "Los problemas del top 10 del barómetro del CIS de octubre de 2026 que corresponden a una política pública, más Pensiones, Impuestos y Modelo territorial, añadidos por el equipo y señalados como tales.",
+    "decidido": "2026-11-15, por el responsable del proyecto"
+  },
+  "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa."
+}

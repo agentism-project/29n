@@ -1,0 +1,6 @@
+# Copias locales de los programas (se publican su huella y su enlace, no el PDF)
+fuentes/**/*.pdf
+# Texto extraído para verificar citas (se regenera desde los PDF)
+fuentes/texto/
+node_modules/
+__pycache__/
