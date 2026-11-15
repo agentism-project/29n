@@ -4,11 +4,19 @@
     "fuente": "https://www.cis.es/documents/d/guest/3584_estimacion-pdf",
     "orden": "Alfabético, primero las candidaturas que se presentan en toda España y luego las territoriales. No se ordena por la encuesta: el orden revelaría su resultado, y desde el 24-11 no se pueden difundir sondeos.",
     "decidido": "2026-11-15, por el responsable del proyecto",
-    "pendiente": "Compromís: Front Valencià, UPC y Ara Més-Front Ampli también cumplen la regla: falta saber si tienen programa propio o usan el del Frente Amplio."
+    "resultado": "14 candidaturas. Estatales: Frente Amplio, Podemos, PP, PSOE, Vox. Territoriales: Adelante Andalucía, Ara Més-Front Ampli, BNG, Compromís: Front Valencià, EAJ-PNV, EH Bildu, ERC, Junts, Unidad del Pueblo Canario (UPC). Compromís: Front Valencià, UPC y Ara Més-Front Ampli son coaliciones propias, no listas del Frente Amplio (comprobado el 15-11)."
   },
   "temas": {
     "regla": "Los problemas del top 10 del barómetro del CIS de octubre de 2026 que corresponden a una política pública, más Pensiones, Impuestos y Modelo territorial, añadidos por el equipo y señalados como tales.",
     "decidido": "2026-11-15, por el responsable del proyecto"
   },
-  "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa."
+  "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa.",
+  "sin_programa": {
+    "regla": "Se publica el jueves 19-11 con lo que haya. Una candidatura sin programa aparece como «Aún no ha publicado su programa» con enlace a su web. Si solo tiene propuestas del 29-N en su web oficial, se usan esas páginas, con una etiqueta que lo dice y una copia archivada con fecha. Se actualiza cuando publique.",
+    "decidido": "2026-11-15, por el responsable del proyecto"
+  },
+  "diseno": {
+    "eleccion": "Propuesta 2 «Tarjetas»",
+    "decidido": "2026-11-15, por el responsable del proyecto"
+  }
 }

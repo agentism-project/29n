@@ -34,7 +34,11 @@ TEXTO = FUENTES / "texto"
 # El titular es lo que se ve en la vista Tema: con 12+ partidos en una pantalla
 # de móvil solo caben ~32 caracteres por renglón (propuestas de diseño, 15-11).
 MAX_TITULAR_CARACTERES = 32
+MIN_RESUMEN = 20
 MAX_RESUMEN = 30
+MAX_CITAS = 3
+MAX_CITA_CARACTERES = 300
+SIGLAS_OK = {"IVA"}
 ESTADOS = {"propuesta", "sin_propuesta", "pendiente"}
 COMILLAS = {"“": '"', "”": '"', "«": '"', "»": '"',
             "‘": "'", "’": "'", "–": "-", "—": "-"}
@@ -129,11 +133,18 @@ def main() -> int:
             titular = f.get("titular", "")
             if not titular or len(titular) > MAX_TITULAR_CARACTERES:
                 fallos.append(f"{etiqueta}: titular de {len(titular)} caracteres (1 a {MAX_TITULAR_CARACTERES})")
-            if palabras(f.get("resumen", "")) > MAX_RESUMEN:
-                fallos.append(f"{etiqueta}: resumen de {palabras(f['resumen'])} palabras (máx. {MAX_RESUMEN})")
+            siglas = [s for s in re.findall(r"\b[A-ZÁÉÍÓÚÑ]{2,}\b", titular) if s not in SIGLAS_OK]
+            if siglas:
+                avisos.append(f"{etiqueta}: sigla en el titular {siglas}")
+            n_pal = palabras(f.get("resumen", ""))
+            if not MIN_RESUMEN <= n_pal <= MAX_RESUMEN:
+                fallos.append(f"{etiqueta}: resumen de {n_pal} palabras ({MIN_RESUMEN} a {MAX_RESUMEN})")
             citas = f.get("citas") or []
-            if not citas:
-                fallos.append(f"{etiqueta}: propuesta sin cita")
+            if not 1 <= len(citas) <= MAX_CITAS:
+                fallos.append(f"{etiqueta}: {len(citas)} citas (1 a {MAX_CITAS})")
+            for c in citas:
+                if len(c.get("texto", "")) > MAX_CITA_CARACTERES:
+                    fallos.append(f"{etiqueta}: cita de {len(c['texto'])} caracteres (máx. {MAX_CITA_CARACTERES})")
             for c in citas:
                 n_citas += 1
                 ini = c.get("pagina_pdf")

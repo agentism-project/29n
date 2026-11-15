@@ -10,12 +10,12 @@ Una ficha = lo que dice **un** programa sobre **un** tema. Se lee en un móvil, 
 
 ## Temas
 
-Los diez temas, su pregunta y lo que incluye cada uno están en `datos/temas.json`. Una medida va al tema cuyo «incluye» la describe; si encaja en dos, al que el propio programa la asigna por capítulo.
+Los diez temas, su pregunta y lo que incluye cada uno están en `datos/temas.json`. Una medida va al tema cuyo «incluye» la describe; si encaja en dos, al que el propio programa la asigna por capítulo. Las exclusiones explícitas de un «incluye» («No: impuestos») mandan sobre el capítulo: un impuesto va a Impuestos aunque el programa lo trate en su capítulo de energía.
 
 ## Qué propuestas elegir (el punto con más riesgo de sesgo)
 
-Por tema, de 1 a 3 propuestas, elegidas por **el énfasis del propio programa**, en este orden:
-1. Las que el programa destaca: resumen, decálogo, «medidas principales», primeras de su capítulo.
+Por tema, de 1 a 3 propuestas (como mucho 3 medidas; nunca juntes dos medidas distintas en una cita con `[…]`), elegidas por **el énfasis del propio programa**, en este orden:
+1. Las que el programa destaca: resumen, decálogo, «medidas principales», la introducción del capítulo o apartado donde está el tema y las primeras medidas numeradas de ese apartado.
 2. Las concretas y comprobables (una cifra, una ley, un plazo) antes que las declaraciones generales.
 3. Las que responden directamente a la pregunta del tema.
 
@@ -38,8 +38,8 @@ No elijas por lo que te parezca más polémico, más llamativo o más importante
 }
 ```
 
-- **titular**: la propuesta principal, en infinitivo y en castellano llano, **máximo 32 caracteres** contando espacios. Sin adjetivos valorativos. Ej.: «Bajar el IVA de la luz al 10 %».
-- **resumen**: máximo 30 palabras, frases cortas, palabras de uso diario (lectura fácil). Verbos neutros: «propone», «plantea», «quiere». Nunca «promete», «asegura», «pretende», «defiende con firmeza», ni valoraciones de viabilidad o coste. Sin siglas sin explicar (IRPF → «impuesto sobre la renta»).
+- **titular**: la propuesta principal, en infinitivo (o «Que … decida …» cuando la propuesta es quién decide algo) y en castellano llano, **máximo 32 caracteres** contando espacios. Sin adjetivos valorativos. Ej.: «Bajar el IVA de la luz al 10 %». Palabras que entienda alguien de 18 años: «competencias» → «que Euskadi decida sobre…»; «IPC» → «los precios». La única sigla permitida sin explicar es IVA.
+- **resumen**: entre 20 y 30 palabras, frases cortas, palabras de uso diario (lectura fácil). Verbos neutros: «propone», «plantea», «quiere». Nunca «promete», «asegura», «pretende», «defiende con firmeza», ni valoraciones de viabilidad o coste. Sin siglas sin explicar (IRPF → «impuesto sobre la renta»). No digas lo que el programa no incluye: cuenta solo lo que sí dice.
 - **citas**: de 1 a 3, cada una copiada **carácter a carácter** del texto (≤ 300 caracteres), con su `pagina_pdf`. Para omitir un trozo dentro de la misma página, `[…]`. Si una frase cruza de página, añade `"pagina_pdf_fin"`. Copia también las erratas: no corrijas nada.
 - **traduccion**: solo cuando la cita está en catalán, gallego o euskera; traducción fiel al castellano.
 - **Trazabilidad**: cada idea y cada cifra del titular y del resumen tiene que estar en una de las citas. Si no la puedes citar, no la escribas.
