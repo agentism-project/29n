@@ -1,74 +1,255 @@
 [
-  {"id": "fa", "nombre": "Frente Amplio", "ambito": "estatal",
-   "web": "https://frenteamplio.info/", "color": "#8a8a8a", "color_fuente": "Gris neutro: frenteamplio.info no declara theme-color ni colores en su HTML (15-11-2026); color sin confirmar.",
-   "programa": {"estado": "pendiente", "nota": "Sin programa en frenteamplio.info a 15-11; la prensa gallega cita un «100+15» de Fronte Ampla sin enlace oficial."}},
-  {"id": "podemos", "nombre": "Podemos", "ambito": "estatal",
-   "web": "https://podemos.info/", "color": "#683278", "color_fuente": "Meta theme-color de podemos.info (15-11-2026).",
-   "programa": {"estado": "pendiente", "nota": "15-11, revisado en navegador: podemos.info/programa/ solo enlaza el programa de 2019; nada del 29-N."}},
-  {"id": "pp", "nombre": "PP", "nombre_completo": "Partido Popular", "ambito": "estatal",
-   "web": "https://www.pp.es/", "color": "#21599e", "color_fuente": "Color de los botones de la cabecera de pp.es (15-11-2026); el sitio no declara theme-color.",
-   "programa": {"estado": "publicado", "titulo": "Reconstrucción nacional",
-                "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
-                "enlazado_desde": "https://www.pp.es/actualidad/documentos/",
-                "fecha_pdf": "2026-11-10", "paginas": 64, "idioma": "es",
-                "sha256": "ae0c35d7ef3faf540acaa79d47abbe3ae2bf56a3a755c4e78a8f5bf3ea49789c", "descargado": "2026-11-15"}},
-  {"id": "psoe", "nombre": "PSOE", "nombre_completo": "Partido Socialista Obrero Español", "ambito": "estatal",
-   "web": "https://www.psoe.es/", "color": "#8a8a8a", "color_fuente": "Gris neutro: psoe.es respondió con una página de control de acceso automatizado (15-11-2026); color sin confirmar.",
-   "programa": {"estado": "publicado", "titulo": "La fuerza de seguir avanzando",
-                "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
-                "fecha_pdf": "2026-11-15", "paginas": 114, "idioma": "es",
-                "sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5", "descargado": "2026-11-15"}},
-  {"id": "vox", "nombre": "Vox", "ambito": "estatal",
-   "web": "https://www.voxespana.es/", "color": "#7cbd2a", "color_fuente": "Color de relleno del mapa de sedes de voxespana.es (15-11-2026); su theme-color es negro (#000000).",
-   "programa": {"estado": "publicado", "titulo": "Es sentido común",
-                "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
-                "fecha_pdf": "2026-11-04", "paginas": 66, "idioma": "es",
-                "sha256": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65", "descargado": "2026-11-15"}},
-  {"id": "adelante", "nombre": "Adelante Andalucía", "ambito": "territorial", "comunidades": ["Andalucía"],
-   "web": "https://adelanteandalucia.org/", "color": "#24c87e", "color_fuente": "Color de los botones y llamadas a la acción de adelanteandalucia.org (15-11-2026); el sitio no declara theme-color.",
-   "programa": {"estado": "publicado", "titulo": "Un programa para frenar a las derechas",
-                "url": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
-                "enlazado_desde": "https://programa.adelanteandalucia.org/",
-                "fecha_pdf": "2026-11-15", "paginas": 134, "idioma": "es",
-                "sha256": "8dbe28d038792b9f2a66c96d40d43cf5fd0f310dbc0de17f6c7ebb3e6d55db30", "descargado": "2026-11-15",
-                "nota": "El partido regenera el PDF («Versión del 2026-11-15»): comprobar la huella antes de publicar."}},
-  {"id": "arames","nombre": "Ara Més-Front Ampli", "ambito": "territorial", "comunidades": ["Illes Balears"],
-   "color": "#8a8a8a", "color_fuente": "Gris neutro: no se ha localizado una web oficial de la coalición (15-11-2026); color sin confirmar.",
-   "programa": {"estado": "pendiente", "nota": "Coalición propia; a 15-11 su programa está en elaboración (prensa) y no hay documento en mespermallorca.cat ni mespermenorca.cat."}},
-  {"id": "bng", "nombre": "BNG", "nombre_completo": "Bloque Nacionalista Galego", "ambito": "territorial", "comunidades": ["Galicia"],
-   "web": "https://www.bng.gal/", "color": "#6aade4", "color_fuente": "Meta theme-color de bng.gal (15-11-2026).",
-   "programa": {"estado": "publicado", "titulo": "29N. Xerais 2026. Programa electoral",
-                "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/12/26_bng_xerais_documentos_programa_electoral.pdf",
-                "enlazado_desde": "https://www.bng.gal/estaticas/programas-eleitorais.html",
-                "fecha_pdf": "2026-11-12", "paginas": 91, "idioma": "gl",
-                "sha256": "1ab47bae90bd6de4be2cd42e1999c635757359ef9789a6c402ba7d64d9530432", "descargado": "2026-11-15"}},
-  {"id": "compromis", "nombre": "Compromís: Front Valencià", "ambito": "territorial", "comunidades": ["Comunitat Valenciana"],
-   "web": "https://frontvalencia.org/", "color": "#ff6720", "color_fuente": "Meta theme-color de frontvalencia.org (15-11-2026).",
-   "programa": {"estado": "publicado", "titulo": "Programa electoral 29N Compromís-Front Valencià",
-                "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
-                "enlazado_desde": "https://frontvalencia.org/",
-                "fecha_pdf": "2026-11-13", "paginas": 64, "idioma": "ca-valencia",
-                "sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55", "descargado": "2026-11-15"}},
-  {"id": "pnv", "nombre": "EAJ-PNV", "nombre_completo": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco", "ambito": "territorial", "comunidades": ["País Vasco"],
-   "web": "https://www.eaj-pnv.eus/", "color": "#8a8a8a", "color_fuente": "Gris neutro: eaj-pnv.eus no declara theme-color ni colores en su HTML (15-11-2026); color sin confirmar.",
-   "programa": {"estado": "publicado", "titulo": "Programa elecciones generales 2026. Euskadi zaindu",
-                "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
-                "enlazado_desde": "https://www.eaj-pnv.eus/es/documentos/",
-                "fecha_pdf": "2026-11-09", "paginas": 43, "idioma": "es",
-                "sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314", "descargado": "2026-11-15"}},
-  {"id": "bildu", "nombre": "EH Bildu", "ambito": "territorial", "comunidades": ["País Vasco", "Navarra"],
-   "web": "https://ehbildu.eus/", "color": "#00c19f", "color_fuente": "Fondo de la barra de navegación de ehbildu.eus (15-11-2026); el sitio no declara theme-color.",
-   "programa": {"estado": "pendiente", "nota": "Sin programa en ehbildu.eus a 15-11 (página 2 de documentos sin revisar)."}},
-  {"id": "erc", "nombre": "ERC", "nombre_completo": "Esquerra Republicana de Catalunya", "ambito": "territorial", "comunidades": ["Cataluña"],
-   "web": "https://www.esquerra.cat/", "color": "#f95838", "color_fuente": "Primer color de la paleta global del tema de esquerra.cat (15-11-2026); el sitio no declara theme-color.",
-   "programa": {"estado": "publicado", "titulo": "Pel país. Per la gent. Pel futur.",
-                "url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
-                "fecha_pdf": "2026-11-10", "paginas": 48, "idioma": "ca",
-                "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04", "descargado": "2026-11-15"}},
-  {"id": "junts", "nombre": "Junts", "ambito": "territorial", "comunidades": ["Cataluña"],
-   "web": "https://junts.cat/", "color": "#00c3b2", "color_fuente": "Color de los enlaces del carrusel de portada de junts.cat (15-11-2026); el sitio no declara theme-color.",
-   "programa": {"estado": "pendiente", "nota": "15-11, revisado en navegador: junts.cat no enlaza ningún programa; tiene páginas «Propostes» por tema."}},
-  {"id": "upc", "nombre": "Unidad del Pueblo Canario", "ambito": "territorial", "comunidades": ["Canarias"],
-   "color": "#8a8a8a", "color_fuente": "Gris neutro: no se ha localizado una web oficial de la coalición (15-11-2026); color sin confirmar.",
-   "programa": {"estado": "pendiente", "nota": "Confluencia de NC-BC, IU Canaria, Movimiento Sumar y Podemos (nuevacanariasbc.org, 16-10); la prensa cita un manifiesto de 16 ejes sin enlace oficial."}}
+  {
+    "id": "fa",
+    "nombre": "Frente Amplio",
+    "ambito": "estatal",
+    "web": "https://frenteamplio.info/",
+    "color": "#F03C00",
+    "color_fuente": "Fondo principal de la portada de frenteamplio.info (naranja), leído en el navegador el 16-11",
+    "programa": {
+      "estado": "pendiente",
+      "nota": "Sin programa en frenteamplio.info a 15-11; la prensa gallega cita un «100+15» de Fronte Ampla sin enlace oficial."
+    }
+  },
+  {
+    "id": "podemos",
+    "nombre": "Podemos",
+    "ambito": "estatal",
+    "web": "https://podemos.info/",
+    "color": "#683278",
+    "color_fuente": "Meta theme-color de podemos.info (15-11-2026).",
+    "programa": {
+      "estado": "pendiente",
+      "nota": "15-11, revisado en navegador: podemos.info/programa/ solo enlaza el programa de 2019; nada del 29-N."
+    }
+  },
+  {
+    "id": "pp",
+    "nombre": "PP",
+    "nombre_completo": "Partido Popular",
+    "ambito": "estatal",
+    "web": "https://www.pp.es/",
+    "color": "#21599e",
+    "color_fuente": "Color de los botones de la cabecera de pp.es (15-11-2026); el sitio no declara theme-color.",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "Reconstrucción nacional",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
+      "enlazado_desde": "https://www.pp.es/actualidad/documentos/",
+      "fecha_pdf": "2026-11-10",
+      "paginas": 64,
+      "idioma": "es",
+      "sha256": "ae0c35d7ef3faf540acaa79d47abbe3ae2bf56a3a755c4e78a8f5bf3ea49789c",
+      "descargado": "2026-11-15"
+    }
+  },
+  {
+    "id": "psoe",
+    "nombre": "PSOE",
+    "nombre_completo": "Partido Socialista Obrero Español",
+    "ambito": "estatal",
+    "web": "https://www.psoe.es/",
+    "color": "#F31912",
+    "color_fuente": "Color principal de psoe.es (rojo de botones y enlaces), leído en el navegador el 16-11",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "La fuerza de seguir avanzando",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "fecha_pdf": "2026-11-15",
+      "paginas": 114,
+      "idioma": "es",
+      "sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5",
+      "descargado": "2026-11-15"
+    }
+  },
+  {
+    "id": "vox",
+    "nombre": "Vox",
+    "ambito": "estatal",
+    "web": "https://www.voxespana.es/",
+    "color": "#7cbd2a",
+    "color_fuente": "Color de relleno del mapa de sedes de voxespana.es (15-11-2026); su theme-color es negro (#000000).",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "Es sentido común",
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "fecha_pdf": "2026-11-04",
+      "paginas": 66,
+      "idioma": "es",
+      "sha256": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65",
+      "descargado": "2026-11-15"
+    }
+  },
+  {
+    "id": "adelante",
+    "nombre": "Adelante Andalucía",
+    "ambito": "territorial",
+    "comunidades": [
+      "Andalucía"
+    ],
+    "web": "https://adelanteandalucia.org/",
+    "color": "#24c87e",
+    "color_fuente": "Color de los botones y llamadas a la acción de adelanteandalucia.org (15-11-2026); el sitio no declara theme-color.",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "Un programa para frenar a las derechas",
+      "url": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
+      "enlazado_desde": "https://programa.adelanteandalucia.org/",
+      "fecha_pdf": "2026-11-15",
+      "paginas": 134,
+      "idioma": "es",
+      "sha256": "8dbe28d038792b9f2a66c96d40d43cf5fd0f310dbc0de17f6c7ebb3e6d55db30",
+      "descargado": "2026-11-15",
+      "nota": "El partido regenera el PDF («Versión del 2026-11-15»): comprobar la huella antes de publicar."
+    }
+  },
+  {
+    "id": "arames",
+    "nombre": "Ara Més-Front Ampli",
+    "ambito": "territorial",
+    "comunidades": [
+      "Illes Balears"
+    ],
+    "color": "#8a8a8a",
+    "color_fuente": "Gris neutro: no se ha localizado una web oficial de la coalición (15-11-2026); color sin confirmar.",
+    "programa": {
+      "estado": "pendiente",
+      "nota": "Coalición propia; a 15-11 su programa está en elaboración (prensa) y no hay documento en mespermallorca.cat ni mespermenorca.cat."
+    }
+  },
+  {
+    "id": "bng",
+    "nombre": "BNG",
+    "nombre_completo": "Bloque Nacionalista Galego",
+    "ambito": "territorial",
+    "comunidades": [
+      "Galicia"
+    ],
+    "web": "https://www.bng.gal/",
+    "color": "#6aade4",
+    "color_fuente": "Meta theme-color de bng.gal (15-11-2026).",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "29N. Xerais 2026. Programa electoral",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/12/26_bng_xerais_documentos_programa_electoral.pdf",
+      "enlazado_desde": "https://www.bng.gal/estaticas/programas-eleitorais.html",
+      "fecha_pdf": "2026-11-12",
+      "paginas": 91,
+      "idioma": "gl",
+      "sha256": "1ab47bae90bd6de4be2cd42e1999c635757359ef9789a6c402ba7d64d9530432",
+      "descargado": "2026-11-15"
+    }
+  },
+  {
+    "id": "compromis",
+    "nombre": "Compromís: Front Valencià",
+    "ambito": "territorial",
+    "comunidades": [
+      "Comunitat Valenciana"
+    ],
+    "web": "https://frontvalencia.org/",
+    "color": "#ff6720",
+    "color_fuente": "Meta theme-color de frontvalencia.org (15-11-2026).",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "Programa electoral 29N Compromís-Front Valencià",
+      "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
+      "enlazado_desde": "https://frontvalencia.org/",
+      "fecha_pdf": "2026-11-13",
+      "paginas": 64,
+      "idioma": "ca-valencia",
+      "sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
+      "descargado": "2026-11-15"
+    }
+  },
+  {
+    "id": "pnv",
+    "nombre": "EAJ-PNV",
+    "nombre_completo": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco",
+    "ambito": "territorial",
+    "comunidades": [
+      "País Vasco"
+    ],
+    "web": "https://www.eaj-pnv.eus/",
+    "color": "#00902F",
+    "color_fuente": "Color de acento de eaj-pnv.eus (verde), leído en el navegador el 16-11",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "Programa elecciones generales 2026. Euskadi zaindu",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "enlazado_desde": "https://www.eaj-pnv.eus/es/documentos/",
+      "fecha_pdf": "2026-11-09",
+      "paginas": 43,
+      "idioma": "es",
+      "sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314",
+      "descargado": "2026-11-15"
+    }
+  },
+  {
+    "id": "bildu",
+    "nombre": "EH Bildu",
+    "ambito": "territorial",
+    "comunidades": [
+      "País Vasco",
+      "Navarra"
+    ],
+    "web": "https://ehbildu.eus/",
+    "color": "#00c19f",
+    "color_fuente": "Fondo de la barra de navegación de ehbildu.eus (15-11-2026); el sitio no declara theme-color.",
+    "programa": {
+      "estado": "pendiente",
+      "nota": "Sin programa en ehbildu.eus a 15-11 (página 2 de documentos sin revisar)."
+    }
+  },
+  {
+    "id": "erc",
+    "nombre": "ERC",
+    "nombre_completo": "Esquerra Republicana de Catalunya",
+    "ambito": "territorial",
+    "comunidades": [
+      "Cataluña"
+    ],
+    "web": "https://www.esquerra.cat/",
+    "color": "#f95838",
+    "color_fuente": "Primer color de la paleta global del tema de esquerra.cat (15-11-2026); el sitio no declara theme-color.",
+    "programa": {
+      "estado": "publicado",
+      "titulo": "Pel país. Per la gent. Pel futur.",
+      "url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+      "fecha_pdf": "2026-11-10",
+      "paginas": 48,
+      "idioma": "ca",
+      "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
+      "descargado": "2026-11-15"
+    }
+  },
+  {
+    "id": "junts",
+    "nombre": "Junts",
+    "ambito": "territorial",
+    "comunidades": [
+      "Cataluña"
+    ],
+    "web": "https://junts.cat/",
+    "color": "#00c3b2",
+    "color_fuente": "Color de los enlaces del carrusel de portada de junts.cat (15-11-2026); el sitio no declara theme-color.",
+    "programa": {
+      "estado": "pendiente",
+      "nota": "15-11, revisado en navegador: junts.cat no enlaza ningún programa; tiene páginas «Propostes» por tema."
+    }
+  },
+  {
+    "id": "upc",
+    "nombre": "Unidad del Pueblo Canario",
+    "ambito": "territorial",
+    "comunidades": [
+      "Canarias"
+    ],
+    "color": "#8a8a8a",
+    "color_fuente": "Gris neutro: no se ha localizado una web oficial de la coalición (15-11-2026); color sin confirmar.",
+    "programa": {
+      "estado": "pendiente",
+      "nota": "Confluencia de NC-BC, IU Canaria, Movimiento Sumar y Podemos (nuevacanariasbc.org, 16-10); la prensa cita un manifiesto de 16 ejes sin enlace oficial."
+    }
+  }
 ]

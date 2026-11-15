@@ -23,7 +23,8 @@ def main() -> None:
     for p in partidos:
         nombres += [p["nombre"], p.get("nombre_completo", "")]
     nombres = sorted({n for n in nombres if n}, key=len, reverse=True)
-    tapar = re.compile("|".join(re.escape(n) for n in nombres), re.IGNORECASE)
+    # Solo palabras enteras: sin \b, «ERC» tapaba «supermercados» y «terceros».
+    tapar = re.compile(r"\b(?:" + "|".join(re.escape(n) for n in nombres) + r")\b", re.IGNORECASE)
 
     archivos = sorted((DATOS / "fichas").glob("*.json"))
     ids = [a.stem for a in archivos]

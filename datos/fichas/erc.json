@@ -4,7 +4,7 @@
   "tema": "vivienda",
   "estado": "propuesta",
   "titular": "Que Cataluña regule el alquiler",
-  "resumen": "Quiere que Cataluña pueda hacer su ley de alquileres. Propone dedicar a vivienda al menos el 1,5 % del producto interior bruto y traspasarle gratis los inmuebles de la Sareb.",
+  "resumen": "Quiere que Cataluña pueda legislar sobre alquileres. Propone dedicar a vivienda al menos el 1,5 % del PIB (producción del país) y traspasarle gratis los inmuebles de la Sareb.",
   "citas": [
    {
     "texto": "Impulsar l’aprovació d’una legislació estatal, per la via de l’article 150.1 de la Constitució espanyola, que delegui formalment a la Generalitat de Catalunya la facultat de legislar de manera plena i integral en matèria d’arrendaments urbans.",
@@ -22,7 +22,10 @@
     "traduccion": "Traspaso inmediato de todos los inmuebles de la SAREB y Casa 47 a la Generalitat de Cataluña. Resulta urgente el traspaso inmediato y gratuito de la titularidad de estos inmuebles a la Generalitat […] para poder destinarlos a la ampliación del parque público de vivienda."
    }
   ],
-  "seleccion": "Primeras medidas del apartado B.A (55, 56 y 57), las tres que anuncia su introducción: ley de alquileres catalana, pisos de la SAREB y más recursos (pp. 18-19)."
+  "seleccion": "Primeras medidas del apartado B.A (55, 56 y 57), las tres que anuncia su introducción: ley de alquileres catalana, pisos de la SAREB y más recursos (pp. 18-19).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "erc",
@@ -79,7 +82,7 @@
   "tema": "empleo",
   "estado": "propuesta",
   "titular": "Crear un salario mínimo catalán",
-  "resumen": "Quiere un salario mínimo catalán de 1.460 euros. Propone recuperar 45 días por año trabajado de indemnización por despido improcedente y una semana laboral de 37,5 horas sin bajar sueldos.",
+  "resumen": "Quiere que Cataluña pueda fijar su salario mínimo, en 1.460 euros. Propone recuperar 45 días por año trabajado de indemnización por despido improcedente y 37,5 horas semanales sin bajar sueldos.",
   "citas": [
    {
     "texto": "Transferir les competències a la Generalitat de Catalunya per establir un salari mínim català (SMC) a 1.460 €.",
@@ -97,7 +100,10 @@
     "traduccion": "Reducir la duración máxima de la jornada laboral semanal a 37 horas y media sin reducción salarial."
    }
   ],
-  "seleccion": "La 67, salario mínimo catalán que destaca la introducción del B.B (p. 20), y la 103 y la 105, primeras medidas del B.E con cifra (despido y jornada). La 66 (salario mínimo estatal) y la 104 quedan fuera por el límite de tres."
+  "seleccion": "La 67, salario mínimo catalán que destaca la introducción del B.B (p. 20), y la 103 y la 105, primeras medidas del B.E con cifra (despido y jornada). La 66 (salario mínimo estatal) y la 104 quedan fuera por el límite de tres.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "erc",
@@ -129,7 +135,7 @@
   "tema": "educacion",
   "estado": "propuesta",
   "titular": "Proteger la inmersión en catalán",
-  "resumen": "Quiere proteger la escuela pública en catalán. Propone dedicar a educación el 6 % del producto interior bruto y garantizar plazas públicas gratuitas de 0 a 3 años.",
+  "resumen": "Quiere proteger la escuela pública en catalán. Propone dedicar a educación el 6 % del PIB (producción del país) y garantizar plazas públicas gratuitas de 0 a 3 años.",
   "citas": [
    {
     "texto": "Blindar el model d’escola catalana i la immersió lingüística. Defensar un model d’escola pública, laica, gratuïta i de qualitat, amb el català com a llengua vehicular i d’acollida, com a eina de cohesió social, inclusió i igualtat d’oportunitats.",
@@ -147,14 +153,17 @@
     "traduccion": "Asegurar la financiación estatal de la educación pública y gratuita de 0 a 3 años. Establecer un sistema de financiación estatal suficiente y estable para hacer efectivo el acceso universal y gratuito de todos los niños a una plaza educativa pública de 0 a 3 años"
    }
   ],
-  "seleccion": "La 17 (escuela catalana e inmersión), eje de la introducción del apartado A.C (p. 10), y la 19 y la 20, primeras medidas concretas (6 % del PIB, plazas de 0 a 3 años); la 16 y la 18 (pacto de país, competencias) son declaraciones generales."
+  "seleccion": "La 17 (escuela catalana e inmersión), eje de la introducción del apartado A.C (p. 10), y la 19 y la 20, primeras medidas concretas (6 % del PIB, plazas de 0 a 3 años); la 16 y la 18 (pacto de país, competencias) son declaraciones generales.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "erc",
   "tema": "regeneracion",
   "estado": "propuesta",
   "titular": "Sumar 180 jueces en Cataluña",
-  "resumen": "Propone 180 jueces más en Cataluña. Quiere denunciar contratos de Defensa a empresas condenadas por corrupción y una ley electoral europea plural, con voto desde los 16 años.",
+  "resumen": "Propone 180 jueces más en Cataluña. Quiere denunciar contratos públicos a empresas condenadas por corrupción y aplicar la ley electoral europea, con pluralidad y voto desde los 16 años.",
   "citas": [
    {
     "texto": "Garantir més recursos judicials per agilitzar els procediments i acabar amb la impunitat. Cal continuar apostant pel desplegament de noves places de jutges i jutgesses a Catalunya, garantint el compliment de l’acord a iniciativa d’Esquerra Republicana per incorporar 180 places entre 2026 i 2027",
@@ -172,7 +181,10 @@
     "traduccion": "Promover la transposición de la Ley Electoral Europea, asegurando que garantice la pluralidad y la representatividad […] En este marco, promover también el ejercicio del derecho de voto a partir de los 16 años."
    }
   ],
-  "seleccion": "Sin apartado propio. La 242, recursos de justicia que pide la introducción del C.E (p. 42); la 45, única medida sobre corrupción, tema que cita el preámbulo (p. 5); y la 53, ley electoral. La 9 (Casa Real) mezcla transparencia con el fin de la monarquía; la 41 (Consejo de Justicia catalán) corresponde a Territorio por capítulo y no entra en sus tres."
+  "seleccion": "Sin apartado propio. La 242, recursos de justicia que pide la introducción del C.E (p. 42); la 45, única medida sobre corrupción, tema que cita el preámbulo (p. 5); y la 53, ley electoral. La 9 (Casa Real) mezcla transparencia con el fin de la monarquía; la 41 (Consejo de Justicia catalán) corresponde a Territorio por capítulo y no entra en sus tres.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "erc",
@@ -204,7 +216,7 @@
   "tema": "impuestos",
   "estado": "propuesta",
   "titular": "Reformar el impuesto de la renta",
-  "resumen": "Propone subir el impuesto a las ganancias del capital y bajarlo al trabajo hasta 35.000 euros. Quiere menos IVA en alimentos básicos y más impuesto a grandes fortunas.",
+  "resumen": "Propone subir al 35 % el tipo máximo del capital y bajar impuestos al trabajo hasta 35.000 euros. Quiere menos IVA en alimentos básicos y más impuesto a grandes fortunas.",
   "citas": [
    {
     "texto": "Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros",
@@ -222,7 +234,10 @@
     "traduccion": "Hacer permanente el impuesto temporal de solidaridad de las grandes fortunas, aumentando el tipo para fortunas de más de 10 millones de euros y creando un tramo nuevo a partir de 100 millones de euros."
    }
   ],
-  "seleccion": "Reformas del impuesto sobre la renta y del IVA (69 y 70), que destaca la introducción del B.B (p. 20), y la 74, primera medida del B.C (p. 22). Banca y energéticas (75 y 76) quedan fuera por el límite de tres."
+  "seleccion": "Reformas del impuesto sobre la renta y del IVA (69 y 70), que destaca la introducción del B.B (p. 20), y la 74, primera medida del B.C (p. 22). Banca y energéticas (75 y 76) quedan fuera por el límite de tres.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "erc",

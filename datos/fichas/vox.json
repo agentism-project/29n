@@ -26,7 +26,7 @@
   "tema": "inmigracion",
   "estado": "propuesta",
   "titular": "No acoger a más inmigrantes",
-  "resumen": "Plantea no acoger a más inmigrantes y prohibir las regularizaciones masivas: quien entre de forma ilegal nunca podrá regularizarse. Quiere endurecer el acceso a la nacionalidad y suprimir el arraigo.",
+  "resumen": "Plantea no acoger más inmigrantes y prohibir las «regularizaciones masivas»: quien entre ilegalmente nunca podrá regularizarse. Quiere endurecer los requisitos de nacionalidad y suprimir el arraigo (vía para tener papeles).",
   "citas": [
    {
     "texto": "Ni uno más. Después de recibir a 5 millones de personas en 5 años España no puede acoger a más inmigrantes. Prohibición de las regularizaciones masivas.  Quien entra de forma ilegal jamás podrá regularizar su situación.",
@@ -41,14 +41,17 @@
     "pagina_pdf": 15
    }
   ],
-  "seleccion": "Las tres primeras medidas del capítulo «Inmigración» (9, 10 y 11)."
+  "seleccion": "Las tres primeras medidas del capítulo «Inmigración» (9, 10 y 11).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "vox",
   "tema": "economia",
   "estado": "propuesta",
   "titular": "Reindustrializar España",
-  "resumen": "Propone reindustrializar España y una energía «segura, cierta y asequible», sin tope a la inversión en redes eléctricas. Quiere extender a todas las familias los beneficios de las familias numerosas.",
+  "resumen": "Propone reindustrializar España y una energía «segura, cierta y asequible», sin tope a la inversión en redes eléctricas. Quiere extender los beneficios de familia numerosa desde el primer hijo.",
   "citas": [
    {
     "texto": "Reindustrialización radical de la economía española . Revolucionar la política energética: segura, cierta y ase -\nquible.",
@@ -63,7 +66,10 @@
     "pagina_pdf": 51
    }
   ],
-  "seleccion": "Medida 8 («Reindustrialización radical», energía) y su primera viñeta que no es un impuesto (la 1.ª, rebaja de la luz, va a Impuestos); medida 94, primera de «Familia y Vida», por las ayudas a familias."
+  "seleccion": "Medida 8 («Reindustrialización radical», energía) y su primera viñeta que no es un impuesto (la 1.ª, rebaja de la luz, va a Impuestos); medida 94, primera de «Familia y Vida», por las ayudas a familias.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "vox",
@@ -136,7 +142,7 @@
   "tema": "regeneracion",
   "estado": "propuesta",
   "titular": "«Despolitizar» la Justicia",
-  "resumen": "Propone que los jueces elijan a doce vocales del Consejo General del Poder Judicial. Quiere auditar las administraciones y que los cargos públicos condenados por corrupción respondan con sus bienes.",
+  "resumen": "Propone que los jueces elijan a doce miembros del Consejo General del Poder Judicial. Quiere auditar las administraciones y que los cargos públicos condenados por corrupción respondan con sus bienes.",
   "citas": [
    {
     "texto": "Independencia y despolitización de la Justicia. Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo Ge -\nneral del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jue -\nces y magistrados",
@@ -151,7 +157,10 @@
     "pagina_pdf": 57
    }
   ],
-  "seleccion": "Primera medida del capítulo «Independencia de la Justicia y lucha contra la corrupción» (100) y la 107, titulada «Lucha contra la corrupción»."
+  "seleccion": "Primera medida del capítulo «Independencia de la Justicia y lucha contra la corrupción» (100) y la 107, titulada «Lucha contra la corrupción».",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "vox",

@@ -3,7 +3,7 @@
   "partido": "psoe",
   "tema": "vivienda",
   "estado": "propuesta",
-  "titular": "1 % del PIB al año para vivienda",
+  "titular": "Movilizar el 1 % del PIB al año",
   "resumen": "Propone movilizar cada año el 1 % del PIB (producción del país) para vivienda. Quiere alargar los alquileres y gravar viviendas de grandes propietarios sin uso residencial ni alquiler asequible.",
   "citas": [
    {
@@ -19,7 +19,10 @@
     "pagina_pdf": 32
    }
   ],
-  "seleccion": "Las tres primeras medidas con el número resaltado del capítulo de vivienda: 38 (p. 27), 61 (p. 30) y 70 (p. 31); la 70 se cita por la 72 (p. 32), que repite esa medida en una sola página."
+  "seleccion": "Las tres primeras medidas con el número resaltado del capítulo de vivienda: 38 (p. 27), 61 (p. 30) y 70 (p. 31); la 70 se cita por la 72 (p. 32), que repite esa medida en una sola página.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "psoe",
@@ -47,7 +50,7 @@
   "partido": "psoe",
   "tema": "economia",
   "estado": "propuesta",
-  "titular": "Inversión de 120.000 millones",
+  "titular": "Movilizar 120.000 millones",
   "resumen": "Propone movilizar 120.000 millones de euros para seguir modernizando la economía. Quiere simplificar el ingreso mínimo vital y unir las ayudas de luz, transporte y agua en un bono automático.",
   "citas": [
    {
@@ -63,14 +66,17 @@
     "pagina_pdf": 38
    }
   ],
-  "seleccion": "El Fondo España Crece, medida 1 con el número resaltado (p. 14), citado por la introducción del capítulo, que da la cifra (p. 13); 89 y 93, primeras del apartado «Coste de vida» que no tratan salarios ni impuestos."
+  "seleccion": "El Fondo España Crece, medida 1 con el número resaltado (p. 14), citado por la introducción del capítulo, que da la cifra (p. 13); 89 y 93, primeras del apartado «Coste de vida» que no tratan salarios ni impuestos.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "psoe",
   "tema": "empleo",
   "estado": "propuesta",
   "titular": "Fijar por ley el salario mínimo",
-  "resumen": "Propone fijar por ley el salario mínimo sobre el 60 % del salario medio y bajar la jornada a 37,5 horas sin perder sueldo. Quiere un registro digital de horas.",
+  "resumen": "Propone fijar por ley el salario mínimo por encima del 60 % del salario medio y bajar la jornada a 37,5 horas sin perder sueldo. Quiere registro digital de horas.",
   "citas": [
    {
     "texto": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad y las necesidades de las personas trabajadoras",
@@ -85,7 +91,10 @@
     "pagina_pdf": 41
    }
   ],
-  "seleccion": "Medida 87, con el número resaltado (p. 37), que va a Empleo porque Economía excluye los salarios; 108 y 109, primeras del apartado «Trabajo digno» (p. 41)."
+  "seleccion": "Medida 87, con el número resaltado (p. 37), que va a Empleo porque Economía excluye los salarios; 108 y 109, primeras del apartado «Trabajo digno» (p. 41).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "psoe",
@@ -113,7 +122,7 @@
   "partido": "psoe",
   "tema": "educacion",
   "estado": "propuesta",
-  "titular": "Ampliar la escuela de 0 a 3 años",
+  "titular": "Escuela de 0 a 3 años para todos",
   "resumen": "Propone que la educación de 0 a 3 años llegue a todos, con más escuelas infantiles públicas. Quiere más becas, un tope de alumnos por aula y un estatuto docente.",
   "citas": [
    {
@@ -129,7 +138,10 @@
     "pagina_pdf": 52
    }
   ],
-  "seleccion": "Primeras medidas del apartado de educación (157, con el número resaltado, 158 y 159; pp. 51-52)."
+  "seleccion": "Primeras medidas del apartado de educación (157, con el número resaltado, 158 y 159; pp. 51-52).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "psoe",
@@ -179,7 +191,7 @@
   "partido": "psoe",
   "tema": "impuestos",
   "estado": "propuesta",
-  "titular": "Gravar más las rentas de capital",
+  "titular": "Gravar rentas de capital altas",
   "resumen": "Propone gravar hasta un 35 % las rentas de capital altas. Quiere más impuestos a grandes tecnológicas y que la rebaja por hijo llegue también a quien no declara.",
   "citas": [
    {
@@ -195,7 +207,10 @@
     "pagina_pdf": 49
    }
   ],
-  "seleccion": "Primeras medidas del apartado «Fiscalidad justa» (130, con el número resaltado, y 131; p. 48) y la 134, también resaltada (p. 49)."
+  "seleccion": "Primeras medidas del apartado «Fiscalidad justa» (130, con el número resaltado, y 131; p. 48) y la 134, también resaltada (p. 49).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "psoe",

@@ -54,7 +54,7 @@
   "tema": "economia",
   "estado": "propuesta",
   "titular": "Reformar el mercado eléctrico",
-  "resumen": "Propone pagar a precio fijo la luz renovable y dar 200 euros al mes por hijo. Quiere más control público sobre los márgenes de las grandes cadenas de alimentación.",
+  "resumen": "Propone contratos largos a precio fijo para quien produce luz renovable. Quiere dar 200 euros al mes por hijo y más control público de márgenes de grandes cadenas de alimentación.",
   "citas": [
    {
     "texto": "Reduirem el pes del mercat marginalista i implementarem un model de remuneració regulat i estable, amb contractes a llarg termini a preu fix per a les renovables, que traslladen a la ciutadania el baix cost real de generar-les i acaben amb la volatilitat.",
@@ -72,14 +72,17 @@
     "traduccion": "Ampliaremos el control público sobre la concentración empresarial y los márgenes de las grandes cadenas de distribución alimentaria, exigiendo transparencia en los precios y los márgenes de cada fase de la cadena y actuando contra las prácticas abusivas que perjudican a las personas productoras y consumidoras."
    }
   ],
-  "seleccion": "El programa no tiene apartado sobre coste de la vida: primera medida de Energia (p. 29), sobre la factura de la luz; la ayuda por crianza de Infància (p. 46), ayuda a familias con cifra; y el control de márgenes alimentarios (p. 24), sobre la cesta de la compra."
+  "seleccion": "El programa no tiene apartado sobre coste de la vida: primera medida de Energia (p. 29), sobre la factura de la luz; la ayuda por crianza de Infància (p. 46), ayuda a familias con cifra; y el control de márgenes alimentarios (p. 24), sobre la cesta de la compra.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "compromis",
   "tema": "empleo",
   "estado": "propuesta",
   "titular": "Reducir la jornada a cuatro días",
-  "resumen": "Propone una semana de cuatro días sin bajar el sueldo. Quiere por ley un salario mínimo del 60 % del sueldo medio. Plantea facilitar a los autónomos cobrar el paro.",
+  "resumen": "Propone una semana de cuatro días (32 horas) sin bajar sueldo. Quiere por ley un salario mínimo del 60 % del sueldo medio. Plantea facilitar el paro de los autónomos.",
   "citas": [
    {
     "texto": "Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou.",
@@ -97,14 +100,17 @@
     "traduccion": "Mejoraremos la protección social de las personas autónomas haciendo que, para acceder a la prestación por cese de actividad, solo tengan que acreditar un año de pérdidas."
    }
   ],
-  "seleccion": "Dos primeras medidas de Salaris i condicions laborals (p. 6) y primera de Persones autònomes (p. 7), apartados del capítulo 1 («Una vida segura: habitatge, salaris i pensions»)."
+  "seleccion": "Dos primeras medidas de Salaris i condicions laborals (p. 6) y primera de Persones autònomes (p. 7), apartados del capítulo 1 («Una vida segura: habitatge, salaris i pensions»).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "compromis",
   "tema": "sanidad",
   "estado": "propuesta",
-  "titular": "Blindar la gestión pública",
-  "resumen": "Propone blindar la gestión pública de la sanidad. Quiere atención para todos, tengan o no papeles, y reforzar la atención primaria con listas de espera máximas fijadas por ley.",
+  "titular": "Garantizar la gestión pública",
+  "resumen": "Propone garantizar la gestión pública de la sanidad. Quiere atención para todos, tengan o no papeles, y reforzar la atención primaria con listas de espera máximas fijadas por ley.",
   "citas": [
    {
     "texto": "Blindarem la gestió pública de la sanitat i impedirem la mercantilització de l’atenció sanitària i la privatització de la gestió dels serveis públics a través de la derogació de la Llei 15/1997.",
@@ -122,14 +128,17 @@
     "traduccion": "Reforzaremos la atención primaria, la salud comunitaria y la prevención, fijando por ley básica una financiación mínima así como unas ratios de población y listas de espera máximas, y mejorando la continuidad asistencial."
    }
   ],
-  "seleccion": "Tres primeras medidas de Sanitat (p. 9), primer apartado del capítulo 2 («Serveis públics per a cuidar i protegir»)."
+  "seleccion": "Tres primeras medidas de Sanitat (p. 9), primer apartado del capítulo 2 («Serveis públics per a cuidar i protegir»).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "compromis",
   "tema": "educacion",
   "estado": "propuesta",
   "titular": "Subir la inversión en educación",
-  "resumen": "Propone acercar la inversión educativa al 7 % de lo que produce el país. Quiere prohibir ceder suelo público a colegios privados y que la concertada solo complemente la pública.",
+  "resumen": "Propone acercar la inversión educativa al 7 % del PIB (producción del país). Quiere prohibir ceder suelo público a colegios privados y que la concertada solo complemente la pública.",
   "citas": [
    {
     "texto": "Exigirem recursos per a una educació pública de qualitat, amb millora de la inclusió i de les condicions d’aprenentatge, augmentant la inversió educativa estatal i les transferències a les comunitats autònomes, amb l’objectiu d’avançar cap a una inversió educativa equivalent al 7% del PIB estatal.",
@@ -224,7 +233,7 @@
   "tema": "territorio",
   "estado": "propuesta",
   "titular": "Cambiar la financiación regional",
-  "resumen": "Propone reformar la financiación autonómica, que considera insuficiente para los valencianos. Plantea un concierto económico o que la Generalitat recaude la mayoría de impuestos. Quiere ampliar el autogobierno valenciano.",
+  "resumen": "Propone reformar la financiación autonómica, que considera insuficiente para los valencianos. Plantea un concierto económico o que la Generalitat Valenciana recaude la mayoría de impuestos. Quiere ampliar el autogobierno valenciano.",
   "citas": [
    {
     "texto": "Reformarem el sistema de finançament autonòmic per a que atenga a criteris poblacionals i de prestació dels serveis públics i desenvolupament competencial, per tal d’acabar amb l’infrafinançament valencià.",
@@ -242,6 +251,9 @@
     "traduccion": "Avanzaremos en el despliegue del autogobierno y en el traspaso a la Generalitat Valenciana de las competencias que permiten gestionar mejor los servicios y las infraestructuras que afectan directamente al territorio."
    }
   ],
-  "seleccion": "Dos primeras medidas de Model de finançament autonòmic i inversions (p. 57) y primera de Model d'Estat (p. 59), los dos apartados del tema en el capítulo 6 («Un país amb veu pròpia i recursos suficients»)."
+  "seleccion": "Dos primeras medidas de Model de finançament autonòmic i inversions (p. 57) y primera de Model d'Estat (p. 59), los dos apartados del tema en el capítulo 6 («Un país amb veu pròpia i recursos suficients»).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  }
 ]

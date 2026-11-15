@@ -53,8 +53,8 @@
   "partido": "bng",
   "tema": "economia",
   "estado": "propuesta",
-  "titular": "Regular precios de los alimentos",
-  "resumen": "Propone regular por ley el precio de los alimentos básicos y fijar un máximo para gasolina y diésel. Quiere una tarifa eléctrica gallega con rebaja de peajes de la red.",
+  "titular": "Regular precios de comida básica",
+  "resumen": "Propone regular por ley el precio de los alimentos básicos y fijar un máximo para gasolina y diésel. Quiere una tarifa eléctrica gallega con menos peajes por transportar la electricidad.",
   "citas": [
    {
     "texto": "Regular legalmente os prezos dos produtos básicos de alimentación, garantindo simultaneamente prezos accesíbeis para a maioría social e retribucións xustas para quen os produce.",
@@ -72,7 +72,10 @@
     "traduccion": "Impulsar una tarifa eléctrica gallega que tenga en cuenta, mediante una reducción de los peajes del transporte, el papel de Galicia como nación excedentaria en producción eléctrica, compensando el impacto ambiental y social derivado de su producción."
    }
   ],
-  "seleccion": "Medidas de precios del 2.4 (alimentos y carburantes, p. 21), que responden a la carestía y al precio de los combustibles que destaca la introducción (p. 4); tarifa eléctrica gallega, presente en los capítulos 1 (p. 9) y 4.6 (p. 54)."
+  "seleccion": "Medidas de precios del 2.4 (alimentos y carburantes, p. 21), que responden a la carestía y al precio de los combustibles que destaca la introducción (p. 4); tarifa eléctrica gallega, presente en los capítulos 1 (p. 9) y 4.6 (p. 54).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "bng",
@@ -129,7 +132,7 @@
   "tema": "educacion",
   "estado": "propuesta",
   "titular": "Que Galicia decida su educación",
-  "resumen": "Quiere leyes educativas propias para Galicia. Propone una sola red de enseñanza, la pública, de 0 a 18 años, y dedicar a educación el 7 % del producto interior bruto.",
+  "resumen": "Quiere leyes educativas gallegas. Propone una sola red, la pública, de 0 a 18 años, y dedicar a educación al menos el 7 % del PIB (producción del país).",
   "citas": [
    {
     "texto": "Estabelecer un marco educativo novo que supere as limitacións competenciais […] que Galiza poida organizar e ordenar o sistema educativo mediante unha Lei galega de educación que regule o noso sistema educativo até o Bacharelato, unha Lei galega de formación profesional",
@@ -147,7 +150,10 @@
     "traduccion": "Dotar al sistema educativo de mayores niveles de calidad, apostando por el crecimiento de los presupuestos destinados a la educación hasta dedicarle, como mínimo, el 7% del PIB."
    }
   ],
-  "seleccion": "Medidas 2.ª y 3.ª del 3.1 (p. 34; la 1.ª es la versión general de la 2.ª), las dos ideas de su introducción: leyes propias y red pública de 0 a 18 años (p. 33); la del 7 % del PIB, única cifra de gasto en enseñanza no universitaria (p. 35)."
+  "seleccion": "Medidas 2.ª y 3.ª del 3.1 (p. 34; la 1.ª es la versión general de la 2.ª), las dos ideas de su introducción: leyes propias y red pública de 0 a 18 años (p. 33); la del 7 % del PIB, única cifra de gasto en enseñanza no universitaria (p. 35).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "bng",
@@ -203,8 +209,8 @@
   "partido": "bng",
   "tema": "impuestos",
   "estado": "propuesta",
-  "titular": "Subir impuestos a rentas altas",
-  "resumen": "Propone que el capital y las rentas altas paguen más. Quiere el IVA de luz y gas al 5 % y mantener los impuestos a banca, energéticas y grandes fortunas.",
+  "titular": "Gravar más las rentas altas",
+  "resumen": "Propone que capital y rentas altas paguen más. Quiere IVA al 5 % en luz y gas, y hacer permanentes y ampliar los impuestos a banca, energéticas y grandes fortunas.",
   "citas": [
    {
     "texto": "defendemos promover reformas na lexislación estatal para lograr un incremento da progresividade na tributación dos rendementos do capital e das rendas máis altas",
@@ -222,13 +228,16 @@
     "traduccion": "Blindar la permanencia de los impuestos específicos a los beneficios de la banca, de las grandes energéticas y a las grandes fortunas, reducir los límites de exención, aumentar su progresividad y traspasar su gestión a Galicia."
    }
   ],
-  "seleccion": "Objetivo que fija la introducción del 4.1 (p. 43); el IVA de suministros al 5 % por ser cifra concreta; los impuestos a banca, energéticas y fortunas porque responden a la pregunta (p. 44)."
+  "seleccion": "Objetivo que fija la introducción del 4.1 (p. 43); el IVA de suministros al 5 % por ser cifra concreta; los impuestos a banca, energéticas y fortunas porque responden a la pregunta (p. 44).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "bng",
   "tema": "territorio",
   "estado": "propuesta",
-  "titular": "Que Galicia cobre sus impuestos",
+  "titular": "Que Galicia cobre los impuestos",
   "resumen": "Propone un concierto económico: que Galicia recaude todos los impuestos y decida cómo invertirlos. Pide todos los traspasos pendientes del Estado. Quiere permitir referendos vinculantes, también sobre autodeterminación.",
   "citas": [
    {
@@ -247,6 +256,9 @@
     "traduccion": "Impulsar la participación directa a través de consultas populares. En este sentido, promoveremos y apoyaremos los cambios legales precisos que hagan posible la convocatoria de referendos vinculantes en asuntos de interés, incluido el derecho de autodeterminación"
    }
   ],
-  "seleccion": "Primera medida del capítulo 1, «Máis forza para Galiza» (p. 8), la que cierra su lista de traspasos (p. 10) y la de referendos del 2.8.3 (p. 32), que incluye la autodeterminación."
+  "seleccion": "Primera medida del capítulo 1, «Máis forza para Galiza» (p. 8), la que cierra su lista de traspasos (p. 10) y la de referendos del 2.8.3 (p. 32), que incluye la autodeterminación.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  }
 ]

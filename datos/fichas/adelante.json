@@ -26,7 +26,7 @@
   "tema": "inmigracion",
   "estado": "propuesta",
   "titular": "Derogar la Ley de Extranjería",
-  "resumen": "Propone derogar la Ley de Extranjería y aprobar una nueva basada en derechos. Plantea una regularización extraordinaria y cerrar los centros de internamiento de extranjeros, empezando por Algeciras.",
+  "resumen": "Propone derogar la Ley de Extranjería, una regularización extraordinaria y cerrar los centros de internamiento de extranjeros, empezando por el de Algeciras.",
   "citas": [
    {
     "texto": "Derogación de la Ley de Extranjería, regularización extraordinaria y cierre de los CIE, empezando por Algeciras.",
@@ -37,7 +37,10 @@
     "pagina_pdf": 106
    }
   ],
-  "seleccion": "Medida 25 de «Las 29» (p. 28), la única del tema en esa lista, y la primera propuesta del 9.1 (547, p. 106), que la desarrolla."
+  "seleccion": "Medida 25 de «Las 29» (p. 28), la única del tema en esa lista, y la primera propuesta del 9.1 (547, p. 106), que la desarrolla.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "adelante",
@@ -66,7 +69,7 @@
   "tema": "empleo",
   "estado": "propuesta",
   "titular": "Reducir la jornada a 32 horas",
-  "resumen": "Propone una jornada de 32 horas sin bajar el sueldo, en dos a cuatro años. Quiere prohibir el turno partido y que salarios y salario mínimo suban con los precios.",
+  "resumen": "Propone una jornada de 32 horas y que salarios y salario mínimo suban con los precios, por ley. Quiere prohibir el turno partido sin rebaja de salario.",
   "citas": [
    {
     "texto": "jornada de 32 horas y salarios que suban con los precios.",
@@ -81,14 +84,17 @@
     "pagina_pdf": 9
    }
   ],
-  "seleccion": "Medidas 4, 5 y 6 de «Las 29» (p. 7-9), las tres primeras de empleo; la entradilla del área 2 (p. 57) destaca la 4 y la 6; detalle de la 268, primera del 2.5 (p. 63). La 8 (autónomos) queda fuera por el máximo de tres."
+  "seleccion": "Medidas 4, 5 y 6 de «Las 29» (p. 7-9), las tres primeras de empleo; la entradilla del área 2 (p. 57) destaca la 4 y la 6; detalle de la 268, primera del 2.5 (p. 63). La 8 (autónomos) queda fuera por el máximo de tres.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "adelante",
   "tema": "sanidad",
   "estado": "propuesta",
   "titular": "Hacer 100 % pública la sanidad",
-  "resumen": "Propone una sanidad 100 % pública, sin conciertos con la sanidad privada. Quiere cita en atención primaria en 48 horas y en salud mental en 15 días.",
+  "resumen": "Propone una sanidad 100 % pública, sin conciertos con la privada, con gasto mínimo del 8 % del PIB (producción del país). Quiere cita en atención primaria en 48 horas.",
   "citas": [
    {
     "texto": "Sanidad 100 % pública, con un suelo de gasto del 8 % del PIB fijado por ley, derogación de la Ley 15/1997 y fin de los conciertos y externalizaciones",
@@ -103,14 +109,17 @@
     "pagina_pdf": 39
    }
   ],
-  "seleccion": "Medidas 11 y 13 de «Las 29» (p. 14 y 16), que coinciden con las primeras del 1.1; la 13 citada en su desarrollo (entradilla de atención primaria, p. 36, y propuesta 37, p. 39). La 12 es un impuesto y va a Impuestos."
+  "seleccion": "Medidas 11 y 13 de «Las 29» (p. 14 y 16), que coinciden con las primeras del 1.1; la 13 citada en su desarrollo (entradilla de atención primaria, p. 36, y propuesta 37, p. 39). La 12 es un impuesto y va a Impuestos.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "adelante",
   "tema": "educacion",
   "estado": "propuesta",
   "titular": "Avanzar a una sola red pública",
-  "resumen": "Propone avanzar hacia una sola red educativa pública, laica y gratuita. Quiere escuela infantil de 0 a 3 años pública y gratuita y ninguna universidad privada más.",
+  "resumen": "Propone avanzar hacia una sola red educativa pública, laica y gratuita, con al menos el 5 % del PIB (producción del país). Quiere escuela de 0-3 años pública y gratuita.",
   "citas": [
    {
     "texto": "La educación pública tendrá un suelo del 5 % del PIB y avanzaremos hacia una sola red pública, laica y gratuita, con un plan de transición para los conciertos.",
@@ -125,7 +134,10 @@
     "pagina_pdf": 19
    }
   ],
-  "seleccion": "Medidas 14, 15 y 16 de «Las 29»: la 14 a través de la entradilla del 1.2 (p. 42), la 15 con la entradilla de Infantil 0–3 (p. 44) y la 16 en su propia página (p. 19)."
+  "seleccion": "Medidas 14, 15 y 16 de «Las 29»: la 14 a través de la entradilla del 1.2 (p. 42), la 15 con la entradilla de Infantil 0–3 (p. 44) y la 16 en su propia página (p. 19).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "adelante",
@@ -150,7 +162,7 @@
   "tema": "pensiones",
   "estado": "propuesta",
   "titular": "Subir pensiones con los precios",
-  "resumen": "Propone blindar las pensiones públicas en la Constitución y subirlas por ley con los precios. Quiere pensiones mínimas iguales al salario mínimo neto y jubilación a los 64 años.",
+  "resumen": "Propone recoger en la Constitución las pensiones públicas y subirlas por ley con los precios. Quiere pensiones mínimas iguales al salario mínimo neto y jubilación a los 64 años.",
   "citas": [
    {
     "texto": "Un sistema público blindado en la Constitución y revalorizado con el IPC real por ley",
@@ -165,7 +177,10 @@
     "pagina_pdf": 13
    }
   ],
-  "seleccion": "Medida 10 de «Las 29» (p. 13): sus tres primeras partes, y las dos primeras las destaca también la entradilla del 1.7 (p. 55). La jubilación completa con 40 años cotizados queda fuera por el máximo de tres."
+  "seleccion": "Medida 10 de «Las 29» (p. 13): sus tres primeras partes, y las dos primeras las destaca también la entradilla del 1.7 (p. 55). La jubilación completa con 40 años cotizados queda fuera por el máximo de tres.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "adelante",
@@ -186,7 +201,7 @@
   "tema": "territorio",
   "estado": "propuesta",
   "titular": "Reformar la financiación",
-  "resumen": "Propone que la financiación no garantice a las comunidades más ricas seguir recibiendo más. Quiere que se pague la «deuda histórica» con Andalucía y que tenga el máximo autogobierno.",
+  "resumen": "Propone que la financiación no garantice a las comunidades más ricas seguir recibiendo más. Quiere que se pague la «deuda histórica» que reconoce el Estatuto y el máximo autogobierno.",
   "citas": [
    {
     "texto": "El nuevo sistema no garantizará a las comunidades más ricas que sigan recibiendo más.",
@@ -201,6 +216,9 @@
     "pagina_pdf": 24
    }
   ],
-  "seleccion": "Medidas 20 y 21 de «Las 29» (p. 23 y 24): de la 20, su primera idea (sin ordinalidad, citada con la 337, primera del 3.1, p. 72) y la deuda histórica; la 21, máximo autogobierno."
+  "seleccion": "Medidas 20 y 21 de «Las 29» (p. 23 y 24): de la 20, su primera idea (sin ordinalidad, citada con la 337, primera del 3.1, p. 72) y la deuda histórica; la 21, máximo autogobierno.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  }
 ]

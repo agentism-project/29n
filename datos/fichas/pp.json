@@ -4,7 +4,7 @@
   "tema": "vivienda",
   "estado": "propuesta",
   "titular": "Construir un millón de viviendas",
-  "resumen": "Propone construir un millón de viviendas, movilizando suelo y agilizando trámites. Quiere derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios del alquiler.",
+  "resumen": "Propone construir un millón de viviendas y agilizar trámites. Quiere derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios, que permiten limitar el alquiler.",
   "citas": [
    {
     "texto": "CONSTRUIREMOS UN MILLÓN DE VIVIENDAS. Movilizaremos suelo público y privado en colaboración con las Comunidades Autónomas y las entidades locales. Aprobaremos una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
@@ -19,7 +19,10 @@
     "pagina_pdf": 42
    }
   ],
-  "seleccion": "Primeras medidas del apartado 4.1 (144, 145 y 146), cuyo título anuncia el millón de viviendas (p. 41)."
+  "seleccion": "Primeras medidas del apartado 4.1 (144, 145 y 146), cuyo título anuncia el millón de viviendas (p. 41).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "pp",
@@ -70,7 +73,7 @@
   "tema": "empleo",
   "estado": "propuesta",
   "titular": "Dar un cheque de formación",
-  "resumen": "Propone que cada trabajador tenga un cheque para formarse en inteligencia artificial. Quiere que los nuevos autónomos no paguen cuota el primer año y abaratar sus dos primeras contrataciones.",
+  "resumen": "Propone que cada trabajador tenga un cheque para formarse en inteligencia artificial. Quiere que los nuevos autónomos no paguen cuota el primer año y abaratar las dos primeras contrataciones.",
   "citas": [
    {
     "texto": "LA INTELIGENCIA ARTIFICIAL AMPLIARÁ LAS OPORTUNIDADES DE TRABAJAR, Y CADA TRABAJADOR TENDRÁ UN CHEQUE PARA FORMARSE EN ELLA. […] Cada trabajador tendrá un cheque de formación, que conservará, aunque cambie de empresa, para formarse donde elija.",
@@ -81,11 +84,14 @@
     "pagina_pdf": 46
    },
    {
-    "texto": "SI ERES AUTÓNOMO Y FACTURAS MENOS DE 85.000 EUROS, NO TENDRÁS QUE COBRAR NI DECLARAR EL IVA. […] Contratar dejará de ser un salto al vacío: bonificaremos el 100% de las cotizaciones empresariales por el primer trabajador durante un año y el 50% por el segundo.",
+    "texto": "Contratar dejará de ser un salto al vacío: bonificaremos el 100% de las cotizaciones empresariales por el primer trabajador durante un año y el 50% por el segundo.",
     "pagina_pdf": 46
    }
   ],
-  "seleccion": "Primeras medidas del 4.3 (169, 170 y 171; de la 171 solo la contratación, su IVA es de Impuestos); la introducción del bloque 4 destaca la cuota de autónomos (p. 41)."
+  "seleccion": "Primeras medidas del 4.3 (169, 170 y 171; de la 171 solo la contratación, su IVA es de Impuestos); la introducción del bloque 4 destaca la cuota de autónomos (p. 41).",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "pp",
@@ -157,8 +163,8 @@
   "partido": "pp",
   "tema": "pensiones",
   "estado": "propuesta",
-  "titular": "Subir las pensiones cada año",
-  "resumen": "Quiere subir las pensiones cada año con los precios (IPC) y que las futuras pensiones de los jóvenes mantengan su poder de compra. Propone reconstruir el Pacto de Toledo.",
+  "titular": "Subir pensiones con los precios",
+  "resumen": "Quiere subir las pensiones cada año con los precios, también las futuras de los jóvenes. Propone reconstruir el Pacto de Toledo, el acuerdo entre partidos sobre pensiones.",
   "citas": [
    {
     "texto": "GARANTIZAREMOS LAS PENSIONES DE HOY Y SU FUTURO.Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista.",
@@ -169,7 +175,10 @@
     "pagina_pdf": 34
    }
   ],
-  "seleccion": "La 108 (apartado 3.2, pacto entre generaciones) es la única medida dedicada a las pensiones de jubilación."
+  "seleccion": "La 108 (apartado 3.2, pacto entre generaciones) es la única medida dedicada a las pensiones de jubilación.",
+  "revision": [
+   "2026-11-16: corregida tras la revisión ciega"
+  ]
  },
  {
   "partido": "pp",
