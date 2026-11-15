@@ -1,0 +1,218 @@
+[
+ {
+  "partido": "pp",
+  "tema": "vivienda",
+  "estado": "propuesta",
+  "titular": "Construir un millón de viviendas",
+  "resumen": "Propone construir un millón de viviendas, movilizando suelo y agilizando trámites. Quiere derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios del alquiler.",
+  "citas": [
+   {
+    "texto": "CONSTRUIREMOS UN MILLÓN DE VIVIENDAS. Movilizaremos suelo público y privado en colaboración con las Comunidades Autónomas y las entidades locales. Aprobaremos una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
+    "pagina_pdf": 41
+   },
+   {
+    "texto": "DEROGAREMOS LA LEY DE VIVIENDA. Recuperaremos la seguridad jurídica que necesitan propietarios e inquilinos. Eliminaremos las zonas tensionadas y el índice de precios, que han introducido más intervención, más incertidumbre y menos oferta en el mercado del alquiler.",
+    "pagina_pdf": 42
+   },
+   {
+    "texto": "IMPULSAREMOS LOS PROYECTOS RESIDENCIALES ESTRATÉGICOS PARA CONSTRUIR ANTES. Crearemos, con las Comunidades Autónomas y los ayuntamientos, una figura urbanística que unifique los trámites de planeamiento, gestión y ejecución de los grandes desarrollos de vivienda",
+    "pagina_pdf": 42
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado 4.1 (144, 145 y 146), cuyo título anuncia el millón de viviendas (p. 41)."
+ },
+ {
+  "partido": "pp",
+  "tema": "inmigracion",
+  "estado": "propuesta",
+  "titular": "Reforzar las fronteras",
+  "resumen": "Propone una autoridad única de inmigración y más agentes en las fronteras, con apoyo militar si lo exige la seguridad. Quiere visados por puntos según formación, idioma e integración.",
+  "citas": [
+   {
+    "texto": "HABRÁ UNA AUTORIDAD ÚNICA PARA TODA LA POLÍTICA MIGRATORIA. Una autoridad única dirigirá la entrada, la permanencia, el retorno y la integración, y coordinará a los departamentos implicados y al resto de administraciones.",
+    "pagina_pdf": 18
+   },
+   {
+    "texto": "LA FRONTERA SUR TENDRÁ MÁS AGENTES Y EL APOYO DE LAS FUERZAS ARMADAS. Reforzaremos efectivos, vigilancia e infraestructuras en las fronteras terrestres, marítimas y aeroportuarias. […] Las Fuerzas Armadas apoyarán en la frontera cuando lo exija la seguridad nacional",
+    "pagina_pdf": 18
+   },
+   {
+    "texto": "SÓLO FUNCIONARÁ LA VÍA LEGAL DE ACCESO A ESPAÑA. Implantaremos visados por puntos que valoren la formación, la experiencia, el idioma y la integración.",
+    "pagina_pdf": 19
+   }
+  ],
+  "seleccion": "Primeras medidas del 1.5 (35 y 36), el apartado de fronteras que destaca la presentación (p. 9), y primera del 1.6 (40)."
+ },
+ {
+  "partido": "pp",
+  "tema": "economia",
+  "estado": "propuesta",
+  "titular": "Hacer la economía más productiva",
+  "resumen": "Quiere una economía más productiva, con un test de productividad para normas económicas nuevas. Propone alargar la vida de las nucleares y una tarifa social de energía para hogares vulnerables.",
+  "citas": [
+   {
+    "texto": "TODA NUEVA NORMA ECONÓMICA PASARÁ UN TEST DE PRODUCTIVIDAD. Acercarnos al nivel de vida de los países más prósperos de Europa exige una economía más productiva.",
+    "pagina_pdf": 48
+   },
+   {
+    "texto": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO. En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil con el visto bueno del Consejo de Seguridad Nuclear, garantizando la seguridad de las instalaciones.",
+    "pagina_pdf": 54
+   },
+   {
+    "texto": "Los hogares más vulnerables tendrán una Tarifa Social Única que sustituirá y mejorará los actuales bonos eléctrico y térmico. La ayuda llegará a quienes la necesitan y será compatible con cualquier contrato de luz y gas.",
+    "pagina_pdf": 54
+   }
+  ],
+  "seleccion": "Primera medida del 4.5, productividad (186), y del 4.9, energía (228); de la 229 solo la tarifa social, que responde a la factura: su rebaja fiscal del recibo es materia de Impuestos."
+ },
+ {
+  "partido": "pp",
+  "tema": "empleo",
+  "estado": "propuesta",
+  "titular": "Dar un cheque de formación",
+  "resumen": "Propone que cada trabajador tenga un cheque para formarse en inteligencia artificial. Quiere que los nuevos autónomos no paguen cuota el primer año y abaratar sus dos primeras contrataciones.",
+  "citas": [
+   {
+    "texto": "LA INTELIGENCIA ARTIFICIAL AMPLIARÁ LAS OPORTUNIDADES DE TRABAJAR, Y CADA TRABAJADOR TENDRÁ UN CHEQUE PARA FORMARSE EN ELLA. […] Cada trabajador tendrá un cheque de formación, que conservará, aunque cambie de empresa, para formarse donde elija.",
+    "pagina_pdf": 45
+   },
+   {
+    "texto": "DEJAREMOS EMPRENDER A QUIEN QUIERA EMPRENDER.Los nuevos autónomos no pagarán cuota a la Seguridad Social durante su primer año, ni durante el segundo si sus ingresos no llegan al salario mínimo.",
+    "pagina_pdf": 46
+   },
+   {
+    "texto": "SI ERES AUTÓNOMO Y FACTURAS MENOS DE 85.000 EUROS, NO TENDRÁS QUE COBRAR NI DECLARAR EL IVA. […] Contratar dejará de ser un salto al vacío: bonificaremos el 100% de las cotizaciones empresariales por el primer trabajador durante un año y el 50% por el segundo.",
+    "pagina_pdf": 46
+   }
+  ],
+  "seleccion": "Primeras medidas del 4.3 (169, 170 y 171; de la 171 solo la contratación, su IVA es de Impuestos); la introducción del bloque 4 destaca la cuota de autónomos (p. 41)."
+ },
+ {
+  "partido": "pp",
+  "tema": "sanidad",
+  "estado": "propuesta",
+  "titular": "Reducir las listas de espera",
+  "resumen": "Propone un plan urgente contra las listas de espera, acordado con las comunidades autónomas. Quiere al menos 4.500 médicos más en atención primaria y un plan de salud mental.",
+  "citas": [
+   {
+    "texto": "REDUCIREMOS LAS LISTAS DE ESPERA Y ASEGURAREMOS LA FINANCIACIÓN SANITARIA. […] pondremos en marcha, de acuerdo con las Comunidades Autónomas y respetando sus competencias de gestión, un plan urgente de reducción de listas de espera para asegurar una atención ágil y de calidad.",
+    "pagina_pdf": 52
+   },
+   {
+    "texto": "Incorporaremos, en coordinación con las Comunidades Autónomas, más profesionales al Sistema Nacional de Salud —médicos, enfermeras y resto de profesionales sanitarios— para contar con las plantillas que se necesitan hoy y en el futuro. En Atención Primaria, al menos 4.500 médicos más.",
+    "pagina_pdf": 52
+   },
+   {
+    "texto": "TAMBIÉN HABRÁ MÁS PROFESIONALES Y MÁS ATENCIÓN A LA SALUD MENTAL. Aprobaremos un Plan Nacional de Salud Mental 2027-2037, con financiación garantizada, para que deje de ser una asignatura pendiente de nuestro Estado del bienestar.",
+    "pagina_pdf": 53
+   }
+  ],
+  "seleccion": "Primeras medidas del 4.8 (219 y 220) y la 223, la siguiente con plazo y financiación concretos (plan 2027-2037)."
+ },
+ {
+  "partido": "pp",
+  "tema": "educacion",
+  "estado": "propuesta",
+  "titular": "Sustituir la ley educativa",
+  "resumen": "Quiere que todos salgan de primaria leyendo y calculando bien y sustituir la ley educativa LOMLOE. Propone nota mínima para estudiar Magisterio y que los padres elijan colegio.",
+  "citas": [
+   {
+    "texto": "NINGÚN ALUMNO SE QUEDARÁ ATRÁS: TODOS SALDRÁN DE PRIMARIA LEYENDO Y CALCULANDO BIEN. Acordaremos con docentes, inspectores, expertos y familias un nuevo marco educativo que sustituya a la LOMLOE.",
+    "pagina_pdf": 51
+   },
+   {
+    "texto": "SER PROFESOR SERÁ UNA CARRERA DE PRESTIGIO, CON AUTORIDAD EN EL AULA. Prestigiaremos la profesión docente, exigiremos una nota mínima para acceder al grado de Magisterio",
+    "pagina_pdf": 51
+   },
+   {
+    "texto": "LOS PADRES ELEGIRÁN COLEGIO, Y NINGÚN CONCIERTO EDUCATIVO SE ELIMINARÁ DONDE HAYA DEMANDA SUFICIENTE. La demanda de las familias volverá a contar para programar las plazas, y se podrá elegir centro en todo el municipio de residencia, con criterios públicos.",
+    "pagina_pdf": 51
+   }
+  ],
+  "seleccion": "Primeras medidas del 4.7 (209, 211 y 212; la 210 es un hueco «Permanezca atento a la campaña»)."
+ },
+ {
+  "partido": "pp",
+  "tema": "regeneracion",
+  "estado": "propuesta",
+  "titular": "Recuperar penas por malversación",
+  "resumen": "Propone restablecer las penas por malversación y recuperar bienes de la corrupción. Quiere más control del voto por correo y excluir del Tribunal Constitucional a quien tuvo cargos políticos recientes.",
+  "citas": [
+   {
+    "texto": "LOS CORRUPTOS DEVOLVERÁN LO ROBADO. Restableceremos las penas por malversación. Reforzaremos la Oficina de Recuperación y Gestión de Activos para localizar y administrar los bienes procedentes de los delitos que se hayan cometido.",
+    "pagina_pdf": 28
+   },
+   {
+    "texto": "REFORZAREMOS EL CONTROL DEL VOTO POR CORREO EN TODO SU RECORRIDO. Garantizaremos el ejercicio efectivo y seguro del derecho al voto por correo. La Administración electoral reforzará el control y la supervisión de la recepción, custodia y entrega de los votos por parte de Correos.",
+    "pagina_pdf": 24
+   },
+   {
+    "texto": "LA INDEPENDENCIA DEL TRIBUNAL CONSTITUCIONAL ES UNA PRIORIDAD DEMOCRÁTICA. […] Ningún candidato podrá haber ocupado cargos políticos durante los cinco años anteriores y estableceremos un régimen estricto de incompatibilidades.",
+    "pagina_pdf": 26
+   }
+  ],
+  "seleccion": "Primera medida del 2.4, sobre corrupción (82), que destaca la introducción del bloque 2 (p. 24); primeras del 2.1 (56) y del 2.3 (67)."
+ },
+ {
+  "partido": "pp",
+  "tema": "pensiones",
+  "estado": "propuesta",
+  "titular": "Subir las pensiones cada año",
+  "resumen": "Quiere subir las pensiones cada año con los precios (IPC) y que las futuras pensiones de los jóvenes mantengan su poder de compra. Propone reconstruir el Pacto de Toledo.",
+  "citas": [
+   {
+    "texto": "GARANTIZAREMOS LAS PENSIONES DE HOY Y SU FUTURO.Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista.",
+    "pagina_pdf": 34
+   },
+   {
+    "texto": "Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC. Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo. Incentivaremos la jubilación activa mediante deducciones en el IRPF.",
+    "pagina_pdf": 34
+   }
+  ],
+  "seleccion": "La 108 (apartado 3.2, pacto entre generaciones) es la única medida dedicada a las pensiones de jubilación."
+ },
+ {
+  "partido": "pp",
+  "tema": "impuestos",
+  "estado": "propuesta",
+  "titular": "Bajar el impuesto sobre la renta",
+  "resumen": "Propone bajar el impuesto sobre la renta a rentas medias y bajas y a jóvenes, y actualizarlo con la inflación. Quiere que no lo pague quien cobre el salario mínimo.",
+  "citas": [
+   {
+    "texto": "Elevaremos los mínimos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias. Quien cobre el salario mínimo no pagará IRPF: por ley, el umbral subirá automáticamente cada vez que suba el SMI",
+    "pagina_pdf": 47
+   },
+   {
+    "texto": "fue la decisión de no actualizar el IRPF mientras los precios crecían casi un 30%. Deflactaremos la tarifa y actualizaremos los principales parámetros del impuesto para impedir que la inflación vuelva a utilizarse como una subida encubierta de impuestos.",
+    "pagina_pdf": 47
+   },
+   {
+    "texto": "Reduciremos el IRPF de los trabajadores y autónomos de 18 a 35 años durante los cuatro primeros años en que paguen IRPF. La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto.",
+    "pagina_pdf": 47
+   }
+  ],
+  "seleccion": "Primeras medidas del 4.4 (177, 178 y 179), el apartado «Los españoles pagarán menos impuestos»."
+ },
+ {
+  "partido": "pp",
+  "tema": "territorio",
+  "estado": "propuesta",
+  "titular": "Acordar la financiación regional",
+  "resumen": "Propone un nuevo modelo de financiación autonómica, acordado entre todos y llevado a las Cortes. Plantea que ninguna comunidad salga del sistema común y cada una responda de su deuda.",
+  "citas": [
+   {
+    "texto": "Convocaremos la Conferencia de Presidentes al inicio de la legislatura para sentar las bases de un nuevo modelo de financiación autonómica, que se acordará de manera multilateral en el Consejo de Política Fiscal y Financiera y se llevará a las Cortes.",
+    "pagina_pdf": 33
+   },
+   {
+    "texto": "Ninguna de las Comunidades que actualmente integran el régimen común saldrá de él ni habrá nuevos regímenes singulares negociados bilateralmente al margen de este sistema. Lo que es de todos se decidirá entre todos, en los foros multilaterales previstos para ello.",
+    "pagina_pdf": 33
+   },
+   {
+    "texto": "CADA COMUNIDAD AUTÓNOMA RESPONDERÁ DE SU DEUDA. Cada Comunidad responderá de sus decisiones y de su deuda. Trabajaremos de forma multilateral, en el Consejo de Política Fiscal y Financiera y con las mismas reglas para todas, en una reestructuración de la deuda de las Comunidades Autónomas.",
+    "pagina_pdf": 33
+   }
+  ],
+  "seleccion": "Primeras medidas del pacto territorial del 3.2 (100, 101 y 102), las que anuncia su entradilla: reglas comunes y responsabilidad de cada comunidad (p. 33)."
+ }
+]

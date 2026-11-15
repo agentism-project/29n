@@ -2,5 +2,7 @@
 fuentes/**/*.pdf
 # Texto extraído para verificar citas (se regenera desde los PDF)
 fuentes/texto/
+# Paquete y clave de la revisión ciega (se regeneran)
+revision/
 node_modules/
 __pycache__/

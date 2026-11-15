@@ -38,7 +38,7 @@ MIN_RESUMEN = 20
 MAX_RESUMEN = 30
 MAX_CITAS = 3
 MAX_CITA_CARACTERES = 300
-SIGLAS_OK = {"IVA"}
+SIGLAS_OK = {"IVA", "PIB"}
 ESTADOS = {"propuesta", "sin_propuesta", "pendiente"}
 COMILLAS = {"“": '"', "”": '"', "«": '"', "»": '"',
             "‘": "'", "’": "'", "–": "-", "—": "-"}
@@ -46,7 +46,8 @@ COMILLAS = {"“": '"', "”": '"', "«": '"', "»": '"',
 
 def normalizar(texto: str) -> str:
     t = unicodedata.normalize("NFKC", texto).replace("­", "")
-    t = re.sub(r"(\w)-\s*\n\s*(\w)", r"\1\2", t)
+    # Palabras cortadas a final de línea: «na-\ncional» y también «na -\ncional» (PDF de Vox).
+    t = re.sub(r"(\w) ?-\s*\n\s*(\w)", r"\1\2", t)
     for a, b in COMILLAS.items():
         t = t.replace(a, b)
     return re.sub(r"\s+", " ", t).strip().casefold()

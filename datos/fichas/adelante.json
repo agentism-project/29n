@@ -1,0 +1,206 @@
+[
+ {
+  "partido": "adelante",
+  "tema": "vivienda",
+  "estado": "propuesta",
+  "titular": "Alquiler máximo: 20 % del sueldo",
+  "resumen": "Propone que ningún alquiler supere el 20 % del salario, con contratos indefinidos. Quiere que los pisos de bancos y fondos sean públicos y prohibir que los fondos compren vivienda.",
+  "citas": [
+   {
+    "texto": "Ningún alquiler por encima del 20 % del salario y contratos indefinidos.",
+    "pagina_pdf": 4
+   },
+   {
+    "texto": "Desprivatización de todas las viviendas de bancos y fondos de inversión para la creación de un parque público de al menos el 9 % del total en régimen de alquiler accesible.",
+    "pagina_pdf": 4
+   },
+   {
+    "texto": "Prohibición de la compra especulativa y de que los fondos compren vivienda.",
+    "pagina_pdf": 4
+   }
+  ],
+  "seleccion": "Medida 1 de «Las 29» (p. 4): las viñetas 2.ª, 3.ª y 4.ª, las que llevan cifra o prohibición; la 1.ª (derecho exigible) es más general y la del impuesto a la vivienda vacía va a Impuestos. Ojo: la 161 (p. 49) concreta el 20 % como índice por zona sobre la renta media."
+ },
+ {
+  "partido": "adelante",
+  "tema": "inmigracion",
+  "estado": "propuesta",
+  "titular": "Derogar la Ley de Extranjería",
+  "resumen": "Propone derogar la Ley de Extranjería y aprobar una nueva basada en derechos. Plantea una regularización extraordinaria y cerrar los centros de internamiento de extranjeros, empezando por Algeciras.",
+  "citas": [
+   {
+    "texto": "Derogación de la Ley de Extranjería, regularización extraordinaria y cierre de los CIE, empezando por Algeciras.",
+    "pagina_pdf": 28
+   },
+   {
+    "texto": "Derogación de la ley actual y una nueva basada en derechos.",
+    "pagina_pdf": 106
+   }
+  ],
+  "seleccion": "Medida 25 de «Las 29» (p. 28), la única del tema en esa lista, y la primera propuesta del 9.1 (547, p. 106), que la desarrolla."
+ },
+ {
+  "partido": "adelante",
+  "tema": "economia",
+  "estado": "propuesta",
+  "titular": "Crear supermercados públicos",
+  "resumen": "Propone crear supermercados públicos con precios asequibles en productos básicos y una banca pública que preste a pymes y autónomos. Quiere «desprivatizar» la energía y crear una empresa pública andaluza.",
+  "citas": [
+   {
+    "texto": "Creación de supermercados públicos que paguen precios justos a agricultores/as y ganaderos/as, potencien las cadenas cortas de distribución y garanticen precios asequibles en productos de primer necesidad a toda la población.",
+    "pagina_pdf": 12
+   },
+   {
+    "texto": "Entidad pública con control democrático que dé crédito a pymes, personas autónomas, cooperativas y vivienda pública, con cuentas básicas gratuitas.",
+    "pagina_pdf": 61
+   },
+   {
+    "texto": "Desprivatizar la energía y crear una empresa pública andaluza de energía",
+    "pagina_pdf": 22
+   }
+  ],
+  "seleccion": "Las tres medidas de «Las 29» dentro del tema: 9 (supermercados, p. 12), 18 (banca pública, desarrollada en la 255, p. 61, y destacada en la entradilla del área 2, p. 57) y 19 (energía, p. 22)."
+ },
+ {
+  "partido": "adelante",
+  "tema": "empleo",
+  "estado": "propuesta",
+  "titular": "Reducir la jornada a 32 horas",
+  "resumen": "Propone una jornada de 32 horas sin bajar el sueldo, en dos a cuatro años. Quiere prohibir el turno partido y que salarios y salario mínimo suban con los precios.",
+  "citas": [
+   {
+    "texto": "jornada de 32 horas y salarios que suban con los precios.",
+    "pagina_pdf": 57
+   },
+   {
+    "texto": "Sin rebaja de sueldo, en dos años en las grandes empresas y en cuatro en las pymes, con apoyo público para reorganizarse, y prohibición del turno partido sin rebaja de salario.",
+    "pagina_pdf": 63
+   },
+   {
+    "texto": "Salarios y salario mínimo ligados a la inflación por ley.",
+    "pagina_pdf": 9
+   }
+  ],
+  "seleccion": "Medidas 4, 5 y 6 de «Las 29» (p. 7-9), las tres primeras de empleo; la entradilla del área 2 (p. 57) destaca la 4 y la 6; detalle de la 268, primera del 2.5 (p. 63). La 8 (autónomos) queda fuera por el máximo de tres."
+ },
+ {
+  "partido": "adelante",
+  "tema": "sanidad",
+  "estado": "propuesta",
+  "titular": "Hacer 100 % pública la sanidad",
+  "resumen": "Propone una sanidad 100 % pública, sin conciertos con la sanidad privada. Quiere cita en atención primaria en 48 horas y en salud mental en 15 días.",
+  "citas": [
+   {
+    "texto": "Sanidad 100 % pública, con un suelo de gasto del 8 % del PIB fijado por ley, derogación de la Ley 15/1997 y fin de los conciertos y externalizaciones",
+    "pagina_pdf": 14
+   },
+   {
+    "texto": "La atención primaria será el centro del sistema: cita en 48 horas, al menos 10 minutos por paciente",
+    "pagina_pdf": 36
+   },
+   {
+    "texto": "Cita en salud mental comunitaria en un máximo de 15 días desde la derivación",
+    "pagina_pdf": 39
+   }
+  ],
+  "seleccion": "Medidas 11 y 13 de «Las 29» (p. 14 y 16), que coinciden con las primeras del 1.1; la 13 citada en su desarrollo (entradilla de atención primaria, p. 36, y propuesta 37, p. 39). La 12 es un impuesto y va a Impuestos."
+ },
+ {
+  "partido": "adelante",
+  "tema": "educacion",
+  "estado": "propuesta",
+  "titular": "Avanzar a una sola red pública",
+  "resumen": "Propone avanzar hacia una sola red educativa pública, laica y gratuita. Quiere escuela infantil de 0 a 3 años pública y gratuita y ninguna universidad privada más.",
+  "citas": [
+   {
+    "texto": "La educación pública tendrá un suelo del 5 % del PIB y avanzaremos hacia una sola red pública, laica y gratuita, con un plan de transición para los conciertos.",
+    "pagina_pdf": 42
+   },
+   {
+    "texto": "La etapa 0–3 será universal, pública y gratuita",
+    "pagina_pdf": 44
+   },
+   {
+    "texto": "Ninguna universidad privada más y ni un euro público desviado a la privada",
+    "pagina_pdf": 19
+   }
+  ],
+  "seleccion": "Medidas 14, 15 y 16 de «Las 29»: la 14 a través de la entradilla del 1.2 (p. 42), la 15 con la entradilla de Infantil 0–3 (p. 44) y la 16 en su propia página (p. 19)."
+ },
+ {
+  "partido": "adelante",
+  "tema": "regeneracion",
+  "estado": "propuesta",
+  "titular": "Pagar a cargos su sueldo previo",
+  "resumen": "Propone que los cargos públicos cobren lo que ganaban antes, o el salario medio si vienen del paro, sin pagas vitalicias. Quiere una autoridad independiente contra la corrupción.",
+  "citas": [
+   {
+    "texto": "Cobrarán lo que cobraban, sin pagas vitalicias y con una autoridad independiente contra la corrupción.",
+    "pagina_pdf": 26
+   },
+   {
+    "texto": "Los cargos públicos cobrarán lo mismo que ganaban antes, y quien venga del paro, el salario medio.",
+    "pagina_pdf": 90
+   }
+  ],
+  "seleccion": "Medida 23 de «Las 29» (p. 26), también en la entradilla del área 6 (p. 89), y la primera propuesta del 6.1 (453, p. 90), que la concreta."
+ },
+ {
+  "partido": "adelante",
+  "tema": "pensiones",
+  "estado": "propuesta",
+  "titular": "Subir pensiones con los precios",
+  "resumen": "Propone blindar las pensiones públicas en la Constitución y subirlas por ley con los precios. Quiere pensiones mínimas iguales al salario mínimo neto y jubilación a los 64 años.",
+  "citas": [
+   {
+    "texto": "Un sistema público blindado en la Constitución y revalorizado con el IPC real por ley",
+    "pagina_pdf": 13
+   },
+   {
+    "texto": "pensiones mínimas y no contributivas iguales al salario mínimo neto",
+    "pagina_pdf": 13
+   },
+   {
+    "texto": "jubilación a los 64 años, desde los 55 con contrato de relevo",
+    "pagina_pdf": 13
+   }
+  ],
+  "seleccion": "Medida 10 de «Las 29» (p. 13): sus tres primeras partes, y las dos primeras las destaca también la entradilla del 1.7 (p. 55). La jubilación completa con 40 años cotizados queda fuera por el máximo de tres."
+ },
+ {
+  "partido": "adelante",
+  "tema": "impuestos",
+  "estado": "propuesta",
+  "titular": "Gravar las grandes fortunas",
+  "resumen": "Propone gravar grandes fortunas, terratenientes y, de forma permanente, beneficios extraordinarios de banca y eléctricas. Quiere bajar el impuesto sobre la renta a rentas bajas y subirlo desde 100.000 euros.",
+  "citas": [
+   {
+    "texto": "Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.",
+    "pagina_pdf": 10
+   }
+  ],
+  "seleccion": "Medida 7 de «Las 29» (p. 10), la fiscal, desarrollada en las primeras del 2.1 (232, 233) y la 236. Otros impuestos de «Las 29» (vivienda vacía, sanidad privada) quedan fuera por el máximo de tres."
+ },
+ {
+  "partido": "adelante",
+  "tema": "territorio",
+  "estado": "propuesta",
+  "titular": "Reformar la financiación",
+  "resumen": "Propone que la financiación no garantice a las comunidades más ricas seguir recibiendo más. Quiere que se pague la «deuda histórica» con Andalucía y que tenga el máximo autogobierno.",
+  "citas": [
+   {
+    "texto": "El nuevo sistema no garantizará a las comunidades más ricas que sigan recibiendo más.",
+    "pagina_pdf": 72
+   },
+   {
+    "texto": "pago de la deuda histórica que reconoce el Estatuto",
+    "pagina_pdf": 23
+   },
+   {
+    "texto": "Exigimos el máximo nivel de autonomía y autogobierno en cualquier reforma.",
+    "pagina_pdf": 24
+   }
+  ],
+  "seleccion": "Medidas 20 y 21 de «Las 29» (p. 23 y 24): de la 20, su primera idea (sin ordinalidad, citada con la 337, primera del 3.1, p. 72) y la deuda histórica; la 21, máximo autogobierno."
+ }
+]

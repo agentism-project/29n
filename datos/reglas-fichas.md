@@ -38,8 +38,9 @@ No elijas por lo que te parezca más polémico, más llamativo o más importante
 }
 ```
 
-- **titular**: la propuesta principal, en infinitivo (o «Que … decida …» cuando la propuesta es quién decide algo) y en castellano llano, **máximo 32 caracteres** contando espacios. Sin adjetivos valorativos. Ej.: «Bajar el IVA de la luz al 10 %». Palabras que entienda alguien de 18 años: «competencias» → «que Euskadi decida sobre…»; «IPC» → «los precios». La única sigla permitida sin explicar es IVA.
+- **titular**: la propuesta principal, en infinitivo (o «Que … decida …» cuando la propuesta es quién decide algo) y en castellano llano, **máximo 32 caracteres** contando espacios. Sin adjetivos valorativos. Ej.: «Bajar el IVA de la luz al 10 %». Palabras que entienda alguien de 18 años: «competencias» → «que Euskadi decida sobre…»; «IPC» → «los precios». Las únicas siglas permitidas sin explicar en el titular son IVA y PIB.
 - **resumen**: entre 20 y 30 palabras, frases cortas, palabras de uso diario (lectura fácil). Verbos neutros: «propone», «plantea», «quiere». Nunca «promete», «asegura», «pretende», «defiende con firmeza», ni valoraciones de viabilidad o coste. Sin siglas sin explicar (IRPF → «impuesto sobre la renta»). No digas lo que el programa no incluye: cuenta solo lo que sí dice.
+- **Términos propios del partido**: una expresión que acuña o usa el programa como bandera («prioridad nacional», «escudo social», «remigración», «financiación singular»…) va entre comillas latinas en el titular y el resumen, para que se lea como suya y no como nuestra.
 - **citas**: de 1 a 3, cada una copiada **carácter a carácter** del texto (≤ 300 caracteres), con su `pagina_pdf`. Para omitir un trozo dentro de la misma página, `[…]`. Si una frase cruza de página, añade `"pagina_pdf_fin"`. Copia también las erratas: no corrijas nada.
 - **traduccion**: solo cuando la cita está en catalán, gallego o euskera; traducción fiel al castellano.
 - **Trazabilidad**: cada idea y cada cifra del titular y del resumen tiene que estar en una de las citas. Si no la puedes citar, no la escribas.

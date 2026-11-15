@@ -1,0 +1,222 @@
+[
+ {
+  "partido": "psoe",
+  "tema": "vivienda",
+  "estado": "propuesta",
+  "titular": "1 % del PIB al año para vivienda",
+  "resumen": "Propone movilizar cada año el 1 % del PIB (producción del país) para vivienda. Quiere alargar los alquileres y gravar viviendas de grandes propietarios sin uso residencial ni alquiler asequible.",
+  "citas": [
+   {
+    "texto": "Movilizar anualmente un 1% del PIB para garantizar el acceso a la vivienda. La vivienda a precio asequible será la principal prioridad de la legislatura, con objetivos que se evaluarán de forma periódica.",
+    "pagina_pdf": 27
+   },
+   {
+    "texto": "Ampliar la duración de los contratos de arrendamiento, reforzando la estabilidad residencial de las personas inquilinas.",
+    "pagina_pdf": 30
+   },
+   {
+    "texto": "Priorizar el uso residencial y asequible de las viviendas existentes a través de un impuesto progresivo a las viviendas de grandes tenedores que no se destinen al alquiler asequible o a usos residenciales.",
+    "pagina_pdf": 32
+   }
+  ],
+  "seleccion": "Las tres primeras medidas con el número resaltado del capítulo de vivienda: 38 (p. 27), 61 (p. 30) y 70 (p. 31); la 70 se cita por la 72 (p. 32), que repite esa medida en una sola página."
+ },
+ {
+  "partido": "psoe",
+  "tema": "inmigracion",
+  "estado": "propuesta",
+  "titular": "Aplicar un plan de integración",
+  "resumen": "Propone un plan de integración con 500 millones de euros iniciales. Quiere más vías legales para pedir asilo, simplificar trámites e impulsar la contratación en el país de origen.",
+  "citas": [
+   {
+    "texto": "Desplegar el Plan de Integración y Ciudadanía 2026 -2030, con una dotación inicial de 500 millones de euros y la colaboración de las administraciones públicas y los agentes sociales, para favorecer la integración y la convivencia",
+    "pagina_pdf": 92
+   },
+   {
+    "texto": "Ampliar las vías legales y seguras de protección internacional y reforzar el sistema público de acogida y asilo, con mecanismos para el reasentamiento y visados humanitarios",
+    "pagina_pdf": 92
+   },
+   {
+    "texto": "Queremos seguir avanzando en esta dirección: simplificar los trámites, dar seguridad jurídica, impulsar la contratación en origen, agilizar la homologación de títulos y facilitar el acceso al empleo, para aprovechar el talento de quienes vienen a vivir y trabajar aquí.",
+    "pagina_pdf": 92
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado de política migratoria (388 y 389) y la frase de su introducción sobre vías legales y empleo (p. 92)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "economia",
+  "estado": "propuesta",
+  "titular": "Inversión de 120.000 millones",
+  "resumen": "Propone movilizar 120.000 millones de euros para seguir modernizando la economía. Quiere simplificar el ingreso mínimo vital y unir las ayudas de luz, transporte y agua en un bono automático.",
+  "citas": [
+   {
+    "texto": "abriremos una nueva etapa de inversión productiva, apoyada en instrumentos como el Fondo España Crece, que movilizará 120.000 millones de euros para asegurar que la modernización continúe más allá de los fondos europeos.",
+    "pagina_pdf": 13
+   },
+   {
+    "texto": "Potenciar el IMV. Crear pasarelas que automaticen y simplifiquen la concesión del IMV, utilizando datos de renta y patrimonio más recientes. Se adecuarán las cuantías y umbrales al coste de la crianza para hogares perceptores con niñas y niños.",
+    "pagina_pdf": 38
+   },
+   {
+    "texto": "Integrar el bono social eléctrico, el térmico, las bonificaciones de transporte y las tarifas sociales de telecomunicaciones y agua (estas últimas por convenio) en un único derecho que se reconozca de oficio a partir de los datos fiscales y de Seguridad Social, sin necesidad de solicitarlo.",
+    "pagina_pdf": 38
+   }
+  ],
+  "seleccion": "El Fondo España Crece, medida 1 con el número resaltado (p. 14), citado por la introducción del capítulo, que da la cifra (p. 13); 89 y 93, primeras del apartado «Coste de vida» que no tratan salarios ni impuestos."
+ },
+ {
+  "partido": "psoe",
+  "tema": "empleo",
+  "estado": "propuesta",
+  "titular": "Fijar por ley el salario mínimo",
+  "resumen": "Propone fijar por ley el salario mínimo sobre el 60 % del salario medio y bajar la jornada a 37,5 horas sin perder sueldo. Quiere un registro digital de horas.",
+  "citas": [
+   {
+    "texto": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad y las necesidades de las personas trabajadoras",
+    "pagina_pdf": 37
+   },
+   {
+    "texto": "Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas. Trabajar menos horas debe permitir ganar tiempo para la familia, los cuidados, el descanso y la vida personal, sin perder salario.",
+    "pagina_pdf": 41
+   },
+   {
+    "texto": "Erradicar las horas extra ilegales y no remuneradas. Implantar un registro horario digital fiable, que recoja las jornadas laborales reales, haciendo efectivo el derecho al descanso y la desconexión digital y reforzar la Inspección de Trabajo para perseguir los incumplimientos.",
+    "pagina_pdf": 41
+   }
+  ],
+  "seleccion": "Medida 87, con el número resaltado (p. 37), que va a Empleo porque Economía excluye los salarios; 108 y 109, primeras del apartado «Trabajo digno» (p. 41)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "sanidad",
+  "estado": "propuesta",
+  "titular": "Acabar con las listas de espera",
+  "resumen": "Propone acabar con las listas de espera con gasto público cercano al 7 % del PIB (producción del país). Quiere sumar el dentista básico a lo público y limitar privatizaciones.",
+  "citas": [
+   {
+    "texto": "Acabar con las listas de espera , consolidando una financiación pública de la sanidad en torno al 7% del PIB, reforzando el carácter público del Sistema Nacional de Salud y aumentando progresivamente la inversión en prevención hasta converger con la media europea.",
+    "pagina_pdf": 49
+   },
+   {
+    "texto": "Incorporaremos progresivamente a la sanidad pública los tratamientos básicos para toda la población adulta, empezando por empastes, endodoncias, reconstrucciones y tratamientos periodontales.",
+    "pagina_pdf": 49
+   },
+   {
+    "texto": "Limitar la privatización de la sanidad estableciendo la gestión directa como modalidad preferente en la prestación sanitaria",
+    "pagina_pdf": 49
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado de sanidad (136, 137 y 138); las dos primeras llevan el número resaltado (p. 49)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "educacion",
+  "estado": "propuesta",
+  "titular": "Ampliar la escuela de 0 a 3 años",
+  "resumen": "Propone que la educación de 0 a 3 años llegue a todos, con más escuelas infantiles públicas. Quiere más becas, un tope de alumnos por aula y un estatuto docente.",
+  "citas": [
+   {
+    "texto": "Universalizar la educación de 0 a 3 años , promoviendo su inclusión plena en el sistema, aumentando progresivamente la oferta de escuelas infantiles públicas",
+    "pagina_pdf": 51
+   },
+   {
+    "texto": "Ampliar y mejorar el sistema de becas y limitar la capacidad máxima por aula, incrementando la financiación y cobertura de las ayudas al estudio, con una actualización de los umbrales de renta",
+    "pagina_pdf": 52
+   },
+   {
+    "texto": "Aprobar el Estatuto del Docente para dignificar y reforzar la profesión docente, simplificando las cargas burocráticas, impulsando un plan nacional de bienestar docente",
+    "pagina_pdf": 52
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado de educación (157, con el número resaltado, 158 y 159; pp. 51-52)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "regeneracion",
+  "estado": "propuesta",
+  "titular": "Aprobar una ley de integridad",
+  "resumen": "Propone una ley y una agencia de integridad pública contra la corrupción. Quiere un registro obligatorio de grupos de interés y más autonomía para la Fiscalía.",
+  "citas": [
+   {
+    "texto": "Aprobar una Ley Orgánica de Integridad Pública y una Estrategia Nacional Anticorrupción con mapas de riesgos en todas las administraciones , y crear una Agencia Independiente de Integridad Pública que coordine los organismos de supervisión y refuerce la protección de quienes denuncian.",
+    "pagina_pdf": 102
+   },
+   {
+    "texto": "Aprobar una ley de grupos de interés , con registro obligatorio, publicidad de sus reuniones y huella normativa, y ampliar la transparencia del patrimonio, las actividades y las incompatibilidades de los cargos públicos.",
+    "pagina_pdf": 102
+   },
+   {
+    "texto": "Reforzar la autonomía del Ministerio Fiscal, con un mandato de cinco años para la Fiscalía General del Estado desvinculado de la legislatura y la prohibición de instrucciones del Gobierno sobre casos concretos",
+    "pagina_pdf": 100
+   }
+  ],
+  "seleccion": "445 y 446, las dos medidas que anuncia la introducción del apartado de integridad pública (p. 102); 436, la autonomía de la Fiscalía que anuncia la introducción del apartado de justicia (p. 100)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "pensiones",
+  "estado": "propuesta",
+  "titular": "Subir pensiones con los precios",
+  "resumen": "Propone recoger en la Constitución la subida de las pensiones con los precios (IPC). Quiere subir las pensiones mínimas y que el Estado financie las prestaciones no contributivas.",
+  "citas": [
+   {
+    "texto": "Seguir desplegando las medidas de refuerzo del sistema público de pensiones y de garantía de poder adquisitivo de las pensiones actuales y futuras , y culminando el proceso de convergencia de las cuantías de las pensiones mínimas con estándares de ingresos del conjunto de la sociedad.",
+    "pagina_pdf": 39
+   },
+   {
+    "texto": "Culminar la separación de fuentes de financiación , asumiendo el Estado la financiación de prestaciones y complementos de naturaleza no contributiva",
+    "pagina_pdf": 40
+   },
+   {
+    "texto": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC, garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada.",
+    "pagina_pdf": 40
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado «Pensiones» (98, 99 y 100); la 100 se repite como 365 en el capítulo de la Constitución (p. 89)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "impuestos",
+  "estado": "propuesta",
+  "titular": "Gravar más las rentas de capital",
+  "resumen": "Propone gravar hasta un 35 % las rentas de capital altas. Quiere más impuestos a grandes tecnológicas y que la rebaja por hijo llegue también a quien no declara.",
+  "citas": [
+   {
+    "texto": "Incrementar la tributación de las rentas de capital más elevadas. Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€.",
+    "pagina_pdf": 48
+   },
+   {
+    "texto": "Aumentar los impuestos a los tecnooligarcas, complementando la actual tasa Google. […] se debe complementar con medidas adicionales dirigidas a grandes tecnológicas y al sector de la IA.",
+    "pagina_pdf": 48
+   },
+   {
+    "texto": "Convertiremos el mínimo exento por descendiente en el IRPF en un crédito fiscal reembolsable, lo que permitirá que se beneficien de él 2 millones de hogares de ingresos medios y bajos que no tienen obligación de presentar declaración o que carecen de cuota para beneficiarse del mínimo actual.",
+    "pagina_pdf": 49
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado «Fiscalidad justa» (130, con el número resaltado, y 131; p. 48) y la 134, también resaltada (p. 49)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "territorio",
+  "estado": "propuesta",
+  "titular": "Dar más dinero a las comunidades",
+  "resumen": "Propone una nueva financiación autonómica con 21.000 millones de euros más y que el Estado asuma 83.000 millones de deuda de las comunidades. Quiere un Senado de representación territorial.",
+  "citas": [
+   {
+    "texto": "Impulsaremos el nuevo sistema de financiación autonómica propuesto por el Gobierno de España y aprobado en el Consejo de Política Fiscal y Financiera, que aporta 21.000 millones de euros adicionales",
+    "pagina_pdf": 60
+   },
+   {
+    "texto": "Avanzaremos en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica, reduciendo la carga financiera de las Comunidades Autónomas",
+    "pagina_pdf": 61
+   },
+   {
+    "texto": "Reformar el Senado para convertirlo en una auténtica Cámara de representación territorial, haciendo coincidir sus circunscripciones con el ámbito autonómico.",
+    "pagina_pdf": 91
+   }
+  ],
+  "seleccion": "229, primera medida del apartado de financiación, con el número resaltado (p. 60), y 231, la de la deuda autonómica, con cifra (p. 61); 382, primera del apartado del Estado autonómico (p. 91)."
+ }
+]

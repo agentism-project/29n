@@ -12,11 +12,11 @@
   },
   "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa.",
   "sin_programa": {
-    "regla": "Se publica el jueves 19-11 con lo que haya. Una candidatura sin programa aparece como «Aún no ha publicado su programa» con enlace a su web. Si solo tiene propuestas del 29-N en su web oficial, se usan esas páginas, con una etiqueta que lo dice y una copia archivada con fecha. Se actualiza cuando publique.",
+    "regla": "Se publica el jueves 19-11 con lo que haya. Una candidatura sin programa aparece como «Aún no ha publicado su programa» con enlace a su web. Si solo tiene propuestas del 29-N en su web oficial, se usan esas páginas, con una etiqueta que lo dice y una copia archivada con fecha. Si el mismo partido publicó programa en 2023, la ficha enlaza a ese programa («Consultar su programa de 2023») sin resumir ni citar nada de él. Se actualiza cuando publique.",
     "decidido": "2026-11-15, por el responsable del proyecto"
   },
   "diseno": {
-    "eleccion": "Propuesta 2 «Tarjetas»",
+    "eleccion": "Propuesta 2 «Tarjetas», con tres ajustes: nombre del partido tan visible como el titular; imágenes para compartir con el título del tema muy grande y texto más grueso; modo oscuro que sigue al del móvil.",
     "decidido": "2026-11-15, por el responsable del proyecto"
   }
 }

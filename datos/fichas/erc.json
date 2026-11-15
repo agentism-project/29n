@@ -1,0 +1,252 @@
+[
+ {
+  "partido": "erc",
+  "tema": "vivienda",
+  "estado": "propuesta",
+  "titular": "Que Cataluña regule el alquiler",
+  "resumen": "Quiere que Cataluña pueda hacer su ley de alquileres. Propone dedicar a vivienda al menos el 1,5 % del producto interior bruto y traspasarle gratis los inmuebles de la Sareb.",
+  "citas": [
+   {
+    "texto": "Impulsar l’aprovació d’una legislació estatal, per la via de l’article 150.1 de la Constitució espanyola, que delegui formalment a la Generalitat de Catalunya la facultat de legislar de manera plena i integral en matèria d’arrendaments urbans.",
+    "pagina_pdf": 19,
+    "traduccion": "Impulsar la aprobación de una legislación estatal, por la vía del artículo 150.1 de la Constitución española, que delegue formalmente en la Generalitat de Cataluña la facultad de legislar de manera plena e integral en materia de arrendamientos urbanos."
+   },
+   {
+    "texto": "Augment del finançament estatal en matèria d’habitatge. Cal garantir un finançament públic adequat a les polítiques d’habitatge i incloure’l als pressupostos generals de l’Estat, que dediqui a aquestes polítiques almenys l’1,5 % del Producte Interior Brut (PIB)",
+    "pagina_pdf": 19,
+    "traduccion": "Aumento de la financiación estatal en materia de vivienda. Hay que garantizar una financiación pública adecuada para las políticas de vivienda e incluirla en los presupuestos generales del Estado, que dedique a estas políticas al menos el 1,5 % del Producto Interior Bruto (PIB)"
+   },
+   {
+    "texto": "Traspàs immediat de tots els immobles de la SAREB i Casa 47 a la Generalitat de Catalunya. Resulta urgent el traspàs immediat i gratuït de la titularitat d’aquests immobles a la Generalitat […] per poder-los destinar a l’ampliació del parc públic d’habitatge.",
+    "pagina_pdf": 19,
+    "traduccion": "Traspaso inmediato de todos los inmuebles de la SAREB y Casa 47 a la Generalitat de Cataluña. Resulta urgente el traspaso inmediato y gratuito de la titularidad de estos inmuebles a la Generalitat […] para poder destinarlos a la ampliación del parque público de vivienda."
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado B.A (55, 56 y 57), las tres que anuncia su introducción: ley de alquileres catalana, pisos de la SAREB y más recursos (pp. 18-19)."
+ },
+ {
+  "partido": "erc",
+  "tema": "inmigracion",
+  "estado": "propuesta",
+  "titular": "Que Cataluña decida en migración",
+  "resumen": "Quiere que Cataluña gestione la migración y el asilo. Pide evitar «deportaciones automáticas», rechaza centros de retorno en terceros países y propone vías legales y seguras para migrar.",
+  "citas": [
+   {
+    "texto": "Exigir el traspàs integral de les competències en migració i asil a Catalunya per garantir una gestió pròpia de l’acollida, l’avaluació de les necessitats i la integració, des d’una perspectiva de drets humans i inclusió social.",
+    "pagina_pdf": 14,
+    "traduccion": "Exigir el traspaso integral de las competencias en migración y asilo a Cataluña para garantizar una gestión propia de la acogida, la evaluación de las necesidades y la integración, desde una perspectiva de derechos humanos e inclusión social."
+   },
+   {
+    "texto": "Condicionar l’aplicació i el desenvolupament legislatiu del Reglament europeu de Retorn a garanties efectives dels drets fonamentals, per evitar la deriva punitiva i les deportacions automàtiques. Rebutgem la creació de centres de retorn a països tercers",
+    "pagina_pdf": 14,
+    "traduccion": "Condicionar la aplicación y el desarrollo legislativo del Reglamento europeo de Retorno a garantías efectivas de los derechos fundamentales, para evitar la deriva punitiva y las deportaciones automáticas. Rechazamos la creación de centros de retorno en terceros países"
+   },
+   {
+    "texto": "Posar fi a l’externalització de les fronteres i garantir vies legals i segures per migrar.",
+    "pagina_pdf": 17,
+    "traduccion": "Poner fin a la externalización de las fronteras y garantizar vías legales y seguras para migrar."
+   }
+  ],
+  "seleccion": "Medida 35, que anuncia la introducción del apartado A.F (p. 14), con dos citas (traspaso y retornos), y la 51, la otra medida dedicada a migración (p. 17)."
+ },
+ {
+  "partido": "erc",
+  "tema": "economia",
+  "estado": "propuesta",
+  "titular": "Crear una ayuda por crianza",
+  "resumen": "Propone una ayuda universal por crianza desde 200 euros por familia. Quiere un plan contra la subida de precios y un bono social de la luz automático y más amplio.",
+  "citas": [
+   {
+    "texto": "Traspassar els recursos necessaris per a la creació d’una prestació universal per criança adaptada a cada territori. La distribució d’una prestació universal per criança a partir de 200 euros per família que s’elevi en aquells territoris amb un cost de vida més alt",
+    "pagina_pdf": 21,
+    "traduccion": "Traspasar los recursos necesarios para la creación de una prestación universal por crianza adaptada a cada territorio. La distribución de una prestación universal por crianza a partir de 200 euros por familia que se eleve en aquellos territorios con un coste de vida más alto"
+   },
+   {
+    "texto": "Dissenyar un pla de reducció sectorial de la inflació. Presentar un pla conjunt entre l’Administració General de l’Estat i les comunitats autònomes per combatre la inflació dels sectors on ha crescut més (aliments, energia, habitatge)",
+    "pagina_pdf": 21,
+    "traduccion": "Diseñar un plan de reducción sectorial de la inflación. Presentar un plan conjunto entre la Administración General del Estado y las comunidades autónomas para combatir la inflación de los sectores donde más ha crecido (alimentos, energía, vivienda)"
+   },
+   {
+    "texto": "Automatitzar i ampliar el bo social elèctric. Reduir els obstacles burocràtics per accedir al bo social elèctric, automatitzant-ne la concessió, ampliant els llindars de renda per accedir-hi",
+    "pagina_pdf": 21,
+    "traduccion": "Automatizar y ampliar el bono social eléctrico. Reducir los obstáculos burocráticos para acceder al bono social eléctrico, automatizando su concesión, ampliando los umbrales de renta para acceder a él"
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado B.B (Cost de la vida) que no son salarios ni impuestos: 68; 72 y 73 porque responden a la pregunta (precios, factura de la luz). La 71 (transporte público) queda fuera por el límite de tres."
+ },
+ {
+  "partido": "erc",
+  "tema": "empleo",
+  "estado": "propuesta",
+  "titular": "Crear un salario mínimo catalán",
+  "resumen": "Quiere un salario mínimo catalán de 1.460 euros. Propone recuperar 45 días por año trabajado de indemnización por despido improcedente y una semana laboral de 37,5 horas sin bajar sueldos.",
+  "citas": [
+   {
+    "texto": "Transferir les competències a la Generalitat de Catalunya per establir un salari mínim català (SMC) a 1.460 €.",
+    "pagina_pdf": 20,
+    "traduccion": "Transferir las competencias a la Generalitat de Cataluña para establecer un salario mínimo catalán (SMC) de 1.460 €."
+   },
+   {
+    "texto": "Derogar els aspectes de les reformes laborals de 2010 i 2012 que continuen vigents. Revertir l’abaratiment i la facilitació de l’acomiadament, recuperant la indemnització per acomiadament improcedent de 45 dies per any treballat, amb un màxim de 42 mensualitats",
+    "pagina_pdf": 26,
+    "traduccion": "Derogar los aspectos de las reformas laborales de 2010 y 2012 que siguen vigentes. Revertir el abaratamiento y la facilitación del despido, recuperando la indemnización por despido improcedente de 45 días por año trabajado, con un máximo de 42 mensualidades"
+   },
+   {
+    "texto": "Reduir la durada màxima de la jornada laboral setmanal a 37 hores i mitja sense reducció salarial.",
+    "pagina_pdf": 26,
+    "traduccion": "Reducir la duración máxima de la jornada laboral semanal a 37 horas y media sin reducción salarial."
+   }
+  ],
+  "seleccion": "La 67, salario mínimo catalán que destaca la introducción del B.B (p. 20), y la 103 y la 105, primeras medidas del B.E con cifra (despido y jornada). La 66 (salario mínimo estatal) y la 104 quedan fuera por el límite de tres."
+ },
+ {
+  "partido": "erc",
+  "tema": "sanidad",
+  "estado": "propuesta",
+  "titular": "Fortalecer la sanidad pública",
+  "resumen": "Propone fortalecer la sanidad pública para reducir las listas de espera y frenar la privatización. Quiere más dinero del Estado para más profesionales y atención psicológica gratuita para todos.",
+  "citas": [
+   {
+    "texto": "Defensar i enfortir el sistema sanitari públic. Blindar una sanitat pública, universal i de qualitat, reforçant la capacitat assistencial del sistema per reduir les llistes d’espera, garantir una atenció equitativa i frenar la privatització de la sanitat.",
+    "pagina_pdf": 41,
+    "traduccion": "Defender y fortalecer el sistema sanitario público. Blindar una sanidad pública, universal y de calidad, reforzando la capacidad asistencial del sistema para reducir las listas de espera, garantizar una atención equitativa y frenar la privatización de la sanidad."
+   },
+   {
+    "texto": "Incrementar el finançament estatal del sistema públic de salut per garantir una atenció sanitària de qualitat i unes condicions laborals dignes. […] Aquest increment ha de resultar suficient per ampliar les plantilles de professionals sanitaris",
+    "pagina_pdf": 41,
+    "traduccion": "Incrementar la financiación estatal del sistema público de salud para garantizar una atención sanitaria de calidad y unas condiciones laborales dignas. […] Este incremento debe resultar suficiente para ampliar las plantillas de profesionales sanitarios"
+   },
+   {
+    "texto": "Ampliar el finançament públic de l’atenció psicològica de la sanitat pública. Garantir l’accés universal i gratuït a l’atenció psicològica i a la salut mental, així com l’accés a la psicoteràpia i als tractaments necessaris.",
+    "pagina_pdf": 42,
+    "traduccion": "Ampliar la financiación pública de la atención psicológica de la sanidad pública. Garantizar el acceso universal y gratuito a la atención psicológica y a la salud mental, así como el acceso a la psicoterapia y a los tratamientos necesarios."
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado C.D (233 y 234) y la 238, salud mental, que destaca su introducción junto a las listas de espera (p. 41)."
+ },
+ {
+  "partido": "erc",
+  "tema": "educacion",
+  "estado": "propuesta",
+  "titular": "Proteger la inmersión en catalán",
+  "resumen": "Quiere proteger la escuela pública en catalán. Propone dedicar a educación el 6 % del producto interior bruto y garantizar plazas públicas gratuitas de 0 a 3 años.",
+  "citas": [
+   {
+    "texto": "Blindar el model d’escola catalana i la immersió lingüística. Defensar un model d’escola pública, laica, gratuïta i de qualitat, amb el català com a llengua vehicular i d’acollida, com a eina de cohesió social, inclusió i igualtat d’oportunitats.",
+    "pagina_pdf": 10,
+    "traduccion": "Blindar el modelo de escuela catalana y la inmersión lingüística. Defender un modelo de escuela pública, laica, gratuita y de calidad, con el catalán como lengua vehicular y de acogida, como herramienta de cohesión social, inclusión e igualdad de oportunidades."
+   },
+   {
+    "texto": "Garantir un finançament estatal digne per a l’educació. Destinar el 6 % del PIB estatal a l’educació i posar fi a l’infrafinançament del sistema educatiu, assegurant els recursos necessaris per reforçar l’escola pública, reduir les ràtios i millorar les condicions salarials del professorat.",
+    "pagina_pdf": 11,
+    "traduccion": "Garantizar una financiación estatal digna para la educación. Destinar el 6 % del PIB estatal a la educación y poner fin a la infrafinanciación del sistema educativo, asegurando los recursos necesarios para reforzar la escuela pública, reducir las ratios y mejorar las condiciones salariales del profesorado."
+   },
+   {
+    "texto": "Assegurar el finançament estatal de l’educació pública i gratuïta de 0 a 3 anys. Establir un sistema de finançament estatal suficient i estable per fer efectiu l’accés universal i gratuït de tots els infants a una plaça educativa pública de 0 a 3 anys",
+    "pagina_pdf": 11,
+    "traduccion": "Asegurar la financiación estatal de la educación pública y gratuita de 0 a 3 años. Establecer un sistema de financiación estatal suficiente y estable para hacer efectivo el acceso universal y gratuito de todos los niños a una plaza educativa pública de 0 a 3 años"
+   }
+  ],
+  "seleccion": "La 17 (escuela catalana e inmersión), eje de la introducción del apartado A.C (p. 10), y la 19 y la 20, primeras medidas concretas (6 % del PIB, plazas de 0 a 3 años); la 16 y la 18 (pacto de país, competencias) son declaraciones generales."
+ },
+ {
+  "partido": "erc",
+  "tema": "regeneracion",
+  "estado": "propuesta",
+  "titular": "Sumar 180 jueces en Cataluña",
+  "resumen": "Propone 180 jueces más en Cataluña. Quiere denunciar contratos de Defensa a empresas condenadas por corrupción y una ley electoral europea plural, con voto desde los 16 años.",
+  "citas": [
+   {
+    "texto": "Garantir més recursos judicials per agilitzar els procediments i acabar amb la impunitat. Cal continuar apostant pel desplegament de noves places de jutges i jutgesses a Catalunya, garantint el compliment de l’acord a iniciativa d’Esquerra Republicana per incorporar 180 places entre 2026 i 2027",
+    "pagina_pdf": 43,
+    "traduccion": "Garantizar más recursos judiciales para agilizar los procedimientos y acabar con la impunidad. Hay que seguir apostando por el despliegue de nuevas plazas de jueces y juezas en Cataluña, garantizando el cumplimiento del acuerdo a iniciativa de Esquerra Republicana para incorporar 180 plazas entre 2026 y 2027"
+   },
+   {
+    "texto": "Garantir el compliment de la normativa pressupostària també al ministeri de defensa, evitar l’ocultació de despesa per motius polítics i denunciar l’adjudicació de contractes públics a empreses implicades i condemnades en casos de corrupció.",
+    "pagina_pdf": 16,
+    "traduccion": "Garantizar el cumplimiento de la normativa presupuestaria también en el ministerio de defensa, evitar la ocultación de gasto por motivos políticos y denunciar la adjudicación de contratos públicos a empresas implicadas y condenadas en casos de corrupción."
+   },
+   {
+    "texto": "Promoure la transposició de la Llei Electoral Europea, assegurant que garanteixi la pluralitat i la representativitat […] En aquest marc, promoure també l’exercici del dret de vot a partir dels 16 anys.",
+    "pagina_pdf": 17,
+    "traduccion": "Promover la transposición de la Ley Electoral Europea, asegurando que garantice la pluralidad y la representatividad […] En este marco, promover también el ejercicio del derecho de voto a partir de los 16 años."
+   }
+  ],
+  "seleccion": "Sin apartado propio. La 242, recursos de justicia que pide la introducción del C.E (p. 42); la 45, única medida sobre corrupción, tema que cita el preámbulo (p. 5); y la 53, ley electoral. La 9 (Casa Real) mezcla transparencia con el fin de la monarquía; la 41 (Consejo de Justicia catalán) corresponde a Territorio por capítulo y no entra en sus tres."
+ },
+ {
+  "partido": "erc",
+  "tema": "pensiones",
+  "estado": "propuesta",
+  "titular": "Subir pensiones con los precios",
+  "resumen": "Propone asegurar que las pensiones suban con los precios, medidos en cada territorio. Quiere jubilación anticipada sin penalización para trabajos penosos, peligrosos, tóxicos o insalubres.",
+  "citas": [
+   {
+    "texto": "Blindar la revaloració de les pensions per evitar la pèrdua de capacitat adquisitiva de les persones pensionistes. Cal garantir l’actualització de pensions públiques d’acord amb la inflació.",
+    "pagina_pdf": 26,
+    "traduccion": "Blindar la revalorización de las pensiones para evitar la pérdida de poder adquisitivo de las personas pensionistas. Hay que garantizar la actualización de las pensiones públicas de acuerdo con la inflación."
+   },
+   {
+    "texto": "Revalorar les pensions d’acord amb l’IPC de cada territori. Revisar el sistema estatal de pensions per tenir en compte les diferències territorials en el cost de la vida i establir mecanismes d’actualització de les prestacions vinculats a l’IPC de cada territori",
+    "pagina_pdf": 26,
+    "traduccion": "Revalorizar las pensiones de acuerdo con el IPC de cada territorio. Revisar el sistema estatal de pensiones para tener en cuenta las diferencias territoriales en el coste de la vida y establecer mecanismos de actualización de las prestaciones vinculados al IPC de cada territorio"
+   },
+   {
+    "texto": "Garantir l’accés a la jubilació anticipada sense penalitzacions en la pensió a les persones treballadores de sectors i professions especialment penosos, perillosos, tòxics o insalubres",
+    "pagina_pdf": 26,
+    "traduccion": "Garantizar el acceso a la jubilación anticipada sin penalizaciones en la pensión a las personas trabajadoras de sectores y profesiones especialmente penosos, peligrosos, tóxicos o insalubres"
+   }
+  ],
+  "seleccion": "Las tres medidas de pensiones del apartado B.E (106, 107 y 110); su introducción pide pensiones que garanticen el poder adquisitivo (p. 25)."
+ },
+ {
+  "partido": "erc",
+  "tema": "impuestos",
+  "estado": "propuesta",
+  "titular": "Reformar el impuesto de la renta",
+  "resumen": "Propone subir el impuesto a las ganancias del capital y bajarlo al trabajo hasta 35.000 euros. Quiere menos IVA en alimentos básicos y más impuesto a grandes fortunas.",
+  "citas": [
+   {
+    "texto": "Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros",
+    "pagina_pdf": 21,
+    "traduccion": "Llevar a cabo una reforma social del IRPF. Aumentar el tipo máximo del IRPF sobre las ganancias de capital del 30 % al 35 % para acabar con el trato de favor respecto a las rentas del trabajo. A la vez, hay que reducir los tipos de la fiscalidad del trabajo para los tramos inferiores a 35.000 euros"
+   },
+   {
+    "texto": "Rebaixar l’IVA aplicable a aliments bàsics i productes d’higiene, acabant amb un gran nombre de les reduccions i deduccions respecte a la mitjana europea.",
+    "pagina_pdf": 21,
+    "traduccion": "Rebajar el IVA aplicable a alimentos básicos y productos de higiene, acabando con un gran número de las reducciones y deducciones respecto a la media europea."
+   },
+   {
+    "texto": "Fer permanent l’impost temporal de solidaritat de les grans fortunes, augmentant el tipus per a fortunes de més de 10 milions d’euros i creant un tram nou a partir de 100 milions d’euros.",
+    "pagina_pdf": 22,
+    "traduccion": "Hacer permanente el impuesto temporal de solidaridad de las grandes fortunas, aumentando el tipo para fortunas de más de 10 millones de euros y creando un tramo nuevo a partir de 100 millones de euros."
+   }
+  ],
+  "seleccion": "Reformas del impuesto sobre la renta y del IVA (69 y 70), que destaca la introducción del B.B (p. 20), y la 74, primera medida del B.C (p. 22). Banca y energéticas (75 y 76) quedan fuera por el límite de tres."
+ },
+ {
+  "partido": "erc",
+  "tema": "territorio",
+  "estado": "propuesta",
+  "titular": "Negociar un referéndum catalán",
+  "resumen": "Propone negociar un referéndum de autodeterminación en Cataluña, con acompañamiento internacional. Quiere un nuevo modelo de financiación y perdonar más de 17.100 millones de euros de deuda de la Generalitat.",
+  "citas": [
+   {
+    "texto": "Dret d’autodeterminació. Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya amb acompanyament internacional, amb la Unió Europea i el Consell d’Europa com a facilitadors",
+    "pagina_pdf": 8,
+    "traduccion": "Derecho de autodeterminación. Negociar la convocatoria de un referéndum de autodeterminación en Cataluña con acompañamiento internacional, con la Unión Europea y el Consejo de Europa como facilitadores"
+   },
+   {
+    "texto": "Aprovar un nou model de finançament per garantir la sobirania dels Països Catalans i el benestar de la ciutadania. […] Ara, resulta urgent combatre el dèficit fiscal i garantir el finançament de les institucions catalanes per mitjà de canvis de model en el sentit dels acords esmentats.",
+    "pagina_pdf": 12,
+    "traduccion": "Aprobar un nuevo modelo de financiación para garantizar la soberanía de los Países Catalanes y el bienestar de la ciudadanía. […] Ahora resulta urgente combatir el déficit fiscal y garantizar la financiación de las instituciones catalanas mediante cambios de modelo en el sentido de los acuerdos mencionados."
+   },
+   {
+    "texto": "Condonar de forma efectiva els més de 17.100 milions d’euros del FLA. Dur a terme la tramitació del projecte de llei impulsat per Esquerra Republicana, que suposa una reducció de deute de la Generalitat equivalent a la inversió que fa en quatre anys.",
+    "pagina_pdf": 12,
+    "traduccion": "Condonar de forma efectiva los más de 17.100 millones de euros del FLA. Llevar a cabo la tramitación del proyecto de ley impulsado por Esquerra Republicana, que supone una reducción de deuda de la Generalitat equivalente a la inversión que hace en cuatro años."
+   }
+  ],
+  "seleccion": "Primera medida del programa (1, referéndum, apartado A.A) y primeras del A.D (23 y 24): financiación y condonación de deuda, lo que destaca la introducción de la parte A (p. 7)."
+ }
+]
