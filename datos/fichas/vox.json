@@ -185,7 +185,7 @@
   "tema": "impuestos",
   "estado": "propuesta",
   "titular": "Bajar los impuestos",
-  "resumen": "Plantea una «rebaja masiva de impuestos». Propone bajar el impuesto sobre la renta, también según el número de hijos; el IVA, sobre todo de productos básicos, y el de sociedades.",
+  "resumen": "Plantea una «rebaja masiva de impuestos»: bajar el impuesto sobre la renta, también según el número de hijos; el IVA, sobre todo de productos básicos, y el de sociedades (empresas).",
   "citas": [
    {
     "texto": "Rebaja masiva de impuestos […] Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.",
@@ -200,7 +200,10 @@
     "pagina_pdf": 9
    }
   ],
-  "seleccion": "Medida 2, primera del capítulo «Economía, industria y energía» («Rebaja masiva de impuestos»), con sus tres primeras viñetas."
+  "seleccion": "Medida 2, primera del capítulo «Economía, industria y energía» («Rebaja masiva de impuestos»), con sus tres primeras viñetas.",
+  "revision": [
+   "2026-11-16: ajustada tras la segunda revisión ciega"
+  ]
  },
  {
   "partido": "vox",

@@ -185,7 +185,7 @@
   "tema": "impuestos",
   "estado": "propuesta",
   "titular": "Bajar el impuesto sobre la renta",
-  "resumen": "Propone bajar el impuesto sobre la renta a rentas medias y bajas y a jóvenes, y actualizarlo con la inflación. Quiere que no lo pague quien cobre el salario mínimo.",
+  "resumen": "Propone bajar el impuesto sobre la renta a rentas medias y bajas, y a jóvenes sus cuatro primeros años pagándolo. Quiere actualizarlo con la inflación y eximir el salario mínimo.",
   "citas": [
    {
     "texto": "Elevaremos los mínimos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias. Quien cobre el salario mínimo no pagará IRPF: por ley, el umbral subirá automáticamente cada vez que suba el SMI",
@@ -200,7 +200,10 @@
     "pagina_pdf": 47
    }
   ],
-  "seleccion": "Primeras medidas del 4.4 (177, 178 y 179), el apartado «Los españoles pagarán menos impuestos»."
+  "seleccion": "Primeras medidas del 4.4 (177, 178 y 179), el apartado «Los españoles pagarán menos impuestos».",
+  "revision": [
+   "2026-11-16: ajustada tras la segunda revisión ciega"
+  ]
  },
  {
   "partido": "pp",

@@ -82,7 +82,7 @@
   "tema": "empleo",
   "estado": "propuesta",
   "titular": "Reducir la jornada a cuatro días",
-  "resumen": "Propone una semana de cuatro días (32 horas) sin bajar sueldo. Quiere por ley un salario mínimo del 60 % del sueldo medio. Plantea facilitar el paro de los autónomos.",
+  "resumen": "Propone una semana de cuatro días (32 horas) sin bajar sueldo. Quiere un salario mínimo legal del 60 % del sueldo medio. Plantea facilitar a los autónomos cobrar el paro.",
   "citas": [
    {
     "texto": "Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou.",
@@ -102,7 +102,8 @@
   ],
   "seleccion": "Dos primeras medidas de Salaris i condicions laborals (p. 6) y primera de Persones autònomes (p. 7), apartados del capítulo 1 («Una vida segura: habitatge, salaris i pensions»).",
   "revision": [
-   "2026-11-16: corregida tras la revisión ciega"
+   "2026-11-16: corregida tras la revisión ciega",
+   "2026-11-16: ajustada tras la segunda revisión ciega"
   ]
  },
  {
@@ -213,7 +214,7 @@
   "tema": "impuestos",
   "estado": "propuesta",
   "titular": "Gravar más las grandes fortunas",
-  "resumen": "Propone ajustar a la inflación el impuesto sobre la renta de quien gana menos de 30.000 euros. Quiere mantener y ampliar el impuesto a las grandes fortunas.",
+  "resumen": "Propone que el impuesto sobre la renta no suba por la inflación a quien gana menos de 30.000 euros. Quiere mantener y ampliar el impuesto a las grandes fortunas.",
   "citas": [
    {
     "texto": "Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació.",
@@ -226,7 +227,10 @@
     "traduccion": "Mantendremos y ampliaremos el Impuesto a las Grandes Fortunas para aproximarlo a propuestas internacionales de tributación progresiva del patrimonio como la tasa Zucman."
    }
   ],
-  "seleccion": "Dos primeras medidas de Fiscalitat (p. 18), primer apartado del capítulo 3 («Democratització de l'economia»); el titular resume la segunda porque la primera («deflactar el IRPF») no cabe en 32 caracteres sin siglas ni ambigüedad («ajustar la renta» se leería como subir sueldos)."
+  "seleccion": "Dos primeras medidas de Fiscalitat (p. 18), primer apartado del capítulo 3 («Democratització de l'economia»); el titular resume la segunda porque la primera («deflactar el IRPF») no cabe en 32 caracteres sin siglas ni ambigüedad («ajustar la renta» se leería como subir sueldos).",
+  "revision": [
+   "2026-11-16: ajustada tras la segunda revisión ciega"
+  ]
  },
  {
   "partido": "compromis",

@@ -4,7 +4,7 @@ window.DATOS = {
   "base_url": "https://agentism.github.io/29n/",
   "direccion": "agentism.github.io/29n",
   "url_correcciones": "https://github.com/agentism/29n/issues",
-  "actualizado": "2026-11-15"
+  "actualizado": "2026-11-16"
  },
  "criterios": {
   "partidos_regla": "Candidaturas a las que el estudio preelectoral del CIS n.º 3584 (elecciones generales 2026) atribuye al menos un escaño en su horquilla nacional. La página nombra el estudio, no reproduce sus cifras.",
@@ -527,7 +527,7 @@ window.DATOS = {
   "pp/impuestos": {
    "estado": "propuesta",
    "titular": "Bajar el impuesto sobre la renta",
-   "resumen": "Propone bajar el impuesto sobre la renta a rentas medias y bajas y a jóvenes, y actualizarlo con la inflación. Quiere que no lo pague quien cobre el salario mínimo.",
+   "resumen": "Propone bajar el impuesto sobre la renta a rentas medias y bajas, y a jóvenes sus cuatro primeros años pagándolo. Quiere actualizarlo con la inflación y eximir el salario mínimo.",
    "citas": [
     {
      "texto": "Elevaremos los mínimos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias. Quien cobre el salario mínimo no pagará IRPF: por ley, el umbral subirá automáticamente cada vez que suba el SMI",
@@ -717,7 +717,7 @@ window.DATOS = {
   "psoe/impuestos": {
    "estado": "propuesta",
    "titular": "Gravar rentas de capital altas",
-   "resumen": "Propone gravar hasta un 35 % las rentas de capital altas. Quiere más impuestos a grandes tecnológicas y que la rebaja por hijo llegue también a quien no declara.",
+   "resumen": "Propone gravar más las rentas de capital desde 50.000 euros, hasta un 35 %. Quiere más impuestos a grandes tecnológicas y la rebaja por hijo para quien no declara.",
    "citas": [
     {
      "texto": "Incrementar la tributación de las rentas de capital más elevadas. Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€.",
@@ -903,7 +903,7 @@ window.DATOS = {
   "vox/impuestos": {
    "estado": "propuesta",
    "titular": "Bajar los impuestos",
-   "resumen": "Plantea una «rebaja masiva de impuestos». Propone bajar el impuesto sobre la renta, también según el número de hijos; el IVA, sobre todo de productos básicos, y el de sociedades.",
+   "resumen": "Plantea una «rebaja masiva de impuestos»: bajar el impuesto sobre la renta, también según el número de hijos; el IVA, sobre todo de productos básicos, y el de sociedades (empresas).",
    "citas": [
     {
      "texto": "Rebaja masiva de impuestos […] Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.",
@@ -994,7 +994,7 @@ window.DATOS = {
   "adelante/empleo": {
    "estado": "propuesta",
    "titular": "Reducir la jornada a 32 horas",
-   "resumen": "Propone una jornada de 32 horas y que salarios y salario mínimo suban con los precios, por ley. Quiere prohibir el turno partido sin rebaja de salario.",
+   "resumen": "Propone 32 horas semanales y prohibir el turno partido, sin rebaja de sueldo. Quiere que salarios y salario mínimo suban por ley con los precios.",
    "citas": [
     {
      "texto": "jornada de 32 horas y salarios que suban con los precios.",
@@ -1085,7 +1085,7 @@ window.DATOS = {
   "adelante/impuestos": {
    "estado": "propuesta",
    "titular": "Gravar las grandes fortunas",
-   "resumen": "Propone gravar grandes fortunas, terratenientes y, de forma permanente, beneficios extraordinarios de banca y eléctricas. Quiere bajar el impuesto sobre la renta a rentas bajas y subirlo desde 100.000 euros.",
+   "resumen": "Propone gravar grandes fortunas, terratenientes y, permanentemente, beneficios extraordinarios de banca y eléctricas. Quiere bajar el impuesto sobre la renta a rentas bajas y subirlo con fuerza desde 100.000 euros.",
    "citas": [
     {
      "texto": "Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.",
@@ -1096,7 +1096,7 @@ window.DATOS = {
   "adelante/territorio": {
    "estado": "propuesta",
    "titular": "Reformar la financiación",
-   "resumen": "Propone que la financiación no garantice a las comunidades más ricas seguir recibiendo más. Quiere que se pague la «deuda histórica» que reconoce el Estatuto y el máximo autogobierno.",
+   "resumen": "Propone que la financiación no garantice a las comunidades más ricas seguir recibiendo más. Quiere el máximo autogobierno y que se pague la «deuda histórica» que reconoce el Estatuto.",
    "citas": [
     {
      "texto": "El nuevo sistema no garantizará a las comunidades más ricas que sigan recibiendo más.",
@@ -1321,7 +1321,7 @@ window.DATOS = {
   "bng/impuestos": {
    "estado": "propuesta",
    "titular": "Gravar más las rentas altas",
-   "resumen": "Propone que capital y rentas altas paguen más. Quiere IVA al 5 % en luz y gas, y hacer permanentes y ampliar los impuestos a banca, energéticas y grandes fortunas.",
+   "resumen": "Propone gravar más las rentas altas, también de capital. Quiere IVA al 5 % en luz y gas y hacer permanentes y ampliar impuestos a banca, grandes energéticas y fortunas.",
    "citas": [
     {
      "texto": "defendemos promover reformas na lexislación estatal para lograr un incremento da progresividade na tributación dos rendementos do capital e das rendas máis altas",
@@ -1431,7 +1431,7 @@ window.DATOS = {
   "compromis/empleo": {
    "estado": "propuesta",
    "titular": "Reducir la jornada a cuatro días",
-   "resumen": "Propone una semana de cuatro días (32 horas) sin bajar sueldo. Quiere por ley un salario mínimo del 60 % del sueldo medio. Plantea facilitar el paro de los autónomos.",
+   "resumen": "Propone una semana de cuatro días (32 horas) sin bajar sueldo. Quiere un salario mínimo legal del 60 % del sueldo medio. Plantea facilitar a los autónomos cobrar el paro.",
    "citas": [
     {
      "texto": "Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou.",
@@ -1541,7 +1541,7 @@ window.DATOS = {
   "compromis/impuestos": {
    "estado": "propuesta",
    "titular": "Gravar más las grandes fortunas",
-   "resumen": "Propone ajustar a la inflación el impuesto sobre la renta de quien gana menos de 30.000 euros. Quiere mantener y ampliar el impuesto a las grandes fortunas.",
+   "resumen": "Propone que el impuesto sobre la renta no suba por la inflación a quien gana menos de 30.000 euros. Quiere mantener y ampliar el impuesto a las grandes fortunas.",
    "citas": [
     {
      "texto": "Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació.",
@@ -1636,7 +1636,7 @@ window.DATOS = {
   },
   "pnv/empleo": {
    "estado": "propuesta",
-   "titular": "Reclamar un salario mínimo vasco",
+   "titular": "Que Euskadi fije salario mínimo",
    "resumen": "Quiere que Euskadi pueda fijar su propio salario mínimo, siempre por encima del estatal. Propone reforzar la Inspección de Trabajo y ampliar la prestación por desempleo hasta 36 meses.",
    "citas": [
     {
@@ -1674,7 +1674,7 @@ window.DATOS = {
   },
   "pnv/educacion": {
    "estado": "propuesta",
-   "titular": "Mantener la autonomía educativa",
+   "titular": "Que Euskadi decida su educación",
    "resumen": "Quiere que Euskadi siga decidiendo sobre su educación, sin interferencias del Estado. Propone una educación inclusiva, plurilingüe e intercultural y fortalecer la Formación Profesional Dual con las empresas.",
    "citas": [
     {
@@ -1857,7 +1857,7 @@ window.DATOS = {
   },
   "erc/empleo": {
    "estado": "propuesta",
-   "titular": "Crear un salario mínimo catalán",
+   "titular": "Que Cataluña fije salario mínimo",
    "resumen": "Quiere que Cataluña pueda fijar su salario mínimo, en 1.460 euros. Propone recuperar 45 días por año trabajado de indemnización por despido improcedente y 37,5 horas semanales sin bajar sueldos.",
    "citas": [
     {

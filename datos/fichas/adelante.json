@@ -69,7 +69,7 @@
   "tema": "empleo",
   "estado": "propuesta",
   "titular": "Reducir la jornada a 32 horas",
-  "resumen": "Propone una jornada de 32 horas y que salarios y salario mínimo suban con los precios, por ley. Quiere prohibir el turno partido sin rebaja de salario.",
+  "resumen": "Propone 32 horas semanales y prohibir el turno partido, sin rebaja de sueldo. Quiere que salarios y salario mínimo suban por ley con los precios.",
   "citas": [
    {
     "texto": "jornada de 32 horas y salarios que suban con los precios.",
@@ -86,7 +86,8 @@
   ],
   "seleccion": "Medidas 4, 5 y 6 de «Las 29» (p. 7-9), las tres primeras de empleo; la entradilla del área 2 (p. 57) destaca la 4 y la 6; detalle de la 268, primera del 2.5 (p. 63). La 8 (autónomos) queda fuera por el máximo de tres.",
   "revision": [
-   "2026-11-16: corregida tras la revisión ciega"
+   "2026-11-16: corregida tras la revisión ciega",
+   "2026-11-16: ajustada tras la segunda revisión ciega"
   ]
  },
  {
@@ -187,21 +188,24 @@
   "tema": "impuestos",
   "estado": "propuesta",
   "titular": "Gravar las grandes fortunas",
-  "resumen": "Propone gravar grandes fortunas, terratenientes y, de forma permanente, beneficios extraordinarios de banca y eléctricas. Quiere bajar el impuesto sobre la renta a rentas bajas y subirlo desde 100.000 euros.",
+  "resumen": "Propone gravar grandes fortunas, terratenientes y, permanentemente, beneficios extraordinarios de banca y eléctricas. Quiere bajar el impuesto sobre la renta a rentas bajas y subirlo con fuerza desde 100.000 euros.",
   "citas": [
    {
     "texto": "Impuesto a las grandes fortunas y a los terratenientes; un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año, e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.",
     "pagina_pdf": 10
    }
   ],
-  "seleccion": "Medida 7 de «Las 29» (p. 10), la fiscal, desarrollada en las primeras del 2.1 (232, 233) y la 236. Otros impuestos de «Las 29» (vivienda vacía, sanidad privada) quedan fuera por el máximo de tres."
+  "seleccion": "Medida 7 de «Las 29» (p. 10), la fiscal, desarrollada en las primeras del 2.1 (232, 233) y la 236. Otros impuestos de «Las 29» (vivienda vacía, sanidad privada) quedan fuera por el máximo de tres.",
+  "revision": [
+   "2026-11-16: ajustada tras la segunda revisión ciega"
+  ]
  },
  {
   "partido": "adelante",
   "tema": "territorio",
   "estado": "propuesta",
   "titular": "Reformar la financiación",
-  "resumen": "Propone que la financiación no garantice a las comunidades más ricas seguir recibiendo más. Quiere que se pague la «deuda histórica» que reconoce el Estatuto y el máximo autogobierno.",
+  "resumen": "Propone que la financiación no garantice a las comunidades más ricas seguir recibiendo más. Quiere el máximo autogobierno y que se pague la «deuda histórica» que reconoce el Estatuto.",
   "citas": [
    {
     "texto": "El nuevo sistema no garantizará a las comunidades más ricas que sigan recibiendo más.",
@@ -218,7 +222,8 @@
   ],
   "seleccion": "Medidas 20 y 21 de «Las 29» (p. 23 y 24): de la 20, su primera idea (sin ordinalidad, citada con la 337, primera del 3.1, p. 72) y la deuda histórica; la 21, máximo autogobierno.",
   "revision": [
-   "2026-11-16: corregida tras la revisión ciega"
+   "2026-11-16: corregida tras la revisión ciega",
+   "2026-11-16: ajustada tras la segunda revisión ciega"
   ]
  }
 ]

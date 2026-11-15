@@ -192,7 +192,7 @@
   "tema": "impuestos",
   "estado": "propuesta",
   "titular": "Gravar rentas de capital altas",
-  "resumen": "Propone gravar hasta un 35 % las rentas de capital altas. Quiere más impuestos a grandes tecnológicas y que la rebaja por hijo llegue también a quien no declara.",
+  "resumen": "Propone gravar más las rentas de capital desde 50.000 euros, hasta un 35 %. Quiere más impuestos a grandes tecnológicas y la rebaja por hijo para quien no declara.",
   "citas": [
    {
     "texto": "Incrementar la tributación de las rentas de capital más elevadas. Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€.",
@@ -209,7 +209,8 @@
   ],
   "seleccion": "Primeras medidas del apartado «Fiscalidad justa» (130, con el número resaltado, y 131; p. 48) y la 134, también resaltada (p. 49).",
   "revision": [
-   "2026-11-16: corregida tras la revisión ciega"
+   "2026-11-16: corregida tras la revisión ciega",
+   "2026-11-16: ajustada tras la segunda revisión ciega"
   ]
  },
  {

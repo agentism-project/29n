@@ -26,8 +26,8 @@
     pendiente: 'Aún no ha publicado su programa'
   };
   var GRUPOS = {
-    estatales: 'Se presentan en toda España',
-    territoriales: 'Se presentan en una comunidad'
+    estatales: 'Partidos estatales',
+    territoriales: 'Partidos de comunidades autónomas'
   };
 
   /* ---------- utilidades ---------- */
@@ -371,7 +371,7 @@
         '<nav class="barra" aria-label="Navegación">' + pastillaAtras('#/partidos', 'Partidos') + '</nav>' +
         '<header class="tarjeta partido-cabecera">' +
         '<h1 tabindex="-1">' + punto(p) + esc(p.nombre) + '</h1>' +
-        (com ? '<p class="nombre-completo">Se presenta en ' + esc(com) + '</p>' : '<p class="nombre-completo">Se presenta en toda España</p>') +
+        (com ? '<p class="nombre-completo">Se presenta en ' + esc(com) + '</p>' : '<p class="nombre-completo">Partido de ámbito estatal</p>') +
         (p.nombre_completo ? '<p class="nombre-completo">' + esc(p.nombre_completo) + '</p>' : '') +
         '</header>' +
         '<main class="contenido">' +
@@ -404,7 +404,7 @@
       html:
         barraInicio() +
         '<header class="cabecera"><div class="tema-titulo"><h1 tabindex="-1">Partidos</h1></div>' +
-        '<p class="pregunta">Por orden alfabético: primero los que se presentan en toda España y después los que se presentan en una comunidad.</p></header>' +
+        '<p class="pregunta">Por orden alfabético: primero los partidos estatales y después los de comunidades autónomas. No todos se presentan en todas las provincias: comprueba tu papeleta.</p></header>' +
         '<main class="contenido">' + grupo('estatales', ESTATALES) + grupo('territoriales', TERRITORIALES) + '</main>'
     };
   }
@@ -491,8 +491,8 @@
     ficha: function (p, t) { return 'img/ficha-' + p + '-' + t + '.png'; },
     miniatura: function (ruta) { return 'img/miniaturas/' + ruta.split('/').pop().replace('.png', '.webp'); }
   };
-  var GRUPO_CORTO = { estatales: 'toda España', territoriales: 'comunidades' };
-  var DIAPOSITIVAS = ['portada', 'toda España', 'comunidades', 'cierre'];
+  var GRUPO_CORTO = { estatales: 'estatales', territoriales: 'comunidades' };
+  var DIAPOSITIVAS = ['portada', 'estatales', 'comunidades', 'cierre'];
 
   function miniatura(ruta, pieTexto, formato, compartir) {
     return '<a class="miniatura" href="' + esc(ruta) + '" download="' + esc(ruta.split('/').pop()) + '"' +
