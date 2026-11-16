@@ -10,7 +10,7 @@ Una ficha = lo que dice **un** programa sobre **un** tema. Se lee en un móvil, 
 
 ## Temas
 
-Los diez temas, su pregunta y lo que incluye cada uno están en `datos/temas.json`. Una medida va al tema cuyo «incluye» la describe; si encaja en dos, al que el propio programa la asigna por capítulo. Las exclusiones explícitas de un «incluye» («No: impuestos») mandan sobre el capítulo: un impuesto va a Impuestos aunque el programa lo trate en su capítulo de energía.
+Los temas, su pregunta y lo que incluye cada uno están en `datos/temas.json`. Una medida va al tema cuyo «incluye» la describe; si encaja en dos, al que el propio programa la asigna por capítulo. Las exclusiones explícitas de un «incluye» («No: impuestos») mandan sobre el capítulo: un impuesto va a Impuestos aunque el programa lo trate en su capítulo de energía.
 
 ## Qué propuestas elegir (el punto con más riesgo de sesgo)
 
@@ -55,6 +55,8 @@ No elijas por lo que te parezca más polémico, más llamativo o más importante
  "apariciones_revisadas": true,
  "nota": "Las 2 apariciones de «frontera» hablan de comercio exterior, no de inmigración."}
 ```
+
+**Criterio literal en «aborto»** (decidido por el responsable el 16-11, tras la primera revisión ciega del tema): cuenta solo lo que nombra el aborto (o la interrupción del embarazo) o la gestación subrogada, o una medida concreta del «incluye» (por ejemplo, la objeción de conciencia). No cuentan las frases generales sobre «derechos sexuales y reproductivos» o el «derecho a la vida» sin medida, ni las ayudas a la familia que el programa no relaciona con el aborto. Igual para todos los partidos, en los dos sentidos.
 
 Antes de marcarlo, busca en el texto completo las raíces de las palabras del tema (`terminos_buscados`, en el idioma del programa) y lee cada aparición. Si alguna es una propuesta sobre el tema, no es `sin_propuesta`. Si el programa solo menciona el tema sin proponer nada concreto, es `propuesta` con un resumen que lo diga («Menciona X, sin medidas concretas») y su cita.
 

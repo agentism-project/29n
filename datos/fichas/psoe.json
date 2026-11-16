@@ -234,5 +234,45 @@
    }
   ],
   "seleccion": "229, primera medida del apartado de financiación, con el número resaltado (p. 60), y 231, la de la deuda autonómica, con cifra (p. 61); 382, primera del apartado del Estado autonómico (p. 91)."
+ },
+ {
+  "partido": "psoe",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Aprobar ley de violencia vicaria",
+  "resumen": "Propone una ley contra la violencia vicaria, otra contra la trata y otra para abolir la prostitución. Quiere que sea delito crear y difundir montajes sexuales falsos con inteligencia artificial.",
+  "citas": [
+   {
+    "texto": "Aprobar una Ley Orgánica contra la Violencia Vicaria como manifestación de la violencia de género, para garantizar la protección, prevención y atención a las víctimas.",
+    "pagina_pdf": 82
+   },
+   {
+    "texto": "Aprobar una Ley Orgánica contra la Trata de Seres Humanos, y una Ley Orgánica Abolicionista del Sistema Prostitucional, prohibiendo el proxenetismo en todas sus formas y reconociendo a las personas prostituidas como víctimas con plenos derechos",
+    "pagina_pdf": 83
+   },
+   {
+    "texto": "Tipificar como delito específico la creación y difusión de deepfakes sexuales, adaptando el Código Penal a los desafíos planteados por la inteligencia artificial generativa.",
+    "pagina_pdf": 84
+   }
+  ],
+  "seleccion": "Las tres primeras medidas con el número resaltado del capítulo de las mujeres que caen en este tema: 335 (p. 82), 342 (p. 83) y 349 (p. 84); las resaltadas 319 y 322 son de cuidados (Empleo) y la 327, de aborto."
+ },
+ {
+  "partido": "psoe",
+  "tema": "aborto",
+  "estado": "propuesta",
+  "titular": "Garantizar el derecho al aborto",
+  "resumen": "Propone reformar la Constitución para garantizar el derecho al aborto por igual en todo el territorio. Quiere reforzar la prohibición de la gestación subrogada y perseguir su intermediación y promoción.",
+  "citas": [
+   {
+    "texto": "Blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo. Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio frente a los intentos de retroceso.",
+    "pagina_pdf": 81
+   },
+   {
+    "texto": "Fortalecer la protección frente a la explotación reproductiva , reforzando la prohibición de la gestación por sustitución y la persecución de las actividades de intermediación y promoción.",
+    "pagina_pdf": 81
+   }
+  ],
+  "seleccion": "327, primera medida del apartado de derechos sexuales y reproductivos y la única con el número resaltado (p. 81); 329, del mismo apartado, la que trata la gestación subrogada (p. 81)."
  }
 ]

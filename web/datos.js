@@ -10,7 +10,7 @@ window.DATOS = {
   "partidos_regla": "Candidaturas a las que el estudio preelectoral del CIS n.º 3584 (elecciones generales 2026) atribuye al menos un escaño en su horquilla nacional. La página nombra el estudio, no reproduce sus cifras.",
   "partidos_orden": "Alfabético, primero los partidos estatales y luego los de comunidades autónomas. No se ordena por la encuesta: el orden revelaría su resultado, y desde el 24-11 no se pueden difundir sondeos.",
   "partidos_fuente": "https://www.cis.es/documents/d/guest/3584_estimacion-pdf",
-  "temas_regla": "Los problemas del top 10 del barómetro del CIS de octubre de 2026 que corresponden a una política pública, más Pensiones, Impuestos y Modelo territorial, añadidos por el equipo y señalados como tales.",
+  "temas_regla": "Los problemas del top 10 del barómetro del CIS de octubre de 2026 que corresponden a una política pública, más Pensiones, Impuestos, Modelo territorial, Igualdad entre mujeres y hombres, y Aborto y gestación subrogada, añadidos por el equipo por ser temas de mucho debate en los que los programas proponen cosas muy distintas, y señalados como tales.",
   "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa.",
   "sin_programa_regla": "Una candidatura que aún no ha publicado programa aparece como «Aún no ha publicado su programa», con enlace a su web oficial. Si el mismo partido publicó programa en 2023, enlazamos a ese programa sin resumir ni citar nada de él, porque puede no coincidir con lo que propone hoy. Cuando publica su programa, lo enlazamos con su huella en cuanto lo comprobamos («Programa publicado: resumen en preparación») y añadimos sus fichas cuando han pasado las mismas comprobaciones que las de los demás partidos."
  },
@@ -83,6 +83,20 @@ window.DATOS = {
    "nombre": "Modelo territorial y financiación",
    "pregunta": "¿Qué proponen sobre las comunidades autónomas y su financiación?",
    "incluye": "financiación autonómica, competencias, autogobierno, referéndum o autodeterminación, deuda autonómica, lenguas cooficiales, modelo de Estado",
+   "origen": "Añadido por el equipo: no está entre los diez problemas más citados en ese barómetro"
+  },
+  {
+   "id": "igualdad",
+   "nombre": "Igualdad entre mujeres y hombres",
+   "pregunta": "¿Qué proponen sobre igualdad entre mujeres y hombres y sobre la violencia contra las mujeres?",
+   "incluye": "violencia contra las mujeres (de género, machista o intrafamiliar, con el término de cada programa), leyes y organismos de igualdad, brecha salarial entre mujeres y hombres, paridad, prostitución y trata. No: conciliación (va a Empleo), aborto y gestación subrogada (van a su tema), derechos LGTBI (no son un tema de este comparador)",
+   "origen": "Añadido por el equipo: no está entre los diez problemas más citados en ese barómetro"
+  },
+  {
+   "id": "aborto",
+   "nombre": "Aborto y gestación subrogada",
+   "pregunta": "¿Qué proponen sobre el aborto y la gestación subrogada?",
+   "incluye": "ley de plazos y supuestos, acceso al aborto en la sanidad pública, objeción de conciencia, menores de 16 y 17 años, recoger el aborto en la Constitución, ayudas a la embarazada y alternativas al aborto, prohibición o regulación de la gestación subrogada, inscripción de los niños nacidos así en el extranjero. No: ayudas a la natalidad en general (van a Economía)",
    "origen": "Añadido por el equipo: no está entre los diez problemas más citados en ese barómetro"
   }
  ],
@@ -497,6 +511,40 @@ window.DATOS = {
     }
    ]
   },
+  "fa/igualdad": {
+   "estado": "propuesta",
+   "titular": "Subir el gasto en igualdad",
+   "resumen": "Propone dar por ley a igualdad el 5 % o más del presupuesto no financiero del Estado, un 10 % más al año contra las violencias machistas y listas paritarias.",
+   "citas": [
+    {
+     "texto": "Asignaremos de forma obligatoria por ley al menos un 5 % del presupuesto no financiero del Estado a políticas de igualdad efectiva entre mujeres y hombres",
+     "pagina_pdf": 38
+    },
+    {
+     "texto": "Aumentaremos un 10 % (con carácter adicional anual) la partida contra las violencias machistas",
+     "pagina_pdf": 38
+    },
+    {
+     "texto": "Adaptaremos la normativa electoral para consolidar una paridad real y efectiva. Proponemos un modelo de listas en el que el formato cremallera se aplique como garantía mínima",
+     "pagina_pdf": 37
+    }
+   ]
+  },
+  "fa/aborto": {
+   "estado": "propuesta",
+   "titular": "Garantizar el derecho al aborto",
+   "resumen": "Propone reformar la Constitución para incluir el derecho al aborto. Quiere garantizarlo en centros públicos de todas las comunidades, con los gastos de viaje incluidos, y formación obligatoria para sanitarios.",
+   "citas": [
+    {
+     "texto": "Reformaremos el artículo 43 de la Constitución para incluir el derecho al aborto",
+     "pagina_pdf": 28
+    },
+    {
+     "texto": "Garantía del aborto (IVE): Estrategia para garantizar la IVE en centros públicos en todas las comunidades autónomas y ciudades autónomas, […] incluyendo gastos de desplazamiento. Formación obligatoria en IVE en planes de estudio y especialidades sanitarias.",
+     "pagina_pdf": 28
+    }
+   ]
+  },
   "podemos/vivienda": {
    "estado": "pendiente"
   },
@@ -525,6 +573,12 @@ window.DATOS = {
    "estado": "pendiente"
   },
   "podemos/territorio": {
+   "estado": "pendiente"
+  },
+  "podemos/igualdad": {
+   "estado": "pendiente"
+  },
+  "podemos/aborto": {
    "estado": "pendiente"
   },
   "pp/vivienda": {
@@ -711,6 +765,42 @@ window.DATOS = {
      "texto": "CADA COMUNIDAD AUTÓNOMA RESPONDERÁ DE SU DEUDA. Cada Comunidad responderá de sus decisiones y de su deuda. Trabajaremos de forma multilateral, en el Consejo de Política Fiscal y Financiera y con las mismas reglas para todas, en una reestructuración de la deuda de las Comunidades Autónomas.",
      "pagina_pdf": 33
     }
+   ]
+  },
+  "pp/igualdad": {
+   "estado": "propuesta",
+   "titular": "Proteger a víctimas de violencia",
+   "resumen": "Propone aparatos fiables para vigilar órdenes de alejamiento y proteger a los hijos de las víctimas. Quiere una ley contra la trata y menos trabas profesionales para las mujeres.",
+   "citas": [
+    {
+     "texto": "Garantizaremos la fiabilidad de los dispositivos que vigilan las órdenes de alejamiento. […] reforzaremos la valoración del riesgo y los planes individuales de seguridad, con protección también para los hijos de las víctimas de violencia de género.",
+     "pagina_pdf": 17
+    },
+    {
+     "texto": "SE PROTEGERÁ A LAS MUJERES Y A LAS NIÑAS FRENTE A LA TRATA, LA MUTILACIÓN GENITAL Y LOS MATRIMONIOS FORZADOS. Aprobaremos una ley integral contra la trata de seres humanos para proteger a las víctimas y perseguir a las redes que se lucran con ellas.",
+     "pagina_pdf": 17
+    },
+    {
+     "texto": "NI TRABAS NI CULPAS. IGUALDAD REAL. Trabajaremos para que las políticas de igualdad aborden los problemas reales que siguen limitando la libertad y las oportunidades de las personas. Eliminaremos los obstáculos que todavía frenan la trayectoria profesional y personal de las mujeres.",
+     "pagina_pdf": 35
+    }
+   ]
+  },
+  "pp/aborto": {
+   "estado": "sin_propuesta",
+   "terminos_buscados": [
+    "abort",
+    "embaraz",
+    "gestaci",
+    "gestante",
+    "subroga",
+    "vientre",
+    "interrupci",
+    "objeci",
+    "concebid",
+    "nacid",
+    "matern",
+    "prenatal"
    ]
   },
   "psoe/vivienda": {
@@ -903,6 +993,40 @@ window.DATOS = {
     }
    ]
   },
+  "psoe/igualdad": {
+   "estado": "propuesta",
+   "titular": "Aprobar ley de violencia vicaria",
+   "resumen": "Propone una ley contra la violencia vicaria, otra contra la trata y otra para abolir la prostitución. Quiere que sea delito crear y difundir montajes sexuales falsos con inteligencia artificial.",
+   "citas": [
+    {
+     "texto": "Aprobar una Ley Orgánica contra la Violencia Vicaria como manifestación de la violencia de género, para garantizar la protección, prevención y atención a las víctimas.",
+     "pagina_pdf": 82
+    },
+    {
+     "texto": "Aprobar una Ley Orgánica contra la Trata de Seres Humanos, y una Ley Orgánica Abolicionista del Sistema Prostitucional, prohibiendo el proxenetismo en todas sus formas y reconociendo a las personas prostituidas como víctimas con plenos derechos",
+     "pagina_pdf": 83
+    },
+    {
+     "texto": "Tipificar como delito específico la creación y difusión de deepfakes sexuales, adaptando el Código Penal a los desafíos planteados por la inteligencia artificial generativa.",
+     "pagina_pdf": 84
+    }
+   ]
+  },
+  "psoe/aborto": {
+   "estado": "propuesta",
+   "titular": "Garantizar el derecho al aborto",
+   "resumen": "Propone reformar la Constitución para garantizar el derecho al aborto por igual en todo el territorio. Quiere reforzar la prohibición de la gestación subrogada y perseguir su intermediación y promoción.",
+   "citas": [
+    {
+     "texto": "Blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo. Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio frente a los intentos de retroceso.",
+     "pagina_pdf": 81
+    },
+    {
+     "texto": "Fortalecer la protección frente a la explotación reproductiva , reforzando la prohibición de la gestación por sustitución y la persecución de las actividades de intermediación y promoción.",
+     "pagina_pdf": 81
+    }
+   ]
+  },
   "vox/vivienda": {
    "estado": "propuesta",
    "titular": "Aplicar la «prioridad nacional»",
@@ -1089,6 +1213,36 @@ window.DATOS = {
     }
    ]
   },
+  "vox/igualdad": {
+   "estado": "propuesta",
+   "titular": "Derogar las «leyes de género»",
+   "resumen": "Propone derogar las «leyes de género» y aprobar otras que protejan a las mujeres víctimas de violencia. Quiere más prevención, protección policial y judicial y asistencia a las víctimas.",
+   "citas": [
+    {
+     "texto": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres. Las leyes de género no han contribuido a proteger a las mujeres o reducir el número de víctimas",
+     "pagina_pdf": 30
+    },
+    {
+     "texto": "En su lugar, impulsar la aprobación de leyes y normas que protejan de verdad a las mujeres víctimas de violencia, en especial a aquellas que sufran maltrato",
+     "pagina_pdf": 30
+    },
+    {
+     "texto": "Protección efectiva de las mujeres frente a la violencia y las agresiones sexuales. Reforzar la prevención, la protección policial y judicial y la asistencia integral a las víctimas",
+     "pagina_pdf": 46
+    }
+   ]
+  },
+  "vox/aborto": {
+   "estado": "propuesta",
+   "titular": "Defender «el derecho a la vida»",
+   "resumen": "Propone defender «el derecho a la vida» desde la concepción y acabar con la «cultura de la muerte». Quiere garantizar la objeción de conciencia de sanitarios y farmacéuticos.",
+   "citas": [
+    {
+     "texto": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte. Garantizar la objeción de conciencia de los profesionales sanitarios y farmacéuticos",
+     "pagina_pdf": 52
+    }
+   ]
+  },
   "adelante/vivienda": {
    "estado": "propuesta",
    "titular": "Alquiler máximo: 20 % del sueldo",
@@ -1263,6 +1417,44 @@ window.DATOS = {
     }
    ]
   },
+  "adelante/igualdad": {
+   "estado": "propuesta",
+   "titular": "Gastar más contra el machismo",
+   "resumen": "Propone dar más dinero, para varios años, al Pacto de Estado contra la violencia machista y que llegue a los ayuntamientos. Quiere una ley de igualdad de sueldos entre sexos.",
+   "citas": [
+    {
+     "texto": "Igualdad real y lucha contra el machismo Pacto de Estado contra la violencia machista con presupuesto",
+     "pagina_pdf": 27
+    },
+    {
+     "texto": "Pacto de Estado con presupuesto Más financiación, finalista y plurianual, que llegue a los ayuntamientos.",
+     "pagina_pdf": 98
+    },
+    {
+     "texto": "Ley de igualdad retributiva Salarios desglosados por sexo, incluidos complementos, y planes de igualdad con objetivos medibles.",
+     "pagina_pdf": 100
+    }
+   ]
+  },
+  "adelante/aborto": {
+   "estado": "propuesta",
+   "titular": "Garantizar el aborto público",
+   "resumen": "Propone garantizar el aborto en la sanidad pública y recogerlo en la Constitución. No quiere dinero público para «organizaciones que acosan» a quien aborta. Quiere prohibir la gestación subrogada.",
+   "citas": [
+    {
+     "texto": "El derecho al aborto se garantizará en la sanidad pública de todas las provincias, sin conciertos ni copagos, y quedará blindado en la Constitución.",
+     "pagina_pdf": 40
+    },
+    {
+     "texto": "ni un euro público para las organizaciones que acosan a las mujeres que abortan.",
+     "pagina_pdf": 27
+    },
+    {
+     "texto": "Prohibición de la gestación subrogada",
+     "pagina_pdf": 98
+    }
+   ]
+  },
   "arames/vivienda": {
    "estado": "pendiente"
   },
@@ -1291,6 +1483,12 @@ window.DATOS = {
    "estado": "pendiente"
   },
   "arames/territorio": {
+   "estado": "pendiente"
+  },
+  "arames/igualdad": {
+   "estado": "pendiente"
+  },
+  "arames/aborto": {
    "estado": "pendiente"
   },
   "bng/vivienda": {
@@ -1513,6 +1711,45 @@ window.DATOS = {
     }
    ]
   },
+  "bng/igualdad": {
+   "estado": "propuesta",
+   "titular": "Combatir toda violencia machista",
+   "resumen": "Propone una reforma legal integral que cubra toda violencia contra las mujeres. Quiere recoger el término feminicidio en la ley y abolir la prostitución castigando a proxenetas y clientes.",
+   "citas": [
+    {
+     "texto": "Cumprir as obrigas internacionais en materia de prevención e loita contra todas as formas de violencia machista, […] realizar unha reforma lexislativa integral que garanta a cobertura de todos os tipos de violencias contra as mulleres na lei orgánica correspondente",
+     "pagina_pdf": 24,
+     "traduccion": "Cumplir las obligaciones internacionales en materia de prevención y lucha contra todas las formas de violencia machista, […] realizar una reforma legislativa integral que garantice la cobertura de todos los tipos de violencias contra las mujeres en la ley orgánica correspondiente"
+    },
+    {
+     "texto": "Introducir o termo feminicidio na lexislación española e impulsar un Estatuto de Vítima de Feminicidio para unha abordaxe integral da violencia machista.",
+     "pagina_pdf": 25,
+     "traduccion": "Introducir el término feminicidio en la legislación española e impulsar un Estatuto de Víctima de Feminicidio para un abordaje integral de la violencia machista."
+    },
+    {
+     "texto": "Impulsar medidas estratéxicas conducentes á abolición da prostitución desde unha perspectiva que puna e persiga o proxeneta e prostituidor, ficando as mulleres prostituídas libres de calquera criminalización, estigmatización ou aproximación moralista.",
+     "pagina_pdf": 26,
+     "traduccion": "Impulsar medidas estratégicas conducentes a la abolición de la prostitución desde una perspectiva que castigue y persiga al proxeneta y al prostituidor, quedando las mujeres prostituidas libres de cualquier criminalización, estigmatización o aproximación moralista."
+    }
+   ]
+  },
+  "bng/aborto": {
+   "estado": "propuesta",
+   "titular": "Impedir la gestación subrogada",
+   "resumen": "Rechaza legalizar o regular la gestación subrogada («vientres de alquiler»), que ve como explotación de las mujeres. Propone cambios legales para impedir que se haga a través de otros países.",
+   "citas": [
+    {
+     "texto": "Oposición firme e contundente ante calquera intento de legalización, regulamentación e banalización dos ventres de alugueiro por se trataren dunha forma de explotación dos corpos das mulleres, así como de mercantilización de seres humanos (mulleres e crianzas).",
+     "pagina_pdf": 26,
+     "traduccion": "Oposición firme y contundente ante cualquier intento de legalización, regulación y banalización de los vientres de alquiler por tratarse de una forma de explotación de los cuerpos de las mujeres, así como de mercantilización de seres humanos (mujeres y niños)."
+    },
+    {
+     "texto": "Impulsar as mudanzas legais necesarias para impedir esta práctica a través de terceiros países.",
+     "pagina_pdf": 26,
+     "traduccion": "Impulsar los cambios legales necesarios para impedir esta práctica a través de terceros países."
+    }
+   ]
+  },
   "compromis/vivienda": {
    "estado": "propuesta",
    "titular": "Vetar compras de «fondos buitre»",
@@ -1728,6 +1965,50 @@ window.DATOS = {
     }
    ]
   },
+  "compromis/igualdad": {
+   "estado": "propuesta",
+   "titular": "Castigar la violencia machista",
+   "resumen": "Propone revisar la protección de las víctimas, con auditorías externas de los fallos, y una respuesta penal proporcionada y efectiva. Quiere sancionar la explotación sexual, no a las personas prostituidas.",
+   "citas": [
+    {
+     "texto": "Revisarem de manera integral els protocols de valoració del risc i de protecció de les víctimes, incorporant auditories externes dels casos en què els mecanismes de protecció hagen fallat.",
+     "pagina_pdf": 54,
+     "traduccion": "Revisaremos de manera integral los protocolos de valoración del riesgo y de protección de las víctimas, incorporando auditorías externas de los casos en que los mecanismos de protección hayan fallado."
+    },
+    {
+     "texto": "Garantirem una resposta penal proporcionada i efectiva davant la violència masclista, amb especial atenció a la reincidència, l’incompliment de les ordres de protecció i les conductes d’alt risc.",
+     "pagina_pdf": 54,
+     "traduccion": "Garantizaremos una respuesta penal proporcionada y efectiva ante la violencia machista, con especial atención a la reincidencia, el incumplimiento de las órdenes de protección y las conductas de alto riesgo."
+    },
+    {
+     "texto": "Establirem majors responsabilitats i sancions per a activitats que impliquen explotació sexual i tràfic de persones amb finalitats d’explotació sexual, amb un règim penal proporcionat per als supòsits més greus, evitant en tot cas sancionar les persones prostituïdes.",
+     "pagina_pdf": 54,
+     "traduccion": "Estableceremos mayores responsabilidades y sanciones para actividades que impliquen explotación sexual y trata de personas con fines de explotación sexual, con un régimen penal proporcionado para los supuestos más graves, evitando en todo caso sancionar a las personas prostituidas."
+    }
+   ]
+  },
+  "compromis/aborto": {
+   "estado": "propuesta",
+   "titular": "Garantizar el aborto gratuito",
+   "resumen": "Propone el aborto gratuito en la sanidad pública. Quiere vigilar la objeción de conciencia para que no la ejerza un hospital entero, y reforzar la prohibición de la gestación subrogada.",
+   "citas": [
+    {
+     "texto": "Garantirem la interrupció voluntària de l’embaràs gratuïta, segura i accessible dins de la xarxa sanitària pública, en els termes previstos legalment, sense desplaçaments injustificats ni obstacles administratius.",
+     "pagina_pdf": 52,
+     "traduccion": "Garantizaremos la interrupción voluntaria del embarazo gratuita, segura y accesible dentro de la red sanitaria pública, en los términos previstos legalmente, sin desplazamientos injustificados ni obstáculos administrativos."
+    },
+    {
+     "texto": "Regularem i supervisarem l’objecció de consciència individual per a impedir que es convertisca en una objecció institucional encoberta. Cap hospital públic ha de deixar de prestar el servei per falta de planificació.",
+     "pagina_pdf": 53,
+     "traduccion": "Regularemos y supervisaremos la objeción de conciencia individual para impedir que se convierta en una objeción institucional encubierta. Ningún hospital público debe dejar de prestar el servicio por falta de planificación."
+    },
+    {
+     "texto": "Reforçarem la prohibició dels contractes de gestació per substitució/gestació subrogada/ventres de lloguer o qualsevol altre eufemisme, amb les garanties constitucionals i jurídiques corresponents.",
+     "pagina_pdf": 53,
+     "traduccion": "Reforzaremos la prohibición de los contratos de gestación por sustitución/gestación subrogada/vientres de alquiler o cualquier otro eufemismo, con las garantías constitucionales y jurídicas correspondientes."
+    }
+   ]
+  },
   "pnv/vivienda": {
    "estado": "propuesta",
    "titular": "Aumentar la oferta de viviendas",
@@ -1907,6 +2188,36 @@ window.DATOS = {
     {
      "texto": "Favorecer una nueva relación política entre Euskadi y el Estado basada en el reconocimiento de la realidad nacional vasca, el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión de sus instituciones.",
      "pagina_pdf": 39
+    }
+   ]
+  },
+  "pnv/igualdad": {
+   "estado": "propuesta",
+   "titular": "Aplicar las leyes de igualdad",
+   "resumen": "Propone aplicar las leyes de igualdad y reforzar sus organismos. Quiere que se cumplan todas las medidas estatales del Pacto de Estado contra la Violencia de Género, renovado en 2025.",
+   "citas": [
+    {
+     "texto": "Asegurar la aplicación efectiva de las leyes de igualdad y la incorporación de la perspectiva de género en las políticas públicas, desde su elaboración hasta su evaluación.",
+     "pagina_pdf": 26
+    },
+    {
+     "texto": "Asegurar la transposición y aplicación de las Directivas europeas 2024/1499 y 2024/1500, reforzando la independencia y capacidad de actuación de los organismos de igualdad y respetando las competencias y funciones de Emakunde.",
+     "pagina_pdf": 26
+    },
+    {
+     "texto": "Asegurar el cumplimiento íntegro de las medidas estatales del Pacto de Estado contra la Violencia de Género renovado en 2025, especialmente en materia de violencia digital, económica y protección de las víctimas.",
+     "pagina_pdf": 26
+    }
+   ]
+  },
+  "pnv/aborto": {
+   "estado": "propuesta",
+   "titular": "Evitar el acoso a quien aborta",
+   "resumen": "Propone zonas de protección de al menos 150 metros alrededor de los centros de aborto, para impedir el acoso y proteger la intimidad de las mujeres.",
+   "citas": [
+    {
+     "texto": "Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo, mediante medidas proporcionadas que impidan el acoso y protejan la intimidad y la libertad de las mujeres.",
+     "pagina_pdf": 26
     }
    ]
   },
@@ -2093,6 +2404,40 @@ window.DATOS = {
     {
      "texto": "Exigiremos la transferencia de todas las competencias contempladas en el Estatuto Vasco y el Amejoramiento Navarro aún pendientes tras más de 40 años.",
      "pagina_pdf": 24
+    }
+   ]
+  },
+  "bildu/igualdad": {
+   "estado": "propuesta",
+   "titular": "Reconocer la violencia vicaria",
+   "resumen": "Propone avanzar en el reconocimiento y la penalización de la violencia vicaria y prevenir las violencias sexuales en internet. Quiere revisar la protección de las mujeres víctimas de violencia machista.",
+   "citas": [
+    {
+     "texto": "Avanzar en el reconocimiento y penalización de la violencia vicaria.",
+     "pagina_pdf": 19
+    },
+    {
+     "texto": "Prevenir las violencias sexuales en el ámbito digital, que comprenden la difusión de actos de violencia sexual a través de medios tecnológicos.",
+     "pagina_pdf": 19
+    },
+    {
+     "texto": "Analizar y revisar los recursos y sistemas existentes en la actualidad para la protección y reparación de mujeres víctimas de violencia machista.",
+     "pagina_pdf": 19
+    }
+   ]
+  },
+  "bildu/aborto": {
+   "estado": "propuesta",
+   "titular": "Garantizar el acceso al aborto",
+   "resumen": "Propone garantizar el derecho al aborto y un acceso libre, seguro, confidencial y digno. Plantea zonas de protección frente al acoso en torno a los centros que lo practican.",
+   "citas": [
+    {
+     "texto": "Blindar el derecho al aborto. Para ello, daremos los pasos y propondremos todas las medidas necesarias para garantizar el acceso libre, seguro, confidencial y digno al aborto.",
+     "pagina_pdf": 19
+    },
+    {
+     "texto": "Avanzar en medidas de protección frente al acoso en el acceso al aborto. Particularmente defenderemos medidas concretas de protección en torno a los centros sanitarios que practican interrupciones voluntarias del embarazo como perímetros de protección",
+     "pagina_pdf": 19
     }
    ]
   },
@@ -2316,6 +2661,48 @@ window.DATOS = {
     }
    ]
   },
+  "erc/igualdad": {
+   "estado": "propuesta",
+   "titular": "Garantizar políticas de igualdad",
+   "resumen": "Plantea asegurar por ley y presupuesto las políticas feministas. Quiere reformar las leyes contra la violencia machista y aprobar una ley contra la trata y la explotación de personas.",
+   "citas": [
+    {
+     "texto": "Blindar les polítiques d’igualtat i combatre els discursos d’odi i discriminatoris. Establir garanties normatives, pressupostàries i institucionals que assegurin la continuïtat de les polítiques feministes, els serveis d’atenció i els recursos de prevenció de les violències masclistes.",
+     "pagina_pdf": 24,
+     "traduccion": "Blindar las políticas de igualdad y combatir los discursos de odio y discriminatorios. Establecer garantías normativas, presupuestarias e institucionales que aseguren la continuidad de las políticas feministas, los servicios de atención y los recursos de prevención de las violencias machistas."
+    },
+    {
+     "texto": "Reforçar i actualitzar la legislació contra totes les formes de violència masclista. Reformar la Llei orgànica 1/2004 i la resta de legislació estatal per garantir la prevenció, detecció, protecció i reparació davant totes les violències masclistes, incloses l’econòmica, la vicària i la digital.",
+     "pagina_pdf": 24,
+     "traduccion": "Reforzar y actualizar la legislación contra todas las formas de violencia machista. Reformar la Ley Orgánica 1/2004 y el resto de la legislación estatal para garantizar la prevención, detección, protección y reparación ante todas las violencias machistas, incluidas la económica, la vicaria y la digital."
+    },
+    {
+     "texto": "Aprovar una llei integral contra el tràfic i l’explotació d’éssers humans. Reforçar la prevenció, la persecució dels delictes i la protecció i reparació de les víctimes, especialment dones i nenes explotades sexualment.",
+     "pagina_pdf": 24,
+     "traduccion": "Aprobar una ley integral contra la trata y la explotación de seres humanos. Reforzar la prevención, la persecución de los delitos y la protección y reparación de las víctimas, especialmente mujeres y niñas explotadas sexualmente."
+    }
+   ]
+  },
+  "erc/aborto": {
+   "estado": "sin_propuesta",
+   "terminos_buscados": [
+    "avort",
+    "interrupció",
+    "embaràs",
+    "subrogad",
+    "ventre de lloguer",
+    "objecció",
+    "gestaci",
+    "reproductiu",
+    "embarass",
+    "ventres de lloguer",
+    "matern",
+    "concebu",
+    "nascu",
+    "prenatal",
+    "gestant"
+   ]
+  },
   "junts/vivienda": {
    "estado": "pendiente"
   },
@@ -2346,6 +2733,12 @@ window.DATOS = {
   "junts/territorio": {
    "estado": "pendiente"
   },
+  "junts/igualdad": {
+   "estado": "pendiente"
+  },
+  "junts/aborto": {
+   "estado": "pendiente"
+  },
   "upc/vivienda": {
    "estado": "pendiente"
   },
@@ -2374,6 +2767,12 @@ window.DATOS = {
    "estado": "pendiente"
   },
   "upc/territorio": {
+   "estado": "pendiente"
+  },
+  "upc/igualdad": {
+   "estado": "pendiente"
+  },
+  "upc/aborto": {
    "estado": "pendiente"
   }
  }

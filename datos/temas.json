@@ -68,5 +68,19 @@
     "pregunta": "¿Qué proponen sobre las comunidades autónomas y su financiación?",
     "incluye": "financiación autonómica, competencias, autogobierno, referéndum o autodeterminación, deuda autonómica, lenguas cooficiales, modelo de Estado",
     "origen": "Añadido por el equipo: no está entre los diez problemas más citados en ese barómetro"
+  },
+  {
+    "id": "igualdad",
+    "nombre": "Igualdad entre mujeres y hombres",
+    "pregunta": "¿Qué proponen sobre igualdad entre mujeres y hombres y sobre la violencia contra las mujeres?",
+    "incluye": "violencia contra las mujeres (de género, machista o intrafamiliar, con el término de cada programa), leyes y organismos de igualdad, brecha salarial entre mujeres y hombres, paridad, prostitución y trata. No: conciliación (va a Empleo), aborto y gestación subrogada (van a su tema), derechos LGTBI (no son un tema de este comparador)",
+    "origen": "Añadido por el equipo: no está entre los diez problemas más citados en ese barómetro"
+  },
+  {
+    "id": "aborto",
+    "nombre": "Aborto y gestación subrogada",
+    "pregunta": "¿Qué proponen sobre el aborto y la gestación subrogada?",
+    "incluye": "ley de plazos y supuestos, acceso al aborto en la sanidad pública, objeción de conciencia, menores de 16 y 17 años, recoger el aborto en la Constitución, ayudas a la embarazada y alternativas al aborto, prohibición o regulación de la gestación subrogada, inscripción de los niños nacidos así en el extranjero. No: ayudas a la natalidad en general (van a Economía)",
+    "origen": "Añadido por el equipo: no está entre los diez problemas más citados en ese barómetro"
   }
 ]

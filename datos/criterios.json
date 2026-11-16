@@ -7,8 +7,8 @@
     "resultado": "14 candidaturas. Estatales: Frente Amplio, Podemos, PP, PSOE, Vox. Territoriales: Adelante Andalucía, Ara Més-Front Ampli, BNG, Compromís: Front Valencià, EAJ-PNV, EH Bildu, ERC, Junts, Unidad del Pueblo Canario (UPC). Compromís: Front Valencià, UPC y Ara Més-Front Ampli son coaliciones propias, no listas del Frente Amplio (comprobado el 15-11)."
   },
   "temas": {
-    "regla": "Los problemas del top 10 del barómetro del CIS de octubre de 2026 que corresponden a una política pública, más Pensiones, Impuestos y Modelo territorial, añadidos por el equipo y señalados como tales.",
-    "decidido": "2026-11-15, por el responsable del proyecto"
+    "regla": "Los problemas del top 10 del barómetro del CIS de octubre de 2026 que corresponden a una política pública, más Pensiones, Impuestos, Modelo territorial, Igualdad entre mujeres y hombres, y Aborto y gestación subrogada, añadidos por el equipo por ser temas de mucho debate en los que los programas proponen cosas muy distintas, y señalados como tales.",
+    "decidido": "2026-11-15, por el responsable del proyecto; Igualdad y Aborto y gestación subrogada añadidos el 2026-11-16, también por él. Aborto va en tema propio y no dentro de Igualdad para no encuadrarlo de entrada como derecho de la mujer; la gestación subrogada va con el aborto porque la ley española regula las dos cosas en la misma norma (salud sexual y reproductiva e interrupción voluntaria del embarazo). Derechos LGTBI, fuera."
   },
   "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa.",
   "sin_programa": {

@@ -10,10 +10,10 @@ datos/fichas/*.json que existan en ese momento, y escribe web/datos.js
 (window.DATOS = {...}), para que la web funcione sin servidor.
 
 - Para cada candidatura sin programa (programa.estado == "pendiente") genera sus
-  diez fichas en estado "pendiente".
+  fichas (una por tema) en estado "pendiente".
 - Para cada candidatura cuyo programa ya está publicado pero aún no tiene fichas
   revisadas (programa.estado == "en_preparacion") copia los datos del programa y
-  genera sus diez fichas en estado "en_preparacion", aunque haya fichas en archivo.
+  genera sus fichas (una por tema) en estado "en_preparacion", aunque haya fichas en archivo.
 - No inventa nada: solo copia a datos.js los campos que la web muestra, y si una
   ficha falta, la web no la muestra (el script lo avisa; con --estricto, falla).
 - Las citas se copian del texto del PDF y pueden traer saltos de línea y guiones
@@ -338,7 +338,7 @@ def main():
             pid, tid = clave.split("/")
             por_partido.setdefault(pid, []).append(tid)
         for pid, ts in por_partido.items():
-            detalle = "los 10 temas" if len(ts) == len(ids_temas) else ", ".join(ts)
+            detalle = f"los {len(ids_temas)} temas" if len(ts) == len(ids_temas) else ", ".join(ts)
             print(f"  - {pid}: {detalle}")
         if args.estricto:
             errores.append(f"--estricto: faltan {len(faltan)} fichas")

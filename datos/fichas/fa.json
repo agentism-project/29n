@@ -190,5 +190,45 @@
       }
     ],
     "seleccion": "Primera medida concreta del apartado 11.1 (financiación autonómica) y texto destacado de la introducción del apartado 18.1; el modelo federal y plurinacional está en la sexta transformación de la introducción (p. 8)."
+  },
+  {
+    "partido": "fa",
+    "tema": "igualdad",
+    "estado": "propuesta",
+    "titular": "Subir el gasto en igualdad",
+    "resumen": "Propone dar por ley a igualdad el 5 % o más del presupuesto no financiero del Estado, un 10 % más al año contra las violencias machistas y listas paritarias.",
+    "citas": [
+      {
+        "texto": "Asignaremos de forma obligatoria por ley al menos un 5 % del presupuesto no financiero del Estado a políticas de igualdad efectiva entre mujeres y hombres",
+        "pagina_pdf": 38
+      },
+      {
+        "texto": "Aumentaremos un 10 % (con carácter adicional anual) la partida contra las violencias machistas",
+        "pagina_pdf": 38
+      },
+      {
+        "texto": "Adaptaremos la normativa electoral para consolidar una paridad real y efectiva. Proponemos un modelo de listas en el que el formato cremallera se aplique como garantía mínima",
+        "pagina_pdf": 37
+      }
+    ],
+    "seleccion": "Primeras medidas del apartado «Más recursos para poder garantizar vidas libres de violencias machistas» (p. 38) y paridad de la introducción del apartado 2.7 (p. 37), único punto concreto de esa lista que es de este tema."
+  },
+  {
+    "partido": "fa",
+    "tema": "aborto",
+    "estado": "propuesta",
+    "titular": "Garantizar el derecho al aborto",
+    "resumen": "Propone reformar la Constitución para incluir el derecho al aborto. Quiere garantizarlo en centros públicos de todas las comunidades, con los gastos de viaje incluidos, y formación obligatoria para sanitarios.",
+    "citas": [
+      {
+        "texto": "Reformaremos el artículo 43 de la Constitución para incluir el derecho al aborto",
+        "pagina_pdf": 28
+      },
+      {
+        "texto": "Garantía del aborto (IVE): Estrategia para garantizar la IVE en centros públicos en todas las comunidades autónomas y ciudades autónomas, […] incluyendo gastos de desplazamiento. Formación obligatoria en IVE en planes de estudio y especialidades sanitarias.",
+        "pagina_pdf": 28
+      }
+    ],
+    "seleccion": "Primeras medidas del apartado «Salud sexual, reproductiva, obstétrica y duelo perinatal» (p. 28); el aborto en la Constitución y en la sanidad pública es además el primer punto de la introducción del apartado 2.7 (p. 37) y se repite en el 18.1 (p. 140). El programa no menciona la gestación subrogada."
   }
 ]

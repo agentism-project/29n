@@ -226,5 +226,41 @@
    }
   ],
   "seleccion": "Sin capítulo propio: medida 42 («una sola Nación», la única que nombra a las comunidades autónomas) y la 103 («ataques contra la Unidad Nacional»). No hay medidas sobre financiación autonómica."
+ },
+ {
+  "partido": "vox",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Derogar las «leyes de género»",
+  "resumen": "Propone derogar las «leyes de género» y aprobar otras que protejan a las mujeres víctimas de violencia. Quiere más prevención, protección policial y judicial y asistencia a las víctimas.",
+  "citas": [
+   {
+    "texto": "Derogar las leyes que han criminalizado a los hom -\nbres y desprotegido a las mujeres. Las leyes de género \nno han contribuido a proteger a las mujeres o reducir \nel número de víctimas",
+    "pagina_pdf": 30
+   },
+   {
+    "texto": "En su lugar, impulsar la aprobación \nde leyes y normas que protejan de verdad a las mujeres \nvíctimas de violencia, en especial a aquellas que sufran \nmaltrato",
+    "pagina_pdf": 30
+   },
+   {
+    "texto": "Protección efectiva de las mujeres frente a la violen -\ncia y las agresiones sexuales. Reforzar la prevención, \nla protección policial y judicial y la asistencia integral \na las víctimas",
+    "pagina_pdf": 46
+   }
+  ],
+  "seleccion": "Medida 47 (capítulo «Desregulación»), la que más desarrolla el tema, y medida 87 (capítulo «Seguridad y Defensa»); el programa no trata brecha salarial, paridad, prostitución ni trata."
+ },
+ {
+  "partido": "vox",
+  "tema": "aborto",
+  "estado": "propuesta",
+  "titular": "Defender «el derecho a la vida»",
+  "resumen": "Propone defender «el derecho a la vida» desde la concepción y acabar con la «cultura de la muerte». Quiere garantizar la objeción de conciencia de sanitarios y farmacéuticos.",
+  "citas": [
+   {
+    "texto": "Defensa del derecho a la vida desde su concepción \nhasta la muerte natural y fin de la cultura de la muerte.  \nGarantizar la objeción de conciencia de los profesiona -\nles sanitarios y farmacéuticos",
+    "pagina_pdf": 52
+   }
+  ],
+  "seleccion": "Medida 98 (capítulo «Familia y Vida»), la única que trata el tema; la palabra «aborto» y la gestación subrogada no aparecen en el programa. Cuenta por el criterio literal (16-11) porque incluye una medida concreta de la lista del tema: la objeción de conciencia de los sanitarios."
  }
 ]

@@ -119,8 +119,15 @@
     regeneracion: '<path d="M12 4v16"/><path d="M8 20h8"/><path d="M5 7h14"/><path d="M5 7l-2.5 6a2.5 2.5 0 0 0 5 0z"/><path d="M19 7l-2.5 6a2.5 2.5 0 0 0 5 0z"/>',
     pensiones: '<path d="M6 3h12"/><path d="M6 21h12"/><path d="M7.5 3v2.5c0 3 4.5 4.5 4.5 6.5s-4.5 3.5-4.5 6.5V21"/><path d="M16.5 3v2.5c0 3-4.5 4.5-4.5 6.5s4.5 3.5 4.5 6.5V21"/>',
     impuestos: '<path d="M6 3h12v18l-3-2-3 2-3-2-3 2z"/><path d="M9 15l6-6"/><circle cx="9.5" cy="9.5" r="1"/><circle cx="14.5" cy="14.5" r="1"/>',
-    territorio: '<path d="M3 6.5l6-3 6 3 6-3v14l-6 3-6-3-6 3z"/><path d="M9 3.5v14"/><path d="M15 6.5v14"/>'
+    territorio: '<path d="M3 6.5l6-3 6 3 6-3v14l-6 3-6-3-6 3z"/><path d="M9 3.5v14"/><path d="M15 6.5v14"/>',
+    igualdad: '<circle cx="12" cy="12" r="9"/><path d="M8 10h8"/><path d="M8 14h8"/>',
+    aborto: '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3.5"/>'
   };
+  function numeroEnLetra(n) {
+    var letras = ['cero', 'uno', 'dos', 'tres', 'cuatro', 'cinco', 'seis', 'siete', 'ocho', 'nueve', 'diez',
+      'once', 'doce', 'trece', 'catorce', 'quince'];
+    return letras[n] || String(n);
+  }
   var FLECHAS = {
     derecha: '<path d="M9 5l7 7-7 7"/>',
     izquierda: '<path d="M15 5l-7 7 7 7"/>',
@@ -186,7 +193,7 @@
       html:
         '<header class="portada">' +
         '<h1 tabindex="-1">¿Qué proponen?<span class="sub">Elecciones generales 29-N</span></h1>' +
-        '<p class="intro">Lo que dice el programa electoral oficial de cada partido sobre diez temas, en una línea, ' +
+        '<p class="intro">Lo que dice el programa electoral oficial de cada partido sobre ' + numeroEnLetra(TEMAS.length) + ' temas, en una línea, ' +
         'con la cita literal y la página donde comprobarlo.</p>' +
         '<a class="pastilla pastilla-material" href="#/material">' + flecha('compartir', 16) + 'Material para compartir</a>' +
         '</header>' +

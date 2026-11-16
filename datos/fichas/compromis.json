@@ -259,5 +259,55 @@
   "revision": [
    "2026-11-16: corregida tras la revisión ciega"
   ]
+ },
+ {
+  "partido": "compromis",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Castigar la violencia machista",
+  "resumen": "Propone revisar la protección de las víctimas, con auditorías externas de los fallos, y una respuesta penal proporcionada y efectiva. Quiere sancionar la explotación sexual, no a las personas prostituidas.",
+  "citas": [
+   {
+    "texto": "Revisarem de manera integral els protocols de valoració del risc i de protecció de les víctimes, incorporant auditories externes dels casos en què els mecanismes de protecció hagen fallat.",
+    "pagina_pdf": 54,
+    "traduccion": "Revisaremos de manera integral los protocolos de valoración del riesgo y de protección de las víctimas, incorporando auditorías externas de los casos en que los mecanismos de protección hayan fallado."
+   },
+   {
+    "texto": "Garantirem una resposta penal proporcionada i efectiva davant la violència masclista, amb especial atenció a la reincidència, l’incompliment de les ordres de protecció i les conductes d’alt risc.",
+    "pagina_pdf": 54,
+    "traduccion": "Garantizaremos una respuesta penal proporcionada y efectiva ante la violencia machista, con especial atención a la reincidencia, el incumplimiento de las órdenes de protección y las conductas de alto riesgo."
+   },
+   {
+    "texto": "Establirem majors responsabilitats i sancions per a activitats que impliquen explotació sexual i tràfic de persones amb finalitats d’explotació sexual, amb un règim penal proporcionat per als supòsits més greus, evitant en tot cas sancionar les persones prostituïdes.",
+    "pagina_pdf": 54,
+    "traduccion": "Estableceremos mayores responsabilidades y sanciones para actividades que impliquen explotación sexual y trata de personas con fines de explotación sexual, con un régimen penal proporcionado para los supuestos más graves, evitando en todo caso sancionar a las personas prostituidas."
+   }
+  ],
+  "seleccion": "Apartado «Lluita contra les violències masclistes» (p. 53-55): la primera medida sobre violencia tras las de gestación subrogada (que van a Aborto), la de respuesta penal, que es la que nombra la «violència masclista» (se omite la intermedia, refuerzo de unidades policiales y juzgados), y la primera del bloque de explotación sexual y prostitución. Término del programa: «violència masclista»/«violències masclistes» (también «violència de gènere» en Justícia, p. 42); no es término acuñado por el partido, sin comillas."
+ },
+ {
+  "partido": "compromis",
+  "tema": "aborto",
+  "estado": "propuesta",
+  "titular": "Garantizar el aborto gratuito",
+  "resumen": "Propone el aborto gratuito en la sanidad pública. Quiere vigilar la objeción de conciencia para que no la ejerza un hospital entero, y reforzar la prohibición de la gestación subrogada.",
+  "citas": [
+   {
+    "texto": "Garantirem la interrupció voluntària de l’embaràs gratuïta, segura i accessible dins de la xarxa sanitària pública, en els termes previstos legalment, sense desplaçaments injustificats ni obstacles administratius.",
+    "pagina_pdf": 52,
+    "traduccion": "Garantizaremos la interrupción voluntaria del embarazo gratuita, segura y accesible dentro de la red sanitaria pública, en los términos previstos legalmente, sin desplazamientos injustificados ni obstáculos administrativos."
+   },
+   {
+    "texto": "Regularem i supervisarem l’objecció de consciència individual per a impedir que es convertisca en una objecció institucional encoberta. Cap hospital públic ha de deixar de prestar el servei per falta de planificació.",
+    "pagina_pdf": 53,
+    "traduccion": "Regularemos y supervisaremos la objeción de conciencia individual para impedir que se convierta en una objeción institucional encubierta. Ningún hospital público debe dejar de prestar el servicio por falta de planificación."
+   },
+   {
+    "texto": "Reforçarem la prohibició dels contractes de gestació per substitució/gestació subrogada/ventres de lloguer o qualsevol altre eufemisme, amb les garanties constitucionals i jurídiques corresponents.",
+    "pagina_pdf": 53,
+    "traduccion": "Reforzaremos la prohibición de los contratos de gestación por sustitución/gestación subrogada/vientres de alquiler o cualquier otro eufemismo, con las garantías constitucionales y jurídicas correspondientes."
+   }
+  ],
+  "seleccion": "Las dos medidas sobre aborto del apartado Feminisme (p. 52-53), las únicas del programa, y la primera medida del apartado «Lluita contra les violències masclistes» (p. 53), sobre gestación subrogada; se omiten las otras cuatro de ese bloque (publicidad, negocio transnacional, derechos de los niños ya nacidos, pobreza) por el máximo de 3."
  }
 ]

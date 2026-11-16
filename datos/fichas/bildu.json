@@ -214,5 +214,45 @@
       }
     ],
     "seleccion": "Apartado 2.1 (primera medida y derecho a decidir) y primera medida del 2.2 Autogobierno."
+  },
+  {
+    "partido": "bildu",
+    "tema": "igualdad",
+    "estado": "propuesta",
+    "titular": "Reconocer la violencia vicaria",
+    "resumen": "Propone avanzar en el reconocimiento y la penalización de la violencia vicaria y prevenir las violencias sexuales en internet. Quiere revisar la protección de las mujeres víctimas de violencia machista.",
+    "citas": [
+      {
+        "texto": "Avanzar en el reconocimiento y penalización de la violencia vicaria.",
+        "pagina_pdf": 19
+      },
+      {
+        "texto": "Prevenir las violencias sexuales en el ámbito digital, que comprenden la difusión de actos de violencia sexual a través de medios tecnológicos.",
+        "pagina_pdf": 19
+      },
+      {
+        "texto": "Analizar y revisar los recursos y sistemas existentes en la actualidad para la protección y reparación de mujeres víctimas de violencia machista.",
+        "pagina_pdf": 19
+      }
+    ],
+    "seleccion": "Apartado 1.10 Feminismo: medidas concretas sobre violencia contra las mujeres (sus dos primeras medidas van a Aborto)."
+  },
+  {
+    "partido": "bildu",
+    "tema": "aborto",
+    "estado": "propuesta",
+    "titular": "Garantizar el acceso al aborto",
+    "resumen": "Propone garantizar el derecho al aborto y un acceso libre, seguro, confidencial y digno. Plantea zonas de protección frente al acoso en torno a los centros que lo practican.",
+    "citas": [
+      {
+        "texto": "Blindar el derecho al aborto. Para ello, daremos los pasos y propondremos todas las medidas necesarias para garantizar el acceso libre, seguro, confidencial y digno al aborto.",
+        "pagina_pdf": 19
+      },
+      {
+        "texto": "Avanzar en medidas de protección frente al acoso en el acceso al aborto. Particularmente defenderemos medidas concretas de protección en torno a los centros sanitarios que practican interrupciones voluntarias del embarazo como perímetros de protección",
+        "pagina_pdf": 19
+      }
+    ],
+    "seleccion": "Dos primeras medidas del apartado 1.10 Feminismo; el programa no menciona la gestación subrogada."
   }
 ]

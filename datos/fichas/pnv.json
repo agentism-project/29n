@@ -229,5 +229,41 @@
   "revision": [
    "2026-11-16: corregida tras la revisión ciega"
   ]
+ },
+ {
+  "partido": "pnv",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Aplicar las leyes de igualdad",
+  "resumen": "Propone aplicar las leyes de igualdad y reforzar sus organismos. Quiere que se cumplan todas las medidas estatales del Pacto de Estado contra la Violencia de Género, renovado en 2025.",
+  "citas": [
+   {
+    "texto": "Asegurar la aplicación efectiva de las leyes de igualdad y la incorporación de la perspectiva de género en las políticas públicas, desde su elaboración hasta su evaluación.",
+    "pagina_pdf": 26
+   },
+   {
+    "texto": "Asegurar la transposición y aplicación de las Directivas europeas 2024/1499 y 2024/1500, reforzando la independencia y capacidad de actuación de los organismos de igualdad y respetando las competencias y funciones de Emakunde.",
+    "pagina_pdf": 26
+   },
+   {
+    "texto": "Asegurar el cumplimiento íntegro de las medidas estatales del Pacto de Estado contra la Violencia de Género renovado en 2025, especialmente en materia de violencia digital, económica y protección de las víctimas.",
+    "pagina_pdf": 26
+   }
+  ],
+  "seleccion": "Primeras medidas del apartado 3.3 «Igualdad real y una vida libre de violencia machista» (01 y 02) y primera del bloque «Violencia machista y protección judicial» (06)."
+ },
+ {
+  "partido": "pnv",
+  "tema": "aborto",
+  "estado": "propuesta",
+  "titular": "Evitar el acoso a quien aborta",
+  "resumen": "Propone zonas de protección de al menos 150 metros alrededor de los centros de aborto, para impedir el acoso y proteger la intimidad de las mujeres.",
+  "citas": [
+   {
+    "texto": "Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo, mediante medidas proporcionadas que impidan el acoso y protejan la intimidad y la libertad de las mujeres.",
+    "pagina_pdf": 26
+   }
+  ],
+  "seleccion": "Medida 05 del bloque «Igualdad y derechos sexuales y reproductivos» (3.3), la única que nombra el aborto. La 04 (derechos sexuales y reproductivos en general) no lo nombra: fuera por el criterio literal del tema (16-11). Sin apariciones de «gestación», «subrogada» ni «vientre»."
  }
 ]

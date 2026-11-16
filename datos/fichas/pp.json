@@ -226,5 +226,48 @@
    }
   ],
   "seleccion": "Primeras medidas del pacto territorial del 3.2 (100, 101 y 102), las que anuncia su entradilla: reglas comunes y responsabilidad de cada comunidad (p. 33)."
+ },
+ {
+  "partido": "pp",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Proteger a víctimas de violencia",
+  "resumen": "Propone aparatos fiables para vigilar órdenes de alejamiento y proteger a los hijos de las víctimas. Quiere una ley contra la trata y menos trabas profesionales para las mujeres.",
+  "citas": [
+   {
+    "texto": "Garantizaremos la fiabilidad de los dispositivos que vigilan las órdenes de alejamiento. […] reforzaremos la valoración del riesgo y los planes individuales de seguridad, con protección también para los hijos de las víctimas de violencia de género.",
+    "pagina_pdf": 17
+   },
+   {
+    "texto": "SE PROTEGERÁ A LAS MUJERES Y A LAS NIÑAS FRENTE A LA TRATA, LA MUTILACIÓN GENITAL Y LOS MATRIMONIOS FORZADOS. Aprobaremos una ley integral contra la trata de seres humanos para proteger a las víctimas y perseguir a las redes que se lucran con ellas.",
+    "pagina_pdf": 17
+   },
+   {
+    "texto": "NI TRABAS NI CULPAS. IGUALDAD REAL. Trabajaremos para que las políticas de igualdad aborden los problemas reales que siguen limitando la libertad y las oportunidades de las personas. Eliminaremos los obstáculos que todavía frenan la trayectoria profesional y personal de las mujeres.",
+    "pagina_pdf": 35
+   }
+  ],
+  "seleccion": "Medidas 28 y 29 del 1.4, las únicas sobre violencia de género y trata, y la 115 «Igualdad real» del 3.2 (p. 35), la única de políticas de igualdad."
+ },
+ {
+  "partido": "pp",
+  "tema": "aborto",
+  "estado": "sin_propuesta",
+  "terminos_buscados": [
+   "abort",
+   "embaraz",
+   "gestaci",
+   "gestante",
+   "subroga",
+   "vientre",
+   "interrupci",
+   "objeci",
+   "concebid",
+   "nacid",
+   "matern",
+   "prenatal"
+  ],
+  "apariciones_revisadas": true,
+  "nota": "El programa no habla del aborto ni de la gestación subrogada. «concebid» y «nacid» salen solo en la medida 159 (p. 44), de ayudas a la familia: «El concebido no nacido computará para determinar las ayudas y beneficios que correspondan a la familia». Es una ayuda a la familia, en el capítulo de familia y natalidad, que el programa no relaciona con el aborto: por el criterio literal del tema (16-11) no cuenta aquí (iría a Economía). «interrupci» se refiere a rutas de transporte."
  }
 ]

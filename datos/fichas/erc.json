@@ -264,5 +264,54 @@
    }
   ],
   "seleccion": "Primera medida del programa (1, referéndum, apartado A.A) y primeras del A.D (23 y 24): financiación y condonación de deuda, lo que destaca la introducción de la parte A (p. 7)."
+ },
+ {
+  "partido": "erc",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Garantizar políticas de igualdad",
+  "resumen": "Plantea asegurar por ley y presupuesto las políticas feministas. Quiere reformar las leyes contra la violencia machista y aprobar una ley contra la trata y la explotación de personas.",
+  "citas": [
+   {
+    "texto": "Blindar les polítiques d’igualtat i combatre els discursos d’odi i discriminatoris. Establir garanties normatives, pressupostàries i institucionals que assegurin la continuïtat de les polítiques feministes, els serveis d’atenció i els recursos de prevenció de les violències masclistes.",
+    "pagina_pdf": 24,
+    "traduccion": "Blindar las políticas de igualdad y combatir los discursos de odio y discriminatorios. Establecer garantías normativas, presupuestarias e institucionales que aseguren la continuidad de las políticas feministas, los servicios de atención y los recursos de prevención de las violencias machistas."
+   },
+   {
+    "texto": "Reforçar i actualitzar la legislació contra totes les formes de violència masclista. Reformar la Llei orgànica 1/2004 i la resta de legislació estatal per garantir la prevenció, detecció, protecció i reparació davant totes les violències masclistes, incloses l’econòmica, la vicària i la digital.",
+    "pagina_pdf": 24,
+    "traduccion": "Reforzar y actualizar la legislación contra todas las formas de violencia machista. Reformar la Ley Orgánica 1/2004 y el resto de la legislación estatal para garantizar la prevención, detección, protección y reparación ante todas las violencias machistas, incluidas la económica, la vicaria y la digital."
+   },
+   {
+    "texto": "Aprovar una llei integral contra el tràfic i l’explotació d’éssers humans. Reforçar la prevenció, la persecució dels delictes i la protecció i reparació de les víctimes, especialment dones i nenes explotades sexualment.",
+    "pagina_pdf": 24,
+    "traduccion": "Aprobar una ley integral contra la trata y la explotación de seres humanos. Reforzar la prevención, la persecución de los delitos y la protección y reparación de las víctimas, especialmente mujeres y niñas explotadas sexualmente."
+   }
+  ],
+  "seleccion": "Primeras tres medidas (87, 88 y 89) del apartado B.D «Més feminisme, més drets LGBTI+ i més antiracisme», cuya introducción (p. 23) destaca las políticas feministas y las violencias machistas."
+ },
+ {
+  "partido": "erc",
+  "tema": "aborto",
+  "estado": "sin_propuesta",
+  "terminos_buscados": [
+   "avort",
+   "interrupció",
+   "embaràs",
+   "subrogad",
+   "ventre de lloguer",
+   "objecció",
+   "gestaci",
+   "reproductiu",
+   "embarass",
+   "ventres de lloguer",
+   "matern",
+   "concebu",
+   "nascu",
+   "prenatal",
+   "gestant"
+  ],
+  "apariciones_revisadas": true,
+  "nota": "No aparecen «avort», «interrupció», «embaràs»/«embarassada», «ventre(s) de lloguer», «subrogad», «objecció», «matern», «concebu», «nascu», «prenatal» ni «gestant» con ese sentido («embar» y «lloguer» salen en embargo de armas, barcas y alquiler de vivienda). Las apariciones de «gestaci» (medidas 90 y 91, p. 24) tratan del permiso por pérdida gestacional. La única de «reproductiu» es la frase general «garantir els drets sexuals i reproductius» (introducción del apartado B.D, p. 23), sin nombrar el aborto ni medidas: no cuenta por el criterio literal del tema (16-11)."
  }
 ]

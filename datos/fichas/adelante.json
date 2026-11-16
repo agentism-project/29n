@@ -225,5 +225,49 @@
    "2026-11-16: corregida tras la revisión ciega",
    "2026-11-16: ajustada tras la segunda revisión ciega"
   ]
+ },
+ {
+  "partido": "adelante",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Gastar más contra el machismo",
+  "resumen": "Propone dar más dinero, para varios años, al Pacto de Estado contra la violencia machista y que llegue a los ayuntamientos. Quiere una ley de igualdad de sueldos entre sexos.",
+  "citas": [
+   {
+    "texto": "Igualdad real y lucha contra el machismo Pacto de Estado contra la violencia machista con presupuesto",
+    "pagina_pdf": 27
+   },
+   {
+    "texto": "Pacto de Estado con presupuesto Más financiación, finalista y plurianual, que llegue a los ayuntamientos.",
+    "pagina_pdf": 98
+   },
+   {
+    "texto": "Ley de igualdad retributiva Salarios desglosados por sexo, incluidos complementos, y planes de igualdad con objetivos medibles.",
+    "pagina_pdf": 100
+   }
+  ],
+  "seleccion": "Medida 24 de «Las 29» (p. 27) y su desarrollo en la 508, primera del 7.1 (p. 98), también en la introducción del área 7; la 526, primera del 7.2 dentro del tema (523-525 son conciliación)."
+ },
+ {
+  "partido": "adelante",
+  "tema": "aborto",
+  "estado": "propuesta",
+  "titular": "Garantizar el aborto público",
+  "resumen": "Propone garantizar el aborto en la sanidad pública y recogerlo en la Constitución. No quiere dinero público para «organizaciones que acosan» a quien aborta. Quiere prohibir la gestación subrogada.",
+  "citas": [
+   {
+    "texto": "El derecho al aborto se garantizará en la sanidad pública de todas las provincias, sin conciertos ni copagos, y quedará blindado en la Constitución.",
+    "pagina_pdf": 40
+   },
+   {
+    "texto": "ni un euro público para las organizaciones que acosan a las mujeres que abortan.",
+    "pagina_pdf": 27
+   },
+   {
+    "texto": "Prohibición de la gestación subrogada",
+    "pagina_pdf": 98
+   }
+  ],
+  "seleccion": "Medida 24 de «Las 29» (p. 27) y la introducción del apartado de salud sexual y reproductiva, que resume las propuestas 47 y 48 (p. 40); la 521 (p. 98) responde a la gestación subrogada."
  }
 ]

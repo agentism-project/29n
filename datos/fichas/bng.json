@@ -261,5 +261,50 @@
   "revision": [
    "2026-11-16: corregida tras la revisión ciega"
   ]
+ },
+ {
+  "partido": "bng",
+  "tema": "igualdad",
+  "estado": "propuesta",
+  "titular": "Combatir toda violencia machista",
+  "resumen": "Propone una reforma legal integral que cubra toda violencia contra las mujeres. Quiere recoger el término feminicidio en la ley y abolir la prostitución castigando a proxenetas y clientes.",
+  "citas": [
+   {
+    "texto": "Cumprir as obrigas internacionais en materia de prevención e loita contra todas as formas de violencia machista, […] realizar unha reforma lexislativa integral que garanta a cobertura de todos os tipos de violencias contra as mulleres na lei orgánica correspondente",
+    "pagina_pdf": 24,
+    "traduccion": "Cumplir las obligaciones internacionales en materia de prevención y lucha contra todas las formas de violencia machista, […] realizar una reforma legislativa integral que garantice la cobertura de todos los tipos de violencias contra las mujeres en la ley orgánica correspondiente"
+   },
+   {
+    "texto": "Introducir o termo feminicidio na lexislación española e impulsar un Estatuto de Vítima de Feminicidio para unha abordaxe integral da violencia machista.",
+    "pagina_pdf": 25,
+    "traduccion": "Introducir el término feminicidio en la legislación española e impulsar un Estatuto de Víctima de Feminicidio para un abordaje integral de la violencia machista."
+   },
+   {
+    "texto": "Impulsar medidas estratéxicas conducentes á abolición da prostitución desde unha perspectiva que puna e persiga o proxeneta e prostituidor, ficando as mulleres prostituídas libres de calquera criminalización, estigmatización ou aproximación moralista.",
+    "pagina_pdf": 26,
+    "traduccion": "Impulsar medidas estratégicas conducentes a la abolición de la prostitución desde una perspectiva que castigue y persiga al proxeneta y al prostituidor, quedando las mujeres prostituidas libres de cualquier criminalización, estigmatización o aproximación moralista."
+   }
+  ],
+  "seleccion": "La introducción del 2.6 señala la violencia machista como el problema más importante de las mujeres: primera medida del 2.6.1 (p. 24), el feminicidio en la ley (medida concreta, p. 25) y la abolición de la prostitución, la medida más desarrollada del apartado (p. 26)."
+ },
+ {
+  "partido": "bng",
+  "tema": "aborto",
+  "estado": "propuesta",
+  "titular": "Impedir la gestación subrogada",
+  "resumen": "Rechaza legalizar o regular la gestación subrogada («vientres de alquiler»), que ve como explotación de las mujeres. Propone cambios legales para impedir que se haga a través de otros países.",
+  "citas": [
+   {
+    "texto": "Oposición firme e contundente ante calquera intento de legalización, regulamentación e banalización dos ventres de alugueiro por se trataren dunha forma de explotación dos corpos das mulleres, así como de mercantilización de seres humanos (mulleres e crianzas).",
+    "pagina_pdf": 26,
+    "traduccion": "Oposición firme y contundente ante cualquier intento de legalización, regulación y banalización de los vientres de alquiler por tratarse de una forma de explotación de los cuerpos de las mujeres, así como de mercantilización de seres humanos (mujeres y niños)."
+   },
+   {
+    "texto": "Impulsar as mudanzas legais necesarias para impedir esta práctica a través de terceiros países.",
+    "pagina_pdf": 26,
+    "traduccion": "Impulsar los cambios legales necesarios para impedir esta práctica a través de terceros países."
+   }
+  ],
+  "seleccion": "Única medida del programa sobre el tema, en el 2.6.1 (p. 26). El programa no menciona el aborto: buscados «abort», «interrup», «embaraz», «xestante», «xestaci», «subroga», «ventres», «reprodut», «anticonce», «obxecci»; las apariciones de «interrup» (pensiones) y «reprodut» (salud LGBTI) son de otros temas."
  }
 ]
