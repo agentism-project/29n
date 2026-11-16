@@ -23,7 +23,8 @@
 
   var TEXTO_ESTADO = {
     sin_propuesta: 'El programa no trata este tema',
-    pendiente: 'Aún no ha publicado su programa'
+    pendiente: 'Aún no ha publicado su programa',
+    en_preparacion: 'Programa publicado: resumen en preparación'
   };
   var GRUPOS = {
     estatales: 'Partidos estatales',
@@ -255,7 +256,8 @@
     var com = comunidadDe(p);
 
     var titular = f.estado === 'propuesta' ? f.titular :
-      f.estado === 'pendiente' ? 'Aún no ha publicado su programa para el 29-N' : TEXTO_ESTADO.sin_propuesta;
+      f.estado === 'pendiente' ? 'Aún no ha publicado su programa para el 29-N' :
+      f.estado === 'en_preparacion' ? TEXTO_ESTADO.en_preparacion : TEXTO_ESTADO.sin_propuesta;
 
     var cuerpo = '';
     var bloques = '';
@@ -285,6 +287,11 @@
           return '<li>«' + esc(term) + '»</li>';
         }).join('') + '</ul>' +
         enlaceExterno(p.programa.url, 'Abrir el programa completo', 'boton boton-claro');
+    } else if (f.estado === 'en_preparacion') {
+      cuerpo =
+        '<p class="resumen">Ya ha publicado su programa, «' + esc(p.programa.titulo) + '». Estamos preparando el resumen de cada tema, con sus citas y sus páginas. Mientras, puedes leerlo completo.</p>' +
+        enlaceExterno(p.programa.url, 'Abrir el programa (PDF)', 'boton boton-negro') +
+        (p.programa.url_archivo ? enlaceExterno(p.programa.url_archivo, 'Copia archivada', 'boton boton-claro') : '');
     } else {
       if (p.web) cuerpo += enlaceExterno(p.web, 'Su web oficial · ' + esc(hostDe(p.web)), 'boton boton-negro');
       if (p.programa_2023) {
@@ -814,6 +821,10 @@
     } else if (f.estado === 'sin_propuesta') {
       titular = TEXTO_ESTADO.sin_propuesta;
       resumen = 'Términos buscados en todo el programa: ' + f.terminos_buscados.map(function (x) { return '«' + esc(x) + '»'; }).join(', ') + '.';
+      paginas = 'Programa oficial: «' + esc(p.programa.titulo) + '»';
+    } else if (f.estado === 'en_preparacion') {
+      titular = TEXTO_ESTADO.en_preparacion;
+      resumen = '';
       paginas = 'Programa oficial: «' + esc(p.programa.titulo) + '»';
     } else {
       titular = 'Aún no ha publicado su programa para el 29-N';

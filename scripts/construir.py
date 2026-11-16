@@ -11,6 +11,9 @@ datos/fichas/*.json que existan en ese momento, y escribe web/datos.js
 
 - Para cada candidatura sin programa (programa.estado == "pendiente") genera sus
   diez fichas en estado "pendiente".
+- Para cada candidatura cuyo programa ya está publicado pero aún no tiene fichas
+  revisadas (programa.estado == "en_preparacion") copia los datos del programa y
+  genera sus diez fichas en estado "en_preparacion", aunque haya fichas en archivo.
 - No inventa nada: solo copia a datos.js los campos que la web muestra, y si una
   ficha falta, la web no la muestra (el script lo avisa; con --estricto, falla).
 - Las citas se copian del texto del PDF y pueden traer saltos de línea y guiones
@@ -43,6 +46,8 @@ DATOS = RAIZ / "datos"
 SALIDA = RAIZ / "web" / "datos.js"
 
 ESTADOS_PROGRAMA_SIN_TEXTO = {"pendiente"}
+# Programa publicado y fijado por su huella, con las fichas aún en preparación.
+ESTADOS_PROGRAMA_SIN_FICHAS = {"pendiente", "en_preparacion"}
 ESTADOS_FICHA = {"propuesta", "sin_propuesta"}
 RE_COLOR = re.compile(r"^#[0-9a-fA-F]{6}$")
 RE_FECHA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -281,16 +286,16 @@ def main():
             de_archivo[(pid, tid)] = (f, ruta.name)
 
     fichas, faltan = {}, []
-    cuenta = {"propuesta": 0, "sin_propuesta": 0, "pendiente": 0}
+    cuenta = {"propuesta": 0, "sin_propuesta": 0, "pendiente": 0, "en_preparacion": 0}
     for sp in partidos:
-        pendiente = sp["programa"]["estado"] in ESTADOS_PROGRAMA_SIN_TEXTO
+        estado_prog = sp["programa"]["estado"]
         for tid in ids_temas:
             clave = f"{sp['id']}/{tid}"
-            if pendiente:
-                if (sp["id"], tid) in de_archivo:
+            if estado_prog in ESTADOS_PROGRAMA_SIN_FICHAS:
+                if estado_prog == "pendiente" and (sp["id"], tid) in de_archivo:
                     avisos.append(f"{clave}: hay ficha en archivo pero el programa está «pendiente»; se ignora")
-                fichas[clave] = {"estado": "pendiente"}
-                cuenta["pendiente"] += 1
+                fichas[clave] = {"estado": estado_prog}
+                cuenta[estado_prog] += 1
                 continue
             if (sp["id"], tid) not in de_archivo:
                 faltan.append(clave)
@@ -315,7 +320,9 @@ def main():
             "partidos_fuente": cp.get("fuente"),
             "temas_regla": criterios.get("temas", {}).get("regla"),
             "fuente_unica": criterios.get("fuente_unica"),
-            "sin_programa_regla": criterios.get("sin_programa", {}).get("regla"),
+            # El texto público, no la regla interna (que lleva fechas y notas de trabajo).
+            "sin_programa_regla": criterios.get("sin_programa", {}).get("texto_publico")
+            or criterios.get("sin_programa", {}).get("regla"),
         },
         "temas": temas,
         "partidos": partidos,
@@ -349,7 +356,7 @@ def main():
     print(
         f"Resultado: {len(partidos)} partidos, {len(temas)} temas, {len(fichas)} fichas "
         f"({cuenta['propuesta']} propuesta, {cuenta['sin_propuesta']} sin_propuesta, "
-        f"{cuenta['pendiente']} pendiente), {len(faltan)} faltan, {len(avisos)} avisos, "
+        f"{cuenta['pendiente']} pendiente, {cuenta['en_preparacion']} en_preparacion), {len(faltan)} faltan, {len(avisos)} avisos, "
         f"{len(archivos)} archivos de fichas leídos; actualizado el {fecha} -> "
         f"{SALIDA.relative_to(RAIZ).as_posix()}"
     )

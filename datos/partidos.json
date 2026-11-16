@@ -7,8 +7,16 @@
     "color": "#F03C00",
     "color_fuente": "Fondo principal de la portada de frenteamplio.info (naranja), leído en el navegador el 16-11",
     "programa": {
-      "estado": "pendiente",
-      "nota": "Sin programa en frenteamplio.info a 15-11; la prensa gallega cita un «100+15» de Fronte Ampla sin enlace oficial."
+      "estado": "en_preparacion",
+      "titulo": "Un programa como una casa",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "enlazado_desde": "https://frenteamplio.info/programa/",
+      "fecha_pdf": "2026-11-16",
+      "paginas": 151,
+      "idioma": "es",
+      "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+      "descargado": "2026-11-16",
+      "nota": "Publicado el 16-11 (PDF creado ese día). Título leído en la portada, que no tiene capa de texto."
     }
   },
   {
@@ -201,8 +209,16 @@
     "color": "#00c19f",
     "color_fuente": "Fondo de la barra de navegación de ehbildu.eus (15-11-2026); el sitio no declara theme-color.",
     "programa": {
-      "estado": "pendiente",
-      "nota": "Sin programa en ehbildu.eus a 15-11 (página 2 de documentos sin revisar)."
+      "estado": "en_preparacion",
+      "titulo": "Posible egin. Garantía y derechos",
+      "url": "https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf",
+      "enlazado_desde": "https://ehbildu.eus/es/noticias/eh-bildu-presenta-una-agenda-de-medidas-para-reforzar-los-derechos-sociales-y-ampliar-el-autogobierno-de-euskal-herria",
+      "fecha_pdf": "2026-11-16",
+      "paginas": 30,
+      "idioma": "es",
+      "sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
+      "descargado": "2026-11-16",
+      "nota": "Publicado el 16-11 en castellano y en euskera (posibleegin-programa-eus.pdf, 30 págs.); se usa la versión en castellano. Título leído en la portada."
     }
   },
   {

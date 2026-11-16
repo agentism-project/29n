@@ -2,7 +2,7 @@
   "partidos": {
     "regla": "Candidaturas a las que el estudio preelectoral del CIS n.º 3584 (elecciones generales 2026) atribuye al menos un escaño en su horquilla nacional. La página nombra el estudio, no reproduce sus cifras.",
     "fuente": "https://www.cis.es/documents/d/guest/3584_estimacion-pdf",
-    "orden": "Alfabético, primero las candidaturas que se presentan en toda España y luego las territoriales. No se ordena por la encuesta: el orden revelaría su resultado, y desde el 24-11 no se pueden difundir sondeos.",
+    "orden": "Alfabético, primero los partidos estatales y luego los de comunidades autónomas. No se ordena por la encuesta: el orden revelaría su resultado, y desde el 24-11 no se pueden difundir sondeos.",
     "decidido": "2026-11-15, por el responsable del proyecto",
     "resultado": "14 candidaturas. Estatales: Frente Amplio, Podemos, PP, PSOE, Vox. Territoriales: Adelante Andalucía, Ara Més-Front Ampli, BNG, Compromís: Front Valencià, EAJ-PNV, EH Bildu, ERC, Junts, Unidad del Pueblo Canario (UPC). Compromís: Front Valencià, UPC y Ara Més-Front Ampli son coaliciones propias, no listas del Frente Amplio (comprobado el 15-11)."
   },
@@ -13,6 +13,8 @@
   "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa.",
   "sin_programa": {
     "regla": "Se publica el jueves 19-11 con lo que haya. Una candidatura sin programa aparece como «Aún no ha publicado su programa» con enlace a su web. Si solo tiene propuestas del 29-N en su web oficial, se usan esas páginas, con una etiqueta que lo dice y una copia archivada con fecha. Si el mismo partido publicó programa en 2023, la ficha enlaza a ese programa («Consultar su programa de 2023») sin resumir ni citar nada de él. Se actualiza cuando publique.",
+    "texto_publico": "Una candidatura que aún no ha publicado programa aparece como «Aún no ha publicado su programa», con enlace a su web oficial. Si el mismo partido publicó programa en 2023, enlazamos a ese programa sin resumir ni citar nada de él, porque puede no coincidir con lo que propone hoy. Cuando publica su programa, lo enlazamos con su huella en cuanto lo comprobamos («Programa publicado: resumen en preparación») y añadimos sus fichas cuando han pasado las mismas comprobaciones que las de los demás partidos.",
+    "texto_publico_nota": "16-11: la web muestra este texto y no la regla interna, que llevaba la fecha de trabajo del 19-11 y la opción de las propuestas en la web, aún sin aplicar a nadie. Si se aplica, se añade aquí.",
     "decidido": "2026-11-15, por el responsable del proyecto"
   },
   "diseno": {

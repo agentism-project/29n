@@ -8,11 +8,11 @@ window.DATOS = {
  },
  "criterios": {
   "partidos_regla": "Candidaturas a las que el estudio preelectoral del CIS n.º 3584 (elecciones generales 2026) atribuye al menos un escaño en su horquilla nacional. La página nombra el estudio, no reproduce sus cifras.",
-  "partidos_orden": "Alfabético, primero las candidaturas que se presentan en toda España y luego las territoriales. No se ordena por la encuesta: el orden revelaría su resultado, y desde el 24-11 no se pueden difundir sondeos.",
+  "partidos_orden": "Alfabético, primero los partidos estatales y luego los de comunidades autónomas. No se ordena por la encuesta: el orden revelaría su resultado, y desde el 24-11 no se pueden difundir sondeos.",
   "partidos_fuente": "https://www.cis.es/documents/d/guest/3584_estimacion-pdf",
   "temas_regla": "Los problemas del top 10 del barómetro del CIS de octubre de 2026 que corresponden a una política pública, más Pensiones, Impuestos y Modelo territorial, añadidos por el equipo y señalados como tales.",
   "fuente_unica": "El programa electoral oficial de cada candidatura para el 29-N, en la versión fijada por su SHA-256. Ni declaraciones ni prensa.",
-  "sin_programa_regla": "Se publica el jueves 19-11 con lo que haya. Una candidatura sin programa aparece como «Aún no ha publicado su programa» con enlace a su web. Si solo tiene propuestas del 29-N en su web oficial, se usan esas páginas, con una etiqueta que lo dice y una copia archivada con fecha. Si el mismo partido publicó programa en 2023, la ficha enlaza a ese programa («Consultar su programa de 2023») sin resumir ni citar nada de él. Se actualiza cuando publique."
+  "sin_programa_regla": "Una candidatura que aún no ha publicado programa aparece como «Aún no ha publicado su programa», con enlace a su web oficial. Si el mismo partido publicó programa en 2023, enlazamos a ese programa sin resumir ni citar nada de él, porque puede no coincidir con lo que propone hoy. Cuando publica su programa, lo enlazamos con su huella en cuanto lo comprobamos («Programa publicado: resumen en preparación») y añadimos sus fichas cuando han pasado las mismas comprobaciones que las de los demás partidos."
  },
  "temas": [
   {
@@ -94,7 +94,14 @@ window.DATOS = {
    "color": "#f03c00",
    "web": "https://frenteamplio.info/",
    "programa": {
-    "estado": "pendiente"
+    "estado": "en_preparacion",
+    "titulo": "Un programa como una casa",
+    "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+    "fecha_pdf": "2026-11-16",
+    "paginas": 151,
+    "idioma": "es",
+    "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+    "descargado": "2026-11-16"
    }
   },
   {
@@ -269,7 +276,14 @@ window.DATOS = {
    "color": "#00c19f",
    "web": "https://ehbildu.eus/",
    "programa": {
-    "estado": "pendiente"
+    "estado": "en_preparacion",
+    "titulo": "Posible egin. Garantía y derechos",
+    "url": "https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf",
+    "fecha_pdf": "2026-11-16",
+    "paginas": 30,
+    "idioma": "es",
+    "sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
+    "descargado": "2026-11-16"
    }
   },
   {
@@ -322,34 +336,34 @@ window.DATOS = {
  ],
  "fichas": {
   "fa/vivienda": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/inmigracion": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/economia": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/empleo": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/sanidad": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/educacion": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/regeneracion": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/pensiones": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/impuestos": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "fa/territorio": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "podemos/vivienda": {
    "estado": "pendiente"
@@ -1765,34 +1779,34 @@ window.DATOS = {
    ]
   },
   "bildu/vivienda": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/inmigracion": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/economia": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/empleo": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/sanidad": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/educacion": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/regeneracion": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/pensiones": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/impuestos": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "bildu/territorio": {
-   "estado": "pendiente"
+   "estado": "en_preparacion"
   },
   "erc/vivienda": {
    "estado": "propuesta",

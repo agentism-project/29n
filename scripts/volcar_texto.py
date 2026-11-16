@@ -18,7 +18,7 @@ def main() -> int:
     partidos = json.loads((DATOS / "partidos.json").read_text(encoding="utf-8"))
     pedidos = set(sys.argv[1:])
     for p in partidos:
-        if (p.get("programa") or {}).get("estado") != "publicado":
+        if (p.get("programa") or {}).get("estado") not in ("publicado", "en_preparacion"):
             continue
         if pedidos and p["id"] not in pedidos:
             continue

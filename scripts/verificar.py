@@ -96,7 +96,8 @@ def main() -> int:
 
     for p in partidos:
         prog = p.get("programa") or {}
-        if prog.get("estado") != "publicado" or (solo and p["id"] != solo):
+        # «en_preparacion»: programa ya fijado por su huella, fichas aún sin publicar.
+        if prog.get("estado") not in ("publicado", "en_preparacion") or (solo and p["id"] != solo):
             continue
         pdf = FUENTES / f"{p['id']}.pdf"
         if not pdf.exists():
@@ -174,8 +175,13 @@ def main() -> int:
             if any(apariciones.values()) and not f.get("apariciones_revisadas"):
                 avisos.append(f"{etiqueta}: términos presentes sin revisar {apariciones}")
 
-    # Completitud: cada programa publicado debe tener exactamente una ficha por tema.
+    # Completitud: cada programa publicado debe tener exactamente una ficha por tema
+    # (y cada uno en preparación, en cuanto tenga alguna ficha escrita).
+    con_fichas = {f.get("partido") for f in fichas}
+    publicados = {p["id"] for p in partidos if (p.get("programa") or {}).get("estado") == "publicado"}
     for p in texto_por_partido:
+        if p not in publicados and p not in con_fichas:
+            continue
         for t in ids_tema:
             n = vistos.get((p, t), 0)
             if n != 1:
