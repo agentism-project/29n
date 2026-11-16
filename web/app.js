@@ -162,7 +162,7 @@
   function pie() {
     return '<footer class="sello">Fuente: programas electorales oficiales · <b>' + esc(DIRECCION) +
       '</b> · actualizado el ' + FECHA + '</footer>' +
-      '<p class="independiente">Proyecto ciudadano independiente, sin relación con ningún partido.</p>' +
+      '<p class="independiente">Proyecto ciudadano independiente, sin relación con ningún partido. Los resúmenes se redactan con inteligencia artificial y se comprueban contra el texto de cada programa.</p>' +
       '<nav class="pie-enlaces" aria-label="Más"><a href="#/material">Material para compartir</a>' +
       '<a href="#/metodo">Cómo se ha hecho</a></nav>';
   }
@@ -471,10 +471,12 @@
         '<section class="tarjeta texto" aria-labelledby="m-fichas"><h2 id="m-fichas">Cómo se escribe y se comprueba cada ficha</h2>' +
         '<ul class="puntos">' +
         '<li>Una ficha recoge lo que dice un programa sobre un tema: un titular, un resumen corto en lenguaje llano y de una a tres citas literales, cada una con su página.</li>' +
+        '<li>Las fichas, y las traducciones de las citas, las redacta un sistema de inteligencia artificial (IA) que sigue estas reglas y trabaja solo con el texto del programa.</li>' +
         '<li>Las propuestas se eligen por la importancia que les da el propio programa (su resumen, sus medidas principales, el comienzo de cada apartado), con el mismo criterio para todos los partidos.</li>' +
         '<li>Todo lo que dicen el titular y el resumen está en las citas.</li>' +
         '<li>Cada cita se comprueba automáticamente contra el texto del PDF oficial, en la página indicada.</li>' +
-        '<li>Una revisión ciega comprueba que la redacción es neutral.</li>' +
+        '<li>Dos revisiones ciegas, hechas también con IA y sin saber de qué partido es cada ficha, comprueban que la redacción es neutral y que trata igual a todos. Cada corrección que proponen se comprueba de nuevo contra las citas.</li>' +
+        '<li>Una persona responsable del proyecto decide qué partidos y temas aparecen y los criterios de los casos dudosos, y responde de lo que se publica.</li>' +
         '<li>Las citas en catalán, gallego o euskera llevan debajo su traducción al castellano, marcada como «Traducción».</li>' +
         '<li>Si un programa no trata un tema, la ficha lo dice y enumera los términos que se han buscado en todo el programa.</li>' +
         '</ul></section>' +
@@ -731,7 +733,7 @@
       '<span class="cap-invita">' + invita + '</span>' +
       '<span class="cap-direccion">' + esc(DIRECCION) + '</span>' +
       '<span class="cap-fuente">Fuente: programas electorales oficiales · actualizado el ' + FECHA + '</span>' +
-      '<span class="cap-independiente">Proyecto ciudadano independiente, sin relación con ningún partido.</span>' +
+      '<span class="cap-independiente">Proyecto ciudadano independiente, sin relación con ningún partido. Resúmenes redactados con IA.</span>' +
       '</div>';
   }
 
