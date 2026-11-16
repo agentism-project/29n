@@ -32,10 +32,10 @@ import re
 import sys
 from pathlib import Path
 
-# Dirección pública del sitio: una sola constante (provisional, aún no decidida).
-BASE_URL = "https://agentism.github.io/29n/"
+# Dirección pública del sitio: una sola constante.
+BASE_URL = "https://agentism-project.github.io/29n/"
 # Dónde se piden las correcciones (las «issues» del repositorio).
-URL_CORRECCIONES = "https://github.com/agentism/29n/issues"
+URL_CORRECCIONES = "https://github.com/agentism-project/29n/issues"
 
 GRIS_NEUTRO = "#8a8a8a"
 MAX_TITULAR = 32

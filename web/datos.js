@@ -1,9 +1,9 @@
 // Generado por scripts/construir.py: no editar a mano.
 window.DATOS = {
  "config": {
-  "base_url": "https://agentism.github.io/29n/",
-  "direccion": "agentism.github.io/29n",
-  "url_correcciones": "https://github.com/agentism/29n/issues",
+  "base_url": "https://agentism-project.github.io/29n/",
+  "direccion": "agentism-project.github.io/29n",
+  "url_correcciones": "https://github.com/agentism-project/29n/issues",
   "actualizado": "2026-11-16"
  },
  "criterios": {
@@ -94,7 +94,7 @@ window.DATOS = {
    "color": "#f03c00",
    "web": "https://frenteamplio.info/",
    "programa": {
-    "estado": "en_preparacion",
+    "estado": "publicado",
     "titulo": "Un programa como una casa",
     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
     "fecha_pdf": "2026-11-16",
@@ -276,7 +276,7 @@ window.DATOS = {
    "color": "#00c19f",
    "web": "https://ehbildu.eus/",
    "programa": {
-    "estado": "en_preparacion",
+    "estado": "publicado",
     "titulo": "Posible egin. Garantía y derechos",
     "url": "https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf",
     "fecha_pdf": "2026-11-16",
@@ -336,34 +336,166 @@ window.DATOS = {
  ],
  "fichas": {
   "fa/vivienda": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Crear pisos públicos de alquiler",
+   "resumen": "Propone 1,5 millones de viviendas públicas de alquiler, con el 1 % del PIB (producción del país) al año. Y limitar alquileres en zonas tensionadas según la renta del barrio.",
+   "citas": [
+    {
+     "texto": "invertiremos el 1 % del PIB anual para levantar un gran parque público de 1,5 millones de viviendas en alquiler asequible",
+     "pagina_pdf": 7
+    },
+    {
+     "texto": "Tope de precios de alquiler vinculado al 25 % de la renta del barrio […] Limitaremos por ley el precio del alquiler residencial en todas las zonas tensionadas",
+     "pagina_pdf": 13
+    }
+   ]
   },
   "fa/inmigracion": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Regularizar por una vía estable",
+   "resumen": "Propone resolver todas las solicitudes de la regularización extraordinaria de 2026. Y reformar la Ley de Extranjería con una vía estable y permanente para regularizar a migrantes.",
+   "citas": [
+    {
+     "texto": "Culminar la regularización extraordinaria de 2026 : Resolveremos todas las solicitudes con medios suficientes, de modo que ninguna persona quede fuera por retrasos de la Administración.",
+     "pagina_pdf": 126
+    },
+    {
+     "texto": "Procedimiento estable de regularización: Reformaremos de forma integral la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
+     "pagina_pdf": 126
+    }
+   ]
   },
   "fa/economia": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Dar 200 € al mes por cada menor",
+   "resumen": "Propone dar 200 € al mes por cada menor y tres horas de luz gratis al día. También, topes al precio de alimentos básicos ante abusos probados o emergencias.",
+   "citas": [
+    {
+     "texto": "Aprobaremos la Ley de Prestación Universal por Crianza que concederá 200 € al mes por cada menor de 18 años a cargo.",
+     "pagina_pdf": 21
+    },
+    {
+     "texto": "Tres horas de luz gratis al día: En las horas de mayor producción de energía eléctrica solar y en las que hay excedente con respecto a lo que consumimos, la luz será gratis para todos los hogares, tengan o no placas solares.",
+     "pagina_pdf": 64
+    },
+    {
+     "texto": "Estableceremos mecanismos de control de precios en alimentos básicos de consumo diario con la fijación de topes máximos en la cesta saludable y condicionados a situaciones de emergencia o abuso acreditado.",
+     "pagina_pdf": 56
+    }
+   ]
   },
   "fa/empleo": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Ir hacia la semana de 32 horas",
+   "resumen": "Propone bajar la jornada semanal a 37,5 horas ya y avanzar hacia 32, sin bajar sueldo. Y un salario mínimo nunca inferior al 60 % del sueldo medio neto.",
+   "citas": [
+    {
+     "texto": "Avanzaremos hacia la jornada laboral máxima de 32 horas semanales sin reducción salarial —empezando por las 37,5 horas de forma inmediata—",
+     "pagina_pdf": 7
+    },
+    {
+     "texto": "Garantizaremos por ley una subida progresiva del Salario Mínimo Interprofesional (SMI) manteniendo un suelo permanente equivalente al 60 % del salario medio neto de la economía.",
+     "pagina_pdf": 51
+    }
+   ]
   },
   "fa/sanidad": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Dedicar 8 % del PIB a sanidad",
+   "resumen": "Propone dedicar al menos el 8 % del PIB (producción del país) a la sanidad pública, con gestión pública directa como norma. Y incluir salud dental, visual, auditiva y mental.",
+   "citas": [
+    {
+     "texto": "Blindaje del gasto sanitario público: Compromiso desde los Presupuestos Generales del Estado del 8 % del PIB estatal para la sanidad pública.",
+     "pagina_pdf": 26
+    },
+    {
+     "texto": "Apostaremos de nuevo por una Ley de Gestión Pública e Integridad del Sistema Nacional de Salud para consagrar la gestión pública directa como la vía general para los centros y servicios del Sistema Nacional de Salud (SNS).",
+     "pagina_pdf": 26
+    },
+    {
+     "texto": "Apostamos por una sanidad 100 % pública, universal y de gestión directa con un suelo del 8 % del PIB —incorporando la salud bucodental, visual, auditiva y mental—",
+     "pagina_pdf": 7
+    }
+   ]
   },
   "fa/educacion": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Invertir el 7 % del PIB en 2030",
+   "resumen": "Propone una ley para que la inversión estatal en educación llegue al 7 % del PIB (producción del país) en 2030. Y como máximo 15 alumnos por clase en Primaria.",
+   "citas": [
+    {
+     "texto": "Aprobaremos una Ley de Financiación Educativa que blinde legalmente un porcentaje mínimo de inversión estatal y que deberá llegar al 7 % del PIB en 2030.",
+     "pagina_pdf": 31
+    },
+    {
+     "texto": "Fijaremos por ley ratios máximas por aula: […] 15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato",
+     "pagina_pdf": 31
+    }
+   ]
   },
   "fa/regeneracion": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Aprobar una ley de integridad",
+   "resumen": "Propone una Ley de Integridad Pública para registrar quién controla cada empresa que no cotiza en Bolsa. Y que ningún partido pueda bloquear la renovación del gobierno de los jueces.",
+   "citas": [
+    {
+     "texto": "Aprobaremos una Ley de Integridad Pública […] la inscripción obligatoria y actualizada en el Registro Mercantil de los cambios de propiedad de las sociedades limitadas y las anónimas no cotizadas, identificando a sus socios, la cadena de propiedad y las personas que ejercen el control efectivo",
+     "pagina_pdf": 141
+    },
+    {
+     "texto": "Reformaremos la Ley Orgánica del Poder Judicial para que ningún partido pueda volver a bloquear la renovación del Consejo General del Poder Judicial",
+     "pagina_pdf": 148
+    }
+   ]
   },
   "fa/pensiones": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Subir pensiones con los precios",
+   "resumen": "Propone recoger en la Constitución que las pensiones públicas suban con los precios y que ninguna sea menor que el salario mínimo. Y devolver la jubilación a los 65 años.",
+   "citas": [
+    {
+     "texto": "Reforzaremos el nivel de protección constitucional […] ubicaremos el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas",
+     "pagina_pdf": 57
+    },
+    {
+     "texto": "Devolveremos la edad de jubilación a los 65 años",
+     "pagina_pdf": 57
+    }
+   ]
   },
   "fa/impuestos": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Gravar más a grandes empresas",
+   "resumen": "Propone un impuesto mínimo: 20 % a grandes empresas y 2 % a patrimonios mayores de un millón. Y bajar el impuesto sobre la renta a sueldos hasta 27.000 €.",
+   "citas": [
+    {
+     "texto": "Impondremos un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado para las grandes empresas y grupos corporativos",
+     "pagina_pdf": 44
+    },
+    {
+     "texto": "Reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para garantizar que los patrimonios con más de un millón de euros paguen como mínimo el 2 %.",
+     "pagina_pdf": 45
+    },
+    {
+     "texto": "Bajaremos el IRPF a las rentas del trabajo de hasta 27.000 euros (1,5 veces el SMI).",
+     "pagina_pdf": 46
+    }
+   ]
   },
   "fa/territorio": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Dar más dinero a las autonomías",
+   "resumen": "Propone sumar cada año al menos un 2,3 % del PIB (producción del país) a las autonomías. Y impulsar un modelo «federal y plurinacional», con «derecho a decidir» en referéndum.",
+   "citas": [
+    {
+     "texto": "Destinaremos al menos un 2,3 % del PIB adicional al sistema de financiación autonómica cada año.",
+     "pagina_pdf": 103
+    },
+    {
+     "texto": "Promoveremos el debate para formar una mayoría social y política e impulsar el cambio de modelo territorial establecido en la Constitución, en un sentido federal y plurinacional incluyendo el derecho a decidir mediante referéndum",
+     "pagina_pdf": 140
+    }
+   ]
   },
   "podemos/vivienda": {
    "estado": "pendiente"
@@ -1779,34 +1911,190 @@ window.DATOS = {
    ]
   },
   "bildu/vivienda": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Alquilar con prórroga automática",
+   "resumen": "Propone alquileres con prórroga automática y la prohibición permanente de desahucios de vulnerables sin otra vivienda. El alquiler subiría como máximo un 2 % anual si los precios suben más.",
+   "citas": [
+    {
+     "texto": "Establecer contratos de arrendamiento ordinarios con prórroga automática como mecanismo para ofrecer estabilidad y seguridad a inquilinas e inquilinos y también a pequeños propietarios.",
+     "pagina_pdf": 5
+    },
+    {
+     "texto": "Establecer de manera estructural y permanente la prohibición de desahucios para personas y familias vulnerables sin alternativa habitacional",
+     "pagina_pdf": 5
+    },
+    {
+     "texto": "Establecer de manera estructural el máximo de 2% de actualización anual de renta en los contratos de arrendamiento, siempre que el IPC interanual a fecha de actualización supere este porcentaje.",
+     "pagina_pdf": 5
+    }
+   ]
   },
   "bildu/inmigracion": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Regularizar de forma estable",
+   "resumen": "Propone una regularización estable y una nueva ley de extranjería. Rechaza las devoluciones sumarias (sin trámite). Quiere que los migrantes accedan a sanidad, educación y vivienda, tengan o no papeles.",
+   "citas": [
+    {
+     "texto": "Regularización y nueva Ley de Extranjería: Garantizar una regularización efectiva, accesible y estable.",
+     "pagina_pdf": 20
+    },
+    {
+     "texto": "Rechazar las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los CIE",
+     "pagina_pdf": 20
+    },
+    {
+     "texto": "Derecho universal a la acogida y a los servicios públicos: […] eliminación de barreras para acceder a la sanidad, educación, vivienda y protección social, independientemente de la situación administrativa.",
+     "pagina_pdf": 20
+    }
+   ]
   },
   "bildu/economia": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Limitar precios en emergencias",
+   "resumen": "Ante emergencias, propone intervenir los márgenes de beneficio de grandes energéticas y alimentarias, y limitar temporalmente precios esenciales como luz, gas o transporte. Y recuperar el «tope al gas».",
+   "citas": [
+    {
+     "texto": "Establecer un mecanismo de intervención extraordinaria sobre los márgenes de las grandes empresas de los sectores energético y alimentario, que impida que, en situaciones de emergencia […] trasladen de forma desproporcionada dichas subidas a los precios finales",
+     "pagina_pdf": 8
+    },
+    {
+     "texto": "Recuperar el mecanismo de intervención sobre el precio del gas utilizado para generación eléctrica en situaciones extraordinarias de encarecimiento como la actual, tomando como referencia la experiencia del mecanismo ibérico o “tope al gas”.",
+     "pagina_pdf": 8
+    },
+    {
+     "texto": "Establecer límites temporales a los precios de bienes y servicios esenciales, como la electricidad, el gas, los combustibles, el transporte y determinados productos básicos, ante situaciones de emergencia",
+     "pagina_pdf": 8
+    }
+   ]
   },
   "bildu/empleo": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Reducir la jornada a 32 horas",
+   "resumen": "Propone 32 horas semanales de trabajo sin bajar sueldo. Quiere al menos 45 días de indemnización por despido improcedente. Cada comunidad podría fijar su salario mínimo, nunca inferior al estatal.",
+   "citas": [
+    {
+     "texto": "Reducción de la jornada laboral hasta las 32 horas semanales o la jornada de 4 días sin reducción salarial.",
+     "pagina_pdf": 6
+    },
+    {
+     "texto": "Modificación del Estatuto de los Trabajadores para que las CCAA puedan establecer su propio SMI en atención a la realidad socioeconómica constituyendo el SMI fijado por el estado el mínimo legal indisponible.",
+     "pagina_pdf": 6
+    },
+    {
+     "texto": "Indemnización por despido improcedente de al menos 45 días",
+     "pagina_pdf": 6
+    }
+   ]
   },
   "bildu/sanidad": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Ampliar lo que cubre la sanidad",
+   "resumen": "Propone incluir salud dental y visual para colectivos vulnerables. Quiere derogar la ley de 1997 que, según el programa, permite privatizar servicios sanitarios, y cambiar el modelo de salud mental.",
+   "citas": [
+    {
+     "texto": "Ampliar la cartera común básica con prestaciones como la de la salud bucodental y los productos ópticos y salud visual para aquellos colectivos históricamente desatendidos o en situación de mayor vulnerabilidad",
+     "pagina_pdf": 10
+    },
+    {
+     "texto": "Derogar la Ley 15/1997 de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, aprobada por el PP que permite la privatización y externalización de los servicios sanitarios.",
+     "pagina_pdf": 11
+    },
+    {
+     "texto": "Impulsar un cambio de modelo en la atención de salud mental en la nueva estrategia de Salud Mental del Sistema Nacional de Salud.",
+     "pagina_pdf": 11
+    }
+   ]
   },
   "bildu/educacion": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Reducir los alumnos por aula",
+   "resumen": "Propone menos alumnos por aula y acercar la inversión al 6 % que define la UNESCO (Naciones Unidas). Quiere un sistema educativo propio, en euskera y «soberano», para «Euskal Herria».",
+   "citas": [
+    {
+     "texto": "Defendemos, mediante la capacidad y herramientas propias de nuestro autogobierno, un sistema educativo propio para Euskal Herria, de calidad, inclusivo, coeducativo, participativo, laiko, euskaldun y soberano.",
+     "pagina_pdf": 11
+    },
+    {
+     "texto": "Apostamos por una bajada de ratios como una oportunidad para mejorar la calidad educativa.",
+     "pagina_pdf": 11
+    },
+    {
+     "texto": "Aumentar la financiación, acercándonos progresivamente al 6% de inversión definido por la UNESCO.",
+     "pagina_pdf": 12
+    }
+   ]
   },
   "bildu/regeneracion": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Derogar la ley de secretos",
+   "resumen": "Propone derogar la Ley de Secretos Oficiales para garantizar la transparencia. Quiere un reparto transparente y objetivo del dinero público en publicidad institucional (anuncios de las administraciones).",
+   "citas": [
+    {
+     "texto": "Derogar la Ley de Secretos Oficiales, en vigor desde el franquismo, para asegurar una legislación que garantice la transparencia, la accesibilidad, la información",
+     "pagina_pdf": 27
+    },
+    {
+     "texto": "Impulsar la reforma de la Ley de Publicidad y Comunicación Institucional para garantizar que el dinero público esté al servicio del derecho de la ciudadanía a recibir información veraz y plural […] asegurando un reparto de los recursos públicos transparente, objetivo y no discriminatorio",
+     "pagina_pdf": 22
+    }
+   ]
   },
   "bildu/pensiones": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "No subir la edad de jubilación",
+   "resumen": "Quiere garantizar pensiones públicas, sin recortes, privatización ni retraso de la jubilación. Propone mantener su subida anual según los precios y elevar las mínimas hasta al menos 1.220 €.",
+   "citas": [
+    {
+     "texto": "Blindar el carácter público de las pensiones/el sistema público de pensiones rechazando cualquier intento de recorte, privatización o aumento de la edad de jubilación y periodo de cómputo.",
+     "pagina_pdf": 7
+    },
+    {
+     "texto": "Garantizar el poder adquisitivo de las y los pensionistas, manteniendo y blindando la revalorización anual al IPC.",
+     "pagina_pdf": 7
+    },
+    {
+     "texto": "Aumentar las pensiones mínimas al menos hasta los 1.220 €, estableciendo la cuantía y su actualización acorde al SMI",
+     "pagina_pdf": 8
+    }
+   ]
   },
   "bildu/impuestos": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Gravar más a energéticas y banca",
+   "resumen": "Propone recuperar el impuesto a las empresas energéticas y hacerlo permanente, y gravar más a la banca y las grandes fortunas. Plantea gravar los beneficios de grandes distribuidoras de alimentos.",
+   "citas": [
+    {
+     "texto": "Recuperar el impuesto a la energéticas […] haciéndolo permanente.",
+     "pagina_pdf": 14
+    },
+    {
+     "texto": "Aumentar el peso impositivo del impuesto a la banca y las grandes fortunas.",
+     "pagina_pdf": 14
+    },
+    {
+     "texto": "Aprobar un nuevo impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias",
+     "pagina_pdf": 14
+    }
+   ]
   },
   "bildu/territorio": {
-   "estado": "en_preparacion"
+   "estado": "propuesta",
+   "titular": "Reconocer el «derecho a decidir»",
+   "resumen": "Propone reconocer a «Euskal Herria» como nación y el «derecho a decidir» del pueblo vasco. Quiere que el País Vasco y Navarra reciban todos los poderes pendientes de sus estatutos.",
+   "citas": [
+    {
+     "texto": "El respeto y reconocimiento de Euskal Herria como nación, así como de las diferentes naciones que actualmente componen el estado español.",
+     "pagina_pdf": 23
+    },
+    {
+     "texto": "El reconocimiento del derecho a decidir del pueblo vasco como mecanismo democrático y legítimo para dicha solución",
+     "pagina_pdf": 24
+    },
+    {
+     "texto": "Exigiremos la transferencia de todas las competencias contempladas en el Estatuto Vasco y el Amejoramiento Navarro aún pendientes tras más de 40 años.",
+     "pagina_pdf": 24
+    }
+   ]
   },
   "erc/vivienda": {
    "estado": "propuesta",

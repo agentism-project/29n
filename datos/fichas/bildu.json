@@ -1,0 +1,218 @@
+[
+  {
+    "partido": "bildu",
+    "tema": "vivienda",
+    "estado": "propuesta",
+    "titular": "Alquilar con prórroga automática",
+    "resumen": "Propone alquileres con prórroga automática y la prohibición permanente de desahucios de vulnerables sin otra vivienda. El alquiler subiría como máximo un 2 % anual si los precios suben más.",
+    "citas": [
+      {
+        "texto": "Establecer contratos de arrendamiento ordinarios con prórroga automática como mecanismo para ofrecer estabilidad y seguridad a inquilinas e inquilinos y también a pequeños propietarios.",
+        "pagina_pdf": 5
+      },
+      {
+        "texto": "Establecer de manera estructural y permanente la prohibición de desahucios para personas y familias vulnerables sin alternativa habitacional",
+        "pagina_pdf": 5
+      },
+      {
+        "texto": "Establecer de manera estructural el máximo de 2% de actualización anual de renta en los contratos de arrendamiento, siempre que el IPC interanual a fecha de actualización supere este porcentaje.",
+        "pagina_pdf": 5
+      }
+    ],
+    "seleccion": "Introducción del apartado 1.1 Vivienda (contratos prorrogables, desahucios, regulación de precios): sus dos primeras medidas y el tope del 2 % (cifra concreta)."
+  },
+  {
+    "partido": "bildu",
+    "tema": "inmigracion",
+    "estado": "propuesta",
+    "titular": "Regularizar de forma estable",
+    "resumen": "Propone una regularización estable y una nueva ley de extranjería. Rechaza las devoluciones sumarias (sin trámite). Quiere que los migrantes accedan a sanidad, educación y vivienda, tengan o no papeles.",
+    "citas": [
+      {
+        "texto": "Regularización y nueva Ley de Extranjería: Garantizar una regularización efectiva, accesible y estable.",
+        "pagina_pdf": 20
+      },
+      {
+        "texto": "Rechazar las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los CIE",
+        "pagina_pdf": 20
+      },
+      {
+        "texto": "Derecho universal a la acogida y a los servicios públicos: […] eliminación de barreras para acceder a la sanidad, educación, vivienda y protección social, independientemente de la situación administrativa.",
+        "pagina_pdf": 20
+      }
+    ],
+    "seleccion": "Tres primeras medidas del apartado 1.11 Migración."
+  },
+  {
+    "partido": "bildu",
+    "tema": "economia",
+    "estado": "propuesta",
+    "titular": "Limitar precios en emergencias",
+    "resumen": "Ante emergencias, propone intervenir los márgenes de beneficio de grandes energéticas y alimentarias, y limitar temporalmente precios esenciales como luz, gas o transporte. Y recuperar el «tope al gas».",
+    "citas": [
+      {
+        "texto": "Establecer un mecanismo de intervención extraordinaria sobre los márgenes de las grandes empresas de los sectores energético y alimentario, que impida que, en situaciones de emergencia […] trasladen de forma desproporcionada dichas subidas a los precios finales",
+        "pagina_pdf": 8
+      },
+      {
+        "texto": "Recuperar el mecanismo de intervención sobre el precio del gas utilizado para generación eléctrica en situaciones extraordinarias de encarecimiento como la actual, tomando como referencia la experiencia del mecanismo ibérico o “tope al gas”.",
+        "pagina_pdf": 8
+      },
+      {
+        "texto": "Establecer límites temporales a los precios de bienes y servicios esenciales, como la electricidad, el gas, los combustibles, el transporte y determinados productos básicos, ante situaciones de emergencia",
+        "pagina_pdf": 8
+      }
+    ],
+    "seleccion": "Tres primeras medidas del apartado 1.4 Contención de precios y carestía de la vida."
+  },
+  {
+    "partido": "bildu",
+    "tema": "empleo",
+    "estado": "propuesta",
+    "titular": "Reducir la jornada a 32 horas",
+    "resumen": "Propone 32 horas semanales de trabajo sin bajar sueldo. Quiere al menos 45 días de indemnización por despido improcedente. Cada comunidad podría fijar su salario mínimo, nunca inferior al estatal.",
+    "citas": [
+      {
+        "texto": "Reducción de la jornada laboral hasta las 32 horas semanales o la jornada de 4 días sin reducción salarial.",
+        "pagina_pdf": 6
+      },
+      {
+        "texto": "Modificación del Estatuto de los Trabajadores para que las CCAA puedan establecer su propio SMI en atención a la realidad socioeconómica constituyendo el SMI fijado por el estado el mínimo legal indisponible.",
+        "pagina_pdf": 6
+      },
+      {
+        "texto": "Indemnización por despido improcedente de al menos 45 días",
+        "pagina_pdf": 6
+      }
+    ],
+    "seleccion": "Primeras medidas del apartado 1.2 Empleo: jornada de 32 horas, salario mínimo propio y despido de 45 días."
+  },
+  {
+    "partido": "bildu",
+    "tema": "sanidad",
+    "estado": "propuesta",
+    "titular": "Ampliar lo que cubre la sanidad",
+    "resumen": "Propone incluir salud dental y visual para colectivos vulnerables. Quiere derogar la ley de 1997 que, según el programa, permite privatizar servicios sanitarios, y cambiar el modelo de salud mental.",
+    "citas": [
+      {
+        "texto": "Ampliar la cartera común básica con prestaciones como la de la salud bucodental y los productos ópticos y salud visual para aquellos colectivos históricamente desatendidos o en situación de mayor vulnerabilidad",
+        "pagina_pdf": 10
+      },
+      {
+        "texto": "Derogar la Ley 15/1997 de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, aprobada por el PP que permite la privatización y externalización de los servicios sanitarios.",
+        "pagina_pdf": 11
+      },
+      {
+        "texto": "Impulsar un cambio de modelo en la atención de salud mental en la nueva estrategia de Salud Mental del Sistema Nacional de Salud.",
+        "pagina_pdf": 11
+      }
+    ],
+    "seleccion": "Primera medida del apartado 1.5.1 Salud; derogar la Ley 15/1997 (ley concreta sobre sanidad pública y privada); primera medida del bloque Gobernanza (salud mental)."
+  },
+  {
+    "partido": "bildu",
+    "tema": "educacion",
+    "estado": "propuesta",
+    "titular": "Reducir los alumnos por aula",
+    "resumen": "Propone menos alumnos por aula y acercar la inversión al 6 % que define la UNESCO (Naciones Unidas). Quiere un sistema educativo propio, en euskera y «soberano», para «Euskal Herria».",
+    "citas": [
+      {
+        "texto": "Defendemos, mediante la capacidad y herramientas propias de nuestro autogobierno, un sistema educativo propio para Euskal Herria, de calidad, inclusivo, coeducativo, participativo, laiko, euskaldun y soberano.",
+        "pagina_pdf": 11
+      },
+      {
+        "texto": "Apostamos por una bajada de ratios como una oportunidad para mejorar la calidad educativa.",
+        "pagina_pdf": 11
+      },
+      {
+        "texto": "Aumentar la financiación, acercándonos progresivamente al 6% de inversión definido por la UNESCO.",
+        "pagina_pdf": 12
+      }
+    ],
+    "seleccion": "Introducción del apartado 1.5.2 Educación, su primera medida (ratios) y la cifra del 6 %."
+  },
+  {
+    "partido": "bildu",
+    "tema": "regeneracion",
+    "estado": "propuesta",
+    "titular": "Derogar la ley de secretos",
+    "resumen": "Propone derogar la Ley de Secretos Oficiales para garantizar la transparencia. Quiere un reparto transparente y objetivo del dinero público en publicidad institucional (anuncios de las administraciones).",
+    "citas": [
+      {
+        "texto": "Derogar la Ley de Secretos Oficiales, en vigor desde el franquismo, para asegurar una legislación que garantice la transparencia, la accesibilidad, la información",
+        "pagina_pdf": 27
+      },
+      {
+        "texto": "Impulsar la reforma de la Ley de Publicidad y Comunicación Institucional para garantizar que el dinero público esté al servicio del derecho de la ciudadanía a recibir información veraz y plural […] asegurando un reparto de los recursos públicos transparente, objetivo y no discriminatorio",
+        "pagina_pdf": 22
+      }
+    ],
+    "seleccion": "Sin apartado propio; únicas propuestas sobre transparencia: Ley de Secretos Oficiales (3.1) y Ley de Publicidad Institucional (1.13). «Corrupción» solo aparece como diagnóstico (p. 23)."
+  },
+  {
+    "partido": "bildu",
+    "tema": "pensiones",
+    "estado": "propuesta",
+    "titular": "No subir la edad de jubilación",
+    "resumen": "Quiere garantizar pensiones públicas, sin recortes, privatización ni retraso de la jubilación. Propone mantener su subida anual según los precios y elevar las mínimas hasta al menos 1.220 €.",
+    "citas": [
+      {
+        "texto": "Blindar el carácter público de las pensiones/el sistema público de pensiones rechazando cualquier intento de recorte, privatización o aumento de la edad de jubilación y periodo de cómputo.",
+        "pagina_pdf": 7
+      },
+      {
+        "texto": "Garantizar el poder adquisitivo de las y los pensionistas, manteniendo y blindando la revalorización anual al IPC.",
+        "pagina_pdf": 7
+      },
+      {
+        "texto": "Aumentar las pensiones mínimas al menos hasta los 1.220 €, estableciendo la cuantía y su actualización acorde al SMI",
+        "pagina_pdf": 8
+      }
+    ],
+    "seleccion": "Tres primeras medidas del apartado 1.3 Pensiones."
+  },
+  {
+    "partido": "bildu",
+    "tema": "impuestos",
+    "estado": "propuesta",
+    "titular": "Gravar más a energéticas y banca",
+    "resumen": "Propone recuperar el impuesto a las empresas energéticas y hacerlo permanente, y gravar más a la banca y las grandes fortunas. Plantea gravar los beneficios de grandes distribuidoras de alimentos.",
+    "citas": [
+      {
+        "texto": "Recuperar el impuesto a la energéticas […] haciéndolo permanente.",
+        "pagina_pdf": 14
+      },
+      {
+        "texto": "Aumentar el peso impositivo del impuesto a la banca y las grandes fortunas.",
+        "pagina_pdf": 14
+      },
+      {
+        "texto": "Aprobar un nuevo impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias",
+        "pagina_pdf": 14
+      }
+    ],
+    "seleccion": "Tres primeras medidas del apartado 1.8 Política fiscal."
+  },
+  {
+    "partido": "bildu",
+    "tema": "territorio",
+    "estado": "propuesta",
+    "titular": "Reconocer el «derecho a decidir»",
+    "resumen": "Propone reconocer a «Euskal Herria» como nación y el «derecho a decidir» del pueblo vasco. Quiere que el País Vasco y Navarra reciban todos los poderes pendientes de sus estatutos.",
+    "citas": [
+      {
+        "texto": "El respeto y reconocimiento de Euskal Herria como nación, así como de las diferentes naciones que actualmente componen el estado español.",
+        "pagina_pdf": 23
+      },
+      {
+        "texto": "El reconocimiento del derecho a decidir del pueblo vasco como mecanismo democrático y legítimo para dicha solución",
+        "pagina_pdf": 24
+      },
+      {
+        "texto": "Exigiremos la transferencia de todas las competencias contempladas en el Estatuto Vasco y el Amejoramiento Navarro aún pendientes tras más de 40 años.",
+        "pagina_pdf": 24
+      }
+    ],
+    "seleccion": "Apartado 2.1 (primera medida y derecho a decidir) y primera medida del 2.2 Autogobierno."
+  }
+]

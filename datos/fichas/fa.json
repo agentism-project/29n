@@ -1,0 +1,194 @@
+[
+  {
+    "partido": "fa",
+    "tema": "vivienda",
+    "estado": "propuesta",
+    "titular": "Crear pisos públicos de alquiler",
+    "resumen": "Propone 1,5 millones de viviendas públicas de alquiler, con el 1 % del PIB (producción del país) al año. Y limitar alquileres en zonas tensionadas según la renta del barrio.",
+    "citas": [
+      {
+        "texto": "invertiremos el 1 % del PIB anual para levantar un gran parque público de 1,5 millones de viviendas en alquiler asequible",
+        "pagina_pdf": 7
+      },
+      {
+        "texto": "Tope de precios de alquiler vinculado al 25 % de la renta del barrio […] Limitaremos por ley el precio del alquiler residencial en todas las zonas tensionadas",
+        "pagina_pdf": 13
+      }
+    ],
+    "seleccion": "Primera de las seis «grandes transformaciones» de la introducción (p. 7) y primeras medidas de los apartados 1.1 (parque público) y 1.3 (tope del alquiler)."
+  },
+  {
+    "partido": "fa",
+    "tema": "inmigracion",
+    "estado": "propuesta",
+    "titular": "Regularizar por una vía estable",
+    "resumen": "Propone resolver todas las solicitudes de la regularización extraordinaria de 2026. Y reformar la Ley de Extranjería con una vía estable y permanente para regularizar a migrantes.",
+    "citas": [
+      {
+        "texto": "Culminar la regularización extraordinaria de 2026 : Resolveremos todas las solicitudes con medios suficientes, de modo que ninguna persona quede fuera por retrasos de la Administración.",
+        "pagina_pdf": 126
+      },
+      {
+        "texto": "Procedimiento estable de regularización: Reformaremos de forma integral la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
+        "pagina_pdf": 126
+      }
+    ],
+    "seleccion": "Título del apartado 16.2 («Procedimientos estables de regularización…») y sus dos primeras medidas; la introducción no trata la inmigración."
+  },
+  {
+    "partido": "fa",
+    "tema": "economia",
+    "estado": "propuesta",
+    "titular": "Dar 200 € al mes por cada menor",
+    "resumen": "Propone dar 200 € al mes por cada menor y tres horas de luz gratis al día. También, topes al precio de alimentos básicos ante abusos probados o emergencias.",
+    "citas": [
+      {
+        "texto": "Aprobaremos la Ley de Prestación Universal por Crianza que concederá 200 € al mes por cada menor de 18 años a cargo.",
+        "pagina_pdf": 21
+      },
+      {
+        "texto": "Tres horas de luz gratis al día: En las horas de mayor producción de energía eléctrica solar y en las que hay excedente con respecto a lo que consumimos, la luz será gratis para todos los hogares, tengan o no placas solares.",
+        "pagina_pdf": 64
+      },
+      {
+        "texto": "Estableceremos mecanismos de control de precios en alimentos básicos de consumo diario con la fijación de topes máximos en la cesta saludable y condicionados a situaciones de emergencia o abuso acreditado.",
+        "pagina_pdf": 56
+      }
+    ],
+    "seleccion": "Ayuda por crianza y luz gratis destacadas en la introducción (transformaciones 3 y 5, pp. 7-8); la ayuda es además la primera medida del capítulo 2; topes de alimentos, primera medida del apartado 4.2 «Precios asequibles»."
+  },
+  {
+    "partido": "fa",
+    "tema": "empleo",
+    "estado": "propuesta",
+    "titular": "Ir hacia la semana de 32 horas",
+    "resumen": "Propone bajar la jornada semanal a 37,5 horas ya y avanzar hacia 32, sin bajar sueldo. Y un salario mínimo nunca inferior al 60 % del sueldo medio neto.",
+    "citas": [
+      {
+        "texto": "Avanzaremos hacia la jornada laboral máxima de 32 horas semanales sin reducción salarial —empezando por las 37,5 horas de forma inmediata—",
+        "pagina_pdf": 7
+      },
+      {
+        "texto": "Garantizaremos por ley una subida progresiva del Salario Mínimo Interprofesional (SMI) manteniendo un suelo permanente equivalente al 60 % del salario medio neto de la economía.",
+        "pagina_pdf": 51
+      }
+    ],
+    "seleccion": "Segunda de las seis «grandes transformaciones» de la introducción (p. 7) y primera medida del apartado 4.1."
+  },
+  {
+    "partido": "fa",
+    "tema": "sanidad",
+    "estado": "propuesta",
+    "titular": "Dedicar 8 % del PIB a sanidad",
+    "resumen": "Propone dedicar al menos el 8 % del PIB (producción del país) a la sanidad pública, con gestión pública directa como norma. Y incluir salud dental, visual, auditiva y mental.",
+    "citas": [
+      {
+        "texto": "Blindaje del gasto sanitario público: Compromiso desde los Presupuestos Generales del Estado del 8 % del PIB estatal para la sanidad pública.",
+        "pagina_pdf": 26
+      },
+      {
+        "texto": "Apostaremos de nuevo por una Ley de Gestión Pública e Integridad del Sistema Nacional de Salud para consagrar la gestión pública directa como la vía general para los centros y servicios del Sistema Nacional de Salud (SNS).",
+        "pagina_pdf": 26
+      },
+      {
+        "texto": "Apostamos por una sanidad 100 % pública, universal y de gestión directa con un suelo del 8 % del PIB —incorporando la salud bucodental, visual, auditiva y mental—",
+        "pagina_pdf": 7
+      }
+    ],
+    "seleccion": "Tercera de las seis «grandes transformaciones» de la introducción (p. 7) y primeras medidas del apartado 2.4."
+  },
+  {
+    "partido": "fa",
+    "tema": "educacion",
+    "estado": "propuesta",
+    "titular": "Invertir el 7 % del PIB en 2030",
+    "resumen": "Propone una ley para que la inversión estatal en educación llegue al 7 % del PIB (producción del país) en 2030. Y como máximo 15 alumnos por clase en Primaria.",
+    "citas": [
+      {
+        "texto": "Aprobaremos una Ley de Financiación Educativa que blinde legalmente un porcentaje mínimo de inversión estatal y que deberá llegar al 7 % del PIB en 2030.",
+        "pagina_pdf": 31
+      },
+      {
+        "texto": "Fijaremos por ley ratios máximas por aula: […] 15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato",
+        "pagina_pdf": 31
+      }
+    ],
+    "seleccion": "Tercera de las seis «grandes transformaciones» de la introducción (p. 7: 7 % del PIB y «ratios reducidas») y primeras medidas del apartado 2.5."
+  },
+  {
+    "partido": "fa",
+    "tema": "regeneracion",
+    "estado": "propuesta",
+    "titular": "Aprobar una ley de integridad",
+    "resumen": "Propone una Ley de Integridad Pública para registrar quién controla cada empresa que no cotiza en Bolsa. Y que ningún partido pueda bloquear la renovación del gobierno de los jueces.",
+    "citas": [
+      {
+        "texto": "Aprobaremos una Ley de Integridad Pública […] la inscripción obligatoria y actualizada en el Registro Mercantil de los cambios de propiedad de las sociedades limitadas y las anónimas no cotizadas, identificando a sus socios, la cadena de propiedad y las personas que ejercen el control efectivo",
+        "pagina_pdf": 141
+      },
+      {
+        "texto": "Reformaremos la Ley Orgánica del Poder Judicial para que ningún partido pueda volver a bloquear la renovación del Consejo General del Poder Judicial",
+        "pagina_pdf": 148
+      }
+    ],
+    "seleccion": "Primera medida del apartado 18.2 (corrupción) y primera del 18.7 (justicia); la introducción (p. 8) habla de una democracia que «democratice la justicia»."
+  },
+  {
+    "partido": "fa",
+    "tema": "pensiones",
+    "estado": "propuesta",
+    "titular": "Subir pensiones con los precios",
+    "resumen": "Propone recoger en la Constitución que las pensiones públicas suban con los precios y que ninguna sea menor que el salario mínimo. Y devolver la jubilación a los 65 años.",
+    "citas": [
+      {
+        "texto": "Reforzaremos el nivel de protección constitucional […] ubicaremos el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas",
+        "pagina_pdf": 57
+      },
+      {
+        "texto": "Devolveremos la edad de jubilación a los 65 años",
+        "pagina_pdf": 57
+      }
+    ],
+    "seleccion": "Primeras medidas del apartado 4.3; la revalorización «por mandato constitucional» figura en la segunda transformación de la introducción (p. 7)."
+  },
+  {
+    "partido": "fa",
+    "tema": "impuestos",
+    "estado": "propuesta",
+    "titular": "Gravar más a grandes empresas",
+    "resumen": "Propone un impuesto mínimo: 20 % a grandes empresas y 2 % a patrimonios mayores de un millón. Y bajar el impuesto sobre la renta a sueldos hasta 27.000 €.",
+    "citas": [
+      {
+        "texto": "Impondremos un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado para las grandes empresas y grupos corporativos",
+        "pagina_pdf": 44
+      },
+      {
+        "texto": "Reformaremos el Impuesto de Solidaridad de las Grandes Fortunas para garantizar que los patrimonios con más de un millón de euros paguen como mínimo el 2 %.",
+        "pagina_pdf": 45
+      },
+      {
+        "texto": "Bajaremos el IRPF a las rentas del trabajo de hasta 27.000 euros (1,5 veces el SMI).",
+        "pagina_pdf": 46
+      }
+    ],
+    "seleccion": "Cuarta transformación de la introducción (p. 8: tipo mínimo del 20 % en Sociedades, grandes fortunas, IRPF de los salarios más bajos) y primeras medidas de los apartados 3.1, 3.2 y 3.3."
+  },
+  {
+    "partido": "fa",
+    "tema": "territorio",
+    "estado": "propuesta",
+    "titular": "Dar más dinero a las autonomías",
+    "resumen": "Propone sumar cada año al menos un 2,3 % del PIB (producción del país) a las autonomías. Y impulsar un modelo «federal y plurinacional», con «derecho a decidir» en referéndum.",
+    "citas": [
+      {
+        "texto": "Destinaremos al menos un 2,3 % del PIB adicional al sistema de financiación autonómica cada año.",
+        "pagina_pdf": 103
+      },
+      {
+        "texto": "Promoveremos el debate para formar una mayoría social y política e impulsar el cambio de modelo territorial establecido en la Constitución, en un sentido federal y plurinacional incluyendo el derecho a decidir mediante referéndum",
+        "pagina_pdf": 140
+      }
+    ],
+    "seleccion": "Primera medida concreta del apartado 11.1 (financiación autonómica) y texto destacado de la introducción del apartado 18.1; el modelo federal y plurinacional está en la sexta transformación de la introducción (p. 8)."
+  }
+]
