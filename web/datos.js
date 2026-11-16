@@ -157,7 +157,8 @@ window.DATOS = {
     "paginas": 66,
     "idioma": "es",
     "sha256": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65",
-    "descargado": "2026-11-15"
+    "descargado": "2026-11-15",
+    "url_archivo": "https://web.archive.org/web/20261115171226/https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf"
    }
   },
   {
@@ -177,7 +178,8 @@ window.DATOS = {
     "paginas": 134,
     "idioma": "es",
     "sha256": "8dbe28d038792b9f2a66c96d40d43cf5fd0f310dbc0de17f6c7ebb3e6d55db30",
-    "descargado": "2026-11-15"
+    "descargado": "2026-11-15",
+    "url_archivo": "https://web.archive.org/web/20261116112602/https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf"
    }
   },
   {
@@ -210,7 +212,8 @@ window.DATOS = {
     "paginas": 91,
     "idioma": "gl",
     "sha256": "1ab47bae90bd6de4be2cd42e1999c635757359ef9789a6c402ba7d64d9530432",
-    "descargado": "2026-11-15"
+    "descargado": "2026-11-15",
+    "url_archivo": "https://web.archive.org/web/20261112195808/https://www.bng.gal/media/bnggaliza/files/2026/11/12/26_bng_xerais_documentos_programa_electoral.pdf"
    }
   },
   {
@@ -251,7 +254,8 @@ window.DATOS = {
     "paginas": 43,
     "idioma": "es",
     "sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314",
-    "descargado": "2026-11-15"
+    "descargado": "2026-11-15",
+    "url_archivo": "https://web.archive.org/web/20261115171945/https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n"
    }
   },
   {
@@ -286,7 +290,8 @@ window.DATOS = {
     "paginas": 48,
     "idioma": "ca",
     "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
-    "descargado": "2026-11-15"
+    "descargado": "2026-11-15",
+    "url_archivo": "https://web.archive.org/web/20261115171915/https://esquerrarepublicana.cat/documents/e2026-programa.pdf"
    }
   },
   {
