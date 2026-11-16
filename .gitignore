@@ -4,5 +4,7 @@ fuentes/**/*.pdf
 fuentes/texto/
 # Paquete y clave de la revisión ciega (se regeneran)
 revision/
+# Capturas de trabajo del diseño (anteriores a la versión publicada)
+diseno/capturas/
 node_modules/
 __pycache__/
