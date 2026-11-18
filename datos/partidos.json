@@ -27,8 +27,16 @@
     "color": "#683278",
     "color_fuente": "Meta theme-color de podemos.info (15-11-2026).",
     "programa": {
-      "estado": "pendiente",
-      "nota": "15-11, revisado en navegador: podemos.info/programa/ solo enlaza el programa de 2019; nada del 29-N."
+      "estado": "publicado",
+      "titulo": "Así de básico: paz, casa y trabajo",
+      "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+      "enlazado_desde": "https://pazcasaytrabajo.es/programa",
+      "fecha_pdf": "2026-11-17",
+      "paginas": 141,
+      "idioma": "es",
+      "sha256": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb",
+      "descargado": "2026-11-18",
+      "nota": "Presentado el 17-11 (PDF creado ese día). Se publica en la web de campaña pazcasaytrabajo.es, cuyo aviso legal la atribuye a Podemos; podemos.info/programa/ sigue enlazando solo el programa de 2019 (18-11)."
     }
   },
   {
@@ -124,7 +132,7 @@
     "color_fuente": "Gris neutro: no se ha localizado una web oficial de la coalición (15-11-2026); color sin confirmar.",
     "programa": {
       "estado": "pendiente",
-      "nota": "Coalición propia; a 15-11 su programa está en elaboración (prensa) y no hay documento en mespermallorca.cat ni mespermenorca.cat."
+      "nota": "Coalición propia; a 15-11 su programa está en elaboración (prensa) y no hay documento en mespermallorca.cat ni mespermenorca.cat. 18-11: mespermallorca.cat publica propuestas sueltas como noticias, sin programa enlazado; proceso participativo abierto el 3-11 (prensa)."
     }
   },
   {
@@ -256,7 +264,7 @@
     "color_fuente": "Color de los enlaces del carrusel de portada de junts.cat (15-11-2026); el sitio no declara theme-color.",
     "programa": {
       "estado": "pendiente",
-      "nota": "15-11, revisado en navegador: junts.cat no enlaza ningún programa; tiene páginas «Propostes» por tema."
+      "nota": "15-11, revisado en navegador: junts.cat no enlaza ningún programa; tiene páginas «Propostes» por tema. 18-11: sigue igual (portada, Propostes, Actualitat y buscador de la web)."
     }
   },
   {
@@ -270,7 +278,7 @@
     "color_fuente": "Gris neutro: no se ha localizado una web oficial de la coalición (15-11-2026); color sin confirmar.",
     "programa": {
       "estado": "pendiente",
-      "nota": "Confluencia de NC-BC, IU Canaria, Movimiento Sumar y Podemos (nuevacanariasbc.org, 16-10); la prensa cita un manifiesto de 16 ejes sin enlace oficial."
+      "nota": "Confluencia de NC-BC, IU Canaria, Movimiento Sumar y Podemos (nuevacanariasbc.org, 16-10); la prensa cita un manifiesto de 16 ejes sin enlace oficial. 18-11: tribunas de un dirigente de NC-BC (7/8-11) citan frases de un programa de UPC, pero no se localiza el documento; nuevacanariasbc.org/programa/ no lo enlaza."
     }
   }
 ]

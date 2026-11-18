@@ -1,0 +1,157 @@
+[
+  {
+    "partido": "podemos",
+    "tema": "vivienda",
+    "estado": "propuesta",
+    "titular": "Bajar los alquileres un 40 %",
+    "resumen": "Propone bajar por ley un 40 % los alquileres, sin quedar por debajo del 60 % del precio medio de la zona. Y contratos indefinidos por defecto en vivienda habitual.",
+    "citas": [
+      {"texto": "Bajar los alquileres un 40% por ley. Aprobaremos una reducción extraordinaria del 40 % de los precios del alquiler, aplicable a los contratos vigentes, sus renovaciones y prórrogas, así como a los nuevos contratos", "pagina_pdf": 8},
+      {"texto": "Se establecerá un precio que sea un 40% menor que el precio anterior, siempre y cuando el precio resultante no quede por debajo del 60% del precio medio actual en la correspondiente zona.", "pagina_pdf": 8},
+      {"texto": "Convertiremos todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida por defecto, para garantizar la estabilidad residencial", "pagina_pdf": 8}
+    ],
+    "seleccion": "Medidas 1 y 2, las primeras del capítulo «Las casas son para vivir»; responden directamente a cómo pagar la vivienda."
+  },
+  {
+    "partido": "podemos",
+    "tema": "inmigracion",
+    "estado": "propuesta",
+    "titular": "Derogar la Ley de Extranjería",
+    "resumen": "Propone derogar la Ley de Extranjería y aprobar otra centrada en derechos humanos. Quiere cerrar los centros de internamiento y una regularización permanente, no ligada solo al contrato de trabajo.",
+    "citas": [
+      {"texto": "Derogación de la Ley de Extranjería y reforma integral del modelo migratorio. Acabar con la Ley Orgánica 4/2000 y aprobar una nueva Ley Integral que sitúe los derechos humanos, la igualdad de trato y la inclusión en el centro de la política pública", "pagina_pdf": 65},
+      {"texto": "Procederemos al cierre de todos los Centros de Internamiento de Extranjeros, sustituyendo la privación de libertad por alternativas comunitarias y procedimientos individualizados que respeten los derechos fundamentales.", "pagina_pdf": 65},
+      {"texto": "Establecimiento de un procedimiento permanente de regularización de las personas migrantes. […] el sistema de regularización reconocerá el arraigo social, familiar y comunitario, sin hacer depender el derecho a residir legalmente en España exclusivamente de disponer de un contrato de trabajo.", "pagina_pdf": 67}
+    ],
+    "seleccion": "Medidas 205 y 206, las primeras del bloque migratorio del capítulo «Vidas que merezcan la pena ser vividas», y 210, primera sobre regularización; leyes y medidas concretas."
+  },
+  {
+    "partido": "podemos",
+    "tema": "economia",
+    "estado": "propuesta",
+    "titular": "Crear supermercados públicos",
+    "resumen": "Propone supermercados públicos y limitar márgenes de grandes cadenas en productos básicos. La luz y el gas domésticos no subirían más de un 5 % sobre la media facturada antes.",
+    "citas": [
+      {"texto": "Establecimiento de una red pública de supermercados. La existencia de un operador público en el sector de la gran distribución de alimentos tendrá innumerables ventajas: el control de precios […] al no repercutir margen de beneficio sobre el precio de venta al público", "pagina_pdf": 17},
+      {"texto": "Estableceremos límites a los márgenes comerciales de las grandes cadenas de distribución en los productos de primera necesidad, para evitar que estas grandes distribuidoras hinchen los precios en contextos de inflación.", "pagina_pdf": 18},
+      {"texto": "Las tarifas domésticas de electricidad y gas no podrán superar en más de un 5 % la media de los […] importes facturados en el periodo de referencia anterior.", "pagina_pdf": 18, "pagina_pdf_fin": 19}
+    ],
+    "seleccion": "Capítulo «Los precios tienen que bajar»: medidas 34, 35 y 38, las primeras que actúan de forma concreta sobre alimentos y energía (las 30 y 31 son impuestos; la 32 es general y la 33 trata de banca pública)."
+  },
+  {
+    "partido": "podemos",
+    "tema": "empleo",
+    "estado": "propuesta",
+    "titular": "Subir salario mínimo a 1.800 €",
+    "resumen": "Propone, en una legislatura, subir el salario mínimo a 1.800 euros al mes y reducir la jornada a 30 horas semanales, empezando por 35, sin bajar sueldos.",
+    "citas": [
+      {"texto": "Elevar el salario mínimo interprofesional hasta los 1.800 euros mensuales. Aumentaremos el SMI hasta los 1.800 euros al mes en una legislatura", "pagina_pdf": 41},
+      {"texto": "Reducir la jornada laboral sin reducir los salarios. Reduciremos la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas", "pagina_pdf": 41}
+    ],
+    "seleccion": "Medidas 111 y 113, entre las tres primeras del capítulo «Trabajar menos para vivir mejor», cuyo título es la jornada; cifras concretas."
+  },
+  {
+    "partido": "podemos",
+    "tema": "sanidad",
+    "estado": "propuesta",
+    "titular": "Derogar leyes de gestión privada",
+    "resumen": "Propone derogar leyes que, según el programa, permitieron la gestión privada sanitaria. Subir gradualmente la financiación: mínimo 2.900 euros por habitante y año. Atención primaria: cita en 48 horas hábiles.",
+    "citas": [
+      {"texto": "Acabar con la privatización y recuperar la sanidad para lo público. Para ello derogaremos la Ley 15/1997, los artículos 66, 67 y 90 de la Ley General de Sanidad, y todas las leyes privatizadoras que abrieron la puerta a la gestión privada de la sanidad", "pagina_pdf": 88},
+      {"texto": "Incrementaremos progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros por habitante y año, frente a los 2.247 euros actuales", "pagina_pdf": 89},
+      {"texto": "Aprobaremos una Ley que sitúe la Atención Primaria en el centro del sistema sanitario público y ponga fin a sus recortes. […] garantizará una cita en un máximo de 48 horas hábiles y la continuidad asistencial con los mismos profesionales", "pagina_pdf": 90}
+    ],
+    "seleccion": "Medida 300, la primera del bloque de sanidad; 302, primera con cifra de financiación; 305, ley de Atención Primaria con plazo concreto."
+  },
+  {
+    "partido": "podemos",
+    "tema": "educacion",
+    "estado": "propuesta",
+    "titular": "Avanzar a una única red pública",
+    "resumen": "Propone avanzar a una única red pública, sin nuevos centros concertados ni privados. Primaria: máximo 15 por aula. Inversión pública en la legislatura: 7 % del PIB (producción del país).",
+    "citas": [
+      {"texto": "Avanzaremos hacia una única red educativa de gestión pública directa, poniendo fin progresivamente a la privatización de la enseñanza […] Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas", "pagina_pdf": 79},
+      {"texto": "Reduciremos el número máximo de alumnos y alumnas por aula en todas las etapas educativas […] Fijar nuevas ratios máximas en 15 alumnos y alumnas en Primaria, 20 en Secundaria y 23 en Bachillerato.", "pagina_pdf": 79},
+      {"texto": "Nuestro objetivo será alcanzar una inversión pública en educación equivalente al 7 % del PIB durante la próxima legislatura.", "pagina_pdf": 80}
+    ],
+    "seleccion": "Medidas 279, 280 y 281, entre las primeras del bloque educativo de «Servicios públicos para garantizar vidas dignas»; la 278 (ley de calidad) es más general."
+  },
+  {
+    "partido": "podemos",
+    "tema": "regeneracion",
+    "estado": "propuesta",
+    "titular": "Prohibir créditos para campañas",
+    "resumen": "Propone prohibir pagar campañas de partidos con créditos bancarios. Quiere elegir el Congreso por comunidades autónomas y vetar contratos públicos a empresas mientras haya indicios judiciales de participar en corrupción.",
+    "citas": [
+      {"texto": "Prohibiremos que los partidos políticos financien sus campañas electorales mediante créditos bancarios o del Instituto de Crédito Oficial (ICO), para evitar que el endeudamiento con entidades financieras pueda condicionar su independencia y su actividad política.", "pagina_pdf": 128},
+      {"texto": "Prohibiremos la contratación con las administraciones públicas de empresas privadas implicadas en casos de corrupción desde que existan indicios judiciales de su participación, mediante medidas cautelares mientras persistan dichos indicios.", "pagina_pdf": 133},
+      {"texto": "Reformaremos el sistema electoral del Congreso de los Diputados mediante la adopción de la circunscripción autonómica.", "pagina_pdf": 129}
+    ],
+    "seleccion": "Capítulo «España, república plurinacional»: 408, primera sobre financiación de partidos; 428, la medida directa contra la corrupción; 411, ley electoral."
+  },
+  {
+    "partido": "podemos",
+    "tema": "pensiones",
+    "estado": "propuesta",
+    "titular": "Adelantar la jubilación a los 63",
+    "resumen": "Propone adelantar la jubilación ordinaria a los 63 años y quitar la penalización por jubilarse antes a quien cotizó 40 años o más. Pensión mínima contributiva igual al salario mínimo.",
+    "citas": [
+      {"texto": "Reformaremos el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presupuestos Generales del Estado.", "pagina_pdf": 41},
+      {"texto": "Eliminar las penalizaciones por jubilación anticipada para las personas con 40 años cotizados. […] eliminando retroactivamente las penalizaciones para los trabajadores y trabajadoras con 40 años o más de cotización.", "pagina_pdf": 41},
+      {"texto": "Equiparar la pensión mínima al salario mínimo interprofesional. Garantizaremos que la pensión mínima contributiva se equipare al SMI, y la pensión no contributiva al 80% del SMI.", "pagina_pdf": 44}
+    ],
+    "seleccion": "Medidas 115 y 116, las primeras sobre pensiones del capítulo «Trabajar menos para vivir mejor», y 127, sobre pensiones mínimas; cifras concretas."
+  },
+  {
+    "partido": "podemos",
+    "tema": "impuestos",
+    "estado": "propuesta",
+    "titular": "Gravar más las grandes fortunas",
+    "resumen": "Propone impuestos permanentes a quien deba pagar Patrimonio y a grandes bancos (beneficios extraordinarios). Impuesto sobre la renta: bajar tipo mínimo al 9 %, subir tipos pasados 60.000 euros anuales.",
+    "citas": [
+      {"texto": "Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio […] reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal permanente", "pagina_pdf": 17},
+      {"texto": "Estableceremos un impuesto permanente sobre los beneficios extraordinarios de la gran banca, de forma que al menos el 50 % de sus beneficios revierta en las arcas públicas.", "pagina_pdf": 17},
+      {"texto": "Reforma del IRPF para que las rentas más altas contribuyan más. Reformaremos la escala estatal del IRPF sobre la base imponible general […] reduciremos el tipo mínimo del 9,5 % actual al 9 %, y elevaremos los tipos a las bases imponibles de más de 60.000 euros anuales", "pagina_pdf": 21}
+    ],
+    "seleccion": "Medidas 30 y 31, las primeras del capítulo «Los precios tienen que bajar», y 48, reforma del impuesto sobre la renta con tramos concretos."
+  },
+  {
+    "partido": "podemos",
+    "tema": "territorio",
+    "estado": "propuesta",
+    "titular": "Votar monarquía o república",
+    "resumen": "Propone una constitución republicana y un referéndum entre monarquía y república. Quiere reconocer la «plurinacionalidad» y un Senado territorial con igual representación para todas las comunidades autónomas.",
+    "citas": [
+      {"texto": "Proceso constituyente y referéndum sobre la forma de Estado. Impulsaremos la aprobación de una constitución republicana […] Esta reforma constitucional permitirá, por primera vez, que la ciudadanía decida de forma separada y directa entre monarquía y república", "pagina_pdf": 128},
+      {"texto": "la apertura de un proceso que profundice la democracia, reconozca la plurinacionalidad y ponga los derechos sociales de los trabajadores y trabajadoras en el centro", "pagina_pdf": 128},
+      {"texto": "Reforma federal del Senado. Reformaremos el Senado para convertirlo en una verdadera cámara de representación territorial, garantizando la misma representación a todas las Comunidades Autónomas", "pagina_pdf": 129}
+    ],
+    "seleccion": "Medida 406, la primera del capítulo «España, república plurinacional», y 412, única sobre representación territorial. El programa no trae medidas sobre financiación autonómica ni sobre autodeterminación de territorios del Estado."
+  },
+  {
+    "partido": "podemos",
+    "tema": "igualdad",
+    "estado": "propuesta",
+    "titular": "Crear un fondo de mil millones",
+    "resumen": "Propone un fondo de mil millones de euros contra la violencia machista. Las víctimas cobrarían el salario mínimo durante 6 meses prorrogables. Y una ley integral contra la trata.",
+    "citas": [
+      {"texto": "Creación de un fondo de contingencia de mil millones de euros para las políticas contra todas las formas de violencia machista que garantice la financiación estable y a largo plazo de las mismas mediante la reforma de la Ley General Presupuestaria.", "pagina_pdf": 51},
+      {"texto": "Una prestación para mujeres víctimas de violencias machistas […] La prestación supondrá un salario mínimo equivalente al Salario Mínimo Interprofesional durante 6 meses prorrogables, que se incrementará según el número de personas que cada mujer tenga a su cargo.", "pagina_pdf": 53},
+      {"texto": "Aprobación de la Ley Integral contra todas las formas de Trata de personas y Explotación.", "pagina_pdf": 55}
+    ],
+    "seleccion": "Medida 145, la primera del capítulo «Vidas que merezcan la pena ser vividas»; 151, plan de reparación con cifra y plazo; 158, ley sobre trata."
+  },
+  {
+    "partido": "podemos",
+    "tema": "aborto",
+    "estado": "propuesta",
+    "titular": "Garantizar el derecho al aborto",
+    "resumen": "Propone recoger el aborto como derecho fundamental en la Constitución y quitar del Código Penal el aborto consentido. Quiere actuar contra las agencias de gestación subrogada y su publicidad.",
+    "citas": [
+      {"texto": "Blindar el derecho al aborto. […] Eliminaremos todas las referencias al aborto consentido dentro del Código Penal.", "pagina_pdf": 51},
+      {"texto": "Incorporar expresamente el derecho al aborto en la Constitución dentro del Título I Capítulo II Sección 1º como parte de los derechos fundamentales , concretamente en el Artículo 15", "pagina_pdf": 51},
+      {"texto": "Combatir la explotación reproductiva y la publicidad de servicios de gestación subrogada. Reforzar las actuaciones frente a las agencias que facilitan estas prácticas que están prohibidas por ley en España", "pagina_pdf": 57}
+    ],
+    "seleccion": "Medidas 146 y 168, las únicas que nombran el aborto voluntario y la gestación subrogada con medida propia. La 175 (aborto coercitivo a mujeres con discapacidad) es otro asunto; la objeción de conciencia de la 313 se refiere a la muerte digna."
+  }
+]
