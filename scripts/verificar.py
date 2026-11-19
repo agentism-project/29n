@@ -48,6 +48,9 @@ def normalizar(texto: str) -> str:
     t = unicodedata.normalize("NFKC", texto).replace("­", "")
     # Palabras cortadas a final de línea: «na-\ncional» y también «na -\ncional» (PDF de Vox).
     t = re.sub(r"(\w) ?-\s*\n\s*(\w)", r"\1\2", t)
+    # Y el guion entre letras, en los dos lados: el catalán corta «incrementant-\nles»
+    # en su propio guion, que la regla anterior no puede distinguir de un corte de sílaba.
+    t = re.sub(r"(\w)-(\w)", r"\1\2", t)
     for a, b in COMILLAS.items():
         t = t.replace(a, b)
     return re.sub(r"\s+", " ", t).strip().casefold()

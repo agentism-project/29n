@@ -11,12 +11,13 @@
       "titulo": "Un programa como una casa",
       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
       "enlazado_desde": "https://frenteamplio.info/programa/",
-      "fecha_pdf": "2026-11-16",
+      "fecha_pdf": "2026-11-17",
       "paginas": 151,
       "idioma": "es",
-      "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
-      "descargado": "2026-11-16",
-      "nota": "Publicado el 16-11 (PDF creado ese día). Título leído en la portada, que no tiene capa de texto."
+      "sha256": "516c5c6caaa04d0bd6f28770a49ae312f79ff3ebcf48967db66adc4ce2335424",
+      "descargado": "2026-11-19",
+      "nota": "Publicado el 16-11 (PDF creado ese día) y sustituido en la misma dirección por una versión del 17-11, que es la que resumimos desde el 19-11 (cambios en cultura, salarios, autónomos y la paginación de las pp. 51-58). Título leído en la portada, que no tiene capa de texto.",
+      "url_archivo": "https://web.archive.org/web/20261118080810/https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf"
     }
   },
   {
@@ -112,13 +113,13 @@
       "titulo": "Un programa para frenar a las derechas",
       "url": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
       "enlazado_desde": "https://programa.adelanteandalucia.org/",
-      "fecha_pdf": "2026-11-15",
+      "fecha_pdf": "2026-11-16",
       "paginas": 134,
       "idioma": "es",
-      "sha256": "8dbe28d038792b9f2a66c96d40d43cf5fd0f310dbc0de17f6c7ebb3e6d55db30",
-      "descargado": "2026-11-15",
-      "url_archivo": "https://web.archive.org/web/20261116112602/https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
-      "nota": "El partido regenera el PDF («Versión del 2026-11-15»); huella comprobada de nuevo el 16-11: es el mismo archivo."
+      "sha256": "9edf2c74216c3d68319355de782e979307f2bad8b545ea3cffb53c2113065494",
+      "descargado": "2026-11-19",
+      "url_archivo": "https://web.archive.org/web/20261118134119/https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
+      "nota": "El partido regenera el PDF con la fecha en la última página («Versión del 2026-11-16»); el 19-11 fijamos esta versión, cuyo texto solo cambia en esa fecha respecto a la del 15-11."
     }
   },
   {
@@ -174,11 +175,12 @@
       "titulo": "Programa electoral 29N Compromís-Front Valencià",
       "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
       "enlazado_desde": "https://frontvalencia.org/",
-      "fecha_pdf": "2026-11-13",
-      "paginas": 64,
+      "fecha_pdf": "2026-11-18",
+      "paginas": 57,
       "idioma": "ca-valencia",
-      "sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
-      "descargado": "2026-11-15"
+      "sha256": "b62b06d43821397fbf7d6f65f992e13e44087c9e042808fbbc171b3f83ff212b",
+      "descargado": "2026-11-19",
+      "nota": "Sustituido en la misma dirección el 18-11 por una versión corregida y maquetada de nuevo (64 a 57 páginas), que es la que resumimos desde el 19-11. Sin copia archivada que coincida con este archivo."
     }
   },
   {
@@ -226,6 +228,7 @@
       "idioma": "es",
       "sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
       "descargado": "2026-11-16",
+      "url_archivo": "https://web.archive.org/web/20261116103044/https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf",
       "nota": "Publicado el 16-11 en castellano y en euskera (posibleegin-programa-eus.pdf, 30 págs.); se usa la versión en castellano. Título leído en la portada."
     }
   },
@@ -244,12 +247,13 @@
       "estado": "publicado",
       "titulo": "Pel país. Per la gent. Pel futur.",
       "url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
-      "fecha_pdf": "2026-11-10",
+      "fecha_pdf": "2026-11-17",
       "paginas": 48,
       "idioma": "ca",
-      "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
-      "descargado": "2026-11-15",
-      "url_archivo": "https://web.archive.org/web/20261115171915/https://esquerrarepublicana.cat/documents/e2026-programa.pdf"
+      "sha256": "f0b6d8e0bf7fc6a75206ac4a6b0b7e0e31745b147fae86d341916562d6a433fd",
+      "descargado": "2026-11-19",
+      "url_archivo": "https://web.archive.org/web/20261118133910/https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+      "nota": "Sustituido en la misma dirección el 17-11 por una versión con pequeños cambios (p. 13 y numeración de medidas); las citas no cambian de página. Resumimos esta versión desde el 19-11."
     }
   },
   {
@@ -263,8 +267,17 @@
     "color": "#00c3b2",
     "color_fuente": "Color de los enlaces del carrusel de portada de junts.cat (15-11-2026); el sitio no declara theme-color.",
     "programa": {
-      "estado": "pendiente",
-      "nota": "15-11, revisado en navegador: junts.cat no enlaza ningún programa; tiene páginas «Propostes» por tema. 18-11: sigue igual (portada, Propostes, Actualitat y buscador de la web)."
+      "estado": "publicado",
+      "titulo": "Programa electoral 29N",
+      "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+      "enlazado_desde": "https://www.tualcentre.cat/",
+      "fecha_pdf": "2026-11-18",
+      "paginas": 90,
+      "idioma": "ca",
+      "sha256": "cde2c5f3f30b66c72dd4f4bae3d22e9f6bc3e0ee4362da72f9e32e85129374b6",
+      "descargado": "2026-11-19",
+      "url_archivo": "https://web.archive.org/web/20261119101545/https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+      "nota": "Publicado el 18-11 (PDF creado ese día) en la web de campaña tualcentre.cat, cuyo aviso legal la atribuye a Junts per Catalunya; Junts nos envió el enlace por correo el 19-11. junts.cat no lo enlazaba a 18-11."
     }
   },
   {

@@ -4,7 +4,7 @@ window.DATOS = {
   "base_url": "https://agentism-project.github.io/29n/",
   "direccion": "agentism-project.github.io/29n",
   "url_correcciones": "https://github.com/agentism-project/29n/issues",
-  "actualizado": "2026-11-18"
+  "actualizado": "2026-11-19"
  },
  "criterios": {
   "partidos_regla": "Candidaturas a las que el estudio preelectoral del CIS n.º 3584 (elecciones generales 2026) atribuye al menos un escaño en su horquilla nacional. La página nombra el estudio, no reproduce sus cifras.",
@@ -111,11 +111,12 @@ window.DATOS = {
     "estado": "publicado",
     "titulo": "Un programa como una casa",
     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-    "fecha_pdf": "2026-11-16",
+    "fecha_pdf": "2026-11-17",
     "paginas": 151,
     "idioma": "es",
-    "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
-    "descargado": "2026-11-16"
+    "sha256": "516c5c6caaa04d0bd6f28770a49ae312f79ff3ebcf48967db66adc4ce2335424",
+    "descargado": "2026-11-19",
+    "url_archivo": "https://web.archive.org/web/20261118080810/https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf"
    }
   },
   {
@@ -202,12 +203,12 @@ window.DATOS = {
     "estado": "publicado",
     "titulo": "Un programa para frenar a las derechas",
     "url": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
-    "fecha_pdf": "2026-11-15",
+    "fecha_pdf": "2026-11-16",
     "paginas": 134,
     "idioma": "es",
-    "sha256": "8dbe28d038792b9f2a66c96d40d43cf5fd0f310dbc0de17f6c7ebb3e6d55db30",
-    "descargado": "2026-11-15",
-    "url_archivo": "https://web.archive.org/web/20261116112602/https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf"
+    "sha256": "9edf2c74216c3d68319355de782e979307f2bad8b545ea3cffb53c2113065494",
+    "descargado": "2026-11-19",
+    "url_archivo": "https://web.archive.org/web/20261118134119/https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf"
    }
   },
   {
@@ -257,11 +258,11 @@ window.DATOS = {
     "estado": "publicado",
     "titulo": "Programa electoral 29N Compromís-Front Valencià",
     "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
-    "fecha_pdf": "2026-11-13",
-    "paginas": 64,
+    "fecha_pdf": "2026-11-18",
+    "paginas": 57,
     "idioma": "ca-valencia",
-    "sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
-    "descargado": "2026-11-15"
+    "sha256": "b62b06d43821397fbf7d6f65f992e13e44087c9e042808fbbc171b3f83ff212b",
+    "descargado": "2026-11-19"
    }
   },
   {
@@ -304,7 +305,8 @@ window.DATOS = {
     "paginas": 30,
     "idioma": "es",
     "sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
-    "descargado": "2026-11-16"
+    "descargado": "2026-11-16",
+    "url_archivo": "https://web.archive.org/web/20261116103044/https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf"
    }
   },
   {
@@ -321,12 +323,12 @@ window.DATOS = {
     "estado": "publicado",
     "titulo": "Pel país. Per la gent. Pel futur.",
     "url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
-    "fecha_pdf": "2026-11-10",
+    "fecha_pdf": "2026-11-17",
     "paginas": 48,
     "idioma": "ca",
-    "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
-    "descargado": "2026-11-15",
-    "url_archivo": "https://web.archive.org/web/20261115171915/https://esquerrarepublicana.cat/documents/e2026-programa.pdf"
+    "sha256": "f0b6d8e0bf7fc6a75206ac4a6b0b7e0e31745b147fae86d341916562d6a433fd",
+    "descargado": "2026-11-19",
+    "url_archivo": "https://web.archive.org/web/20261118133910/https://esquerrarepublicana.cat/documents/e2026-programa.pdf"
    }
   },
   {
@@ -339,7 +341,15 @@ window.DATOS = {
    "color": "#00c3b2",
    "web": "https://junts.cat/",
    "programa": {
-    "estado": "pendiente"
+    "estado": "publicado",
+    "titulo": "Programa electoral 29N",
+    "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+    "fecha_pdf": "2026-11-18",
+    "paginas": 90,
+    "idioma": "ca",
+    "sha256": "cde2c5f3f30b66c72dd4f4bae3d22e9f6bc3e0ee4362da72f9e32e85129374b6",
+    "descargado": "2026-11-19",
+    "url_archivo": "https://web.archive.org/web/20261119101545/https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
    }
   },
   {
@@ -475,12 +485,12 @@ window.DATOS = {
    "resumen": "Propone recoger en la Constitución que las pensiones públicas suban con los precios y que ninguna sea menor que el salario mínimo. Y devolver la jubilación a los 65 años.",
    "citas": [
     {
-     "texto": "Reforzaremos el nivel de protección constitucional […] ubicaremos el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas",
+     "texto": "Reforzaremos el nivel de protección constitucional […] ubicaremos el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI",
      "pagina_pdf": 57
     },
     {
      "texto": "Devolveremos la edad de jubilación a los 65 años",
-     "pagina_pdf": 57
+     "pagina_pdf": 58
     }
    ]
   },
@@ -1953,17 +1963,17 @@ window.DATOS = {
    "citas": [
     {
      "texto": "Prohibirem que societats especulatives i fons voltor puguen comprar habitatges al nostre País i impedirem que eludisquen aquesta prohibició mitjançant societats instrumentals o interposades.",
-     "pagina_pdf": 4,
+     "pagina_pdf": 5,
      "traduccion": "Prohibiremos que sociedades especulativas y fondos buitre puedan comprar viviendas en nuestro País e impediremos que eludan esta prohibición mediante sociedades instrumentales o interpuestas."
     },
     {
      "texto": "Promourem el lloguer indefinit com a règim ordinari, garantint el dret a recuperar la possessió per motius d’ús personal o familiar.",
-     "pagina_pdf": 4,
+     "pagina_pdf": 5,
      "traduccion": "Promoveremos el alquiler indefinido como régimen ordinario, garantizando el derecho a recuperar la posesión por motivos de uso personal o familiar."
     },
     {
      "texto": "Aprovarem una nova Llei d’Expropiació de Grans Fons i Societat Tenidores per a ampliar el parc públic d’habitatge, començant per fons que tinguen més de 1000 habitatges baixant fins als 50 immobles.",
-     "pagina_pdf": 4,
+     "pagina_pdf": 5,
      "traduccion": "Aprobaremos una nueva Ley de Expropiación de Grandes Fondos y Sociedades Tenedoras para ampliar el parque público de vivienda, empezando por fondos que tengan más de 1000 viviendas y bajando hasta los 50 inmuebles."
     }
    ]
@@ -1975,17 +1985,17 @@ window.DATOS = {
    "citas": [
     {
      "texto": "Exigirem l’eliminació dels CIES.",
-     "pagina_pdf": 64,
+     "pagina_pdf": 56,
      "traduccion": "Exigiremos la eliminación de los CIES."
     },
     {
      "texto": "Regularitzarem i donarem drets per als qui viuen ací. Impulsarem vies de regularització i reformes que faciliten la documentació i autorització de treball, amb procediments clars i garanties.",
-     "pagina_pdf": 64,
+     "pagina_pdf": 56,
      "traduccion": "Regularizaremos y daremos derechos a quienes viven aquí. Impulsaremos vías de regularización y reformas que faciliten la documentación y la autorización de trabajo, con procedimientos claros y garantías."
     },
     {
-     "texto": "Prohibirem radicalment les devolucions il·legals encobertes sota retorns voluntaris, assegurant que tota persona migrant reba informació veraç, exacta, exhaustiva i en un idioma comprensible sobre les conseqüències jurídiques del retorn.",
-     "pagina_pdf": 64,
+     "texto": "Prohibirem radicalment les devolucions il·legals encobertes sota retorns voluntaris, tot assegurant que tota persona migrant reba informació veraç, exacta, exhaustiva i en un idioma comprensible sobre les conseqüències jurídiques del retorn.",
+     "pagina_pdf": 56,
      "traduccion": "Prohibiremos radicalmente las devoluciones ilegales encubiertas bajo retornos voluntarios, asegurando que toda persona migrante reciba información veraz, exacta, exhaustiva y en un idioma comprensible sobre las consecuencias jurídicas del retorno."
     }
    ]
@@ -1996,18 +2006,18 @@ window.DATOS = {
    "resumen": "Propone contratos largos a precio fijo para quien produce luz renovable. Quiere dar 200 euros al mes por hijo y más control público de márgenes de grandes cadenas de alimentación.",
    "citas": [
     {
-     "texto": "Reduirem el pes del mercat marginalista i implementarem un model de remuneració regulat i estable, amb contractes a llarg termini a preu fix per a les renovables, que traslladen a la ciutadania el baix cost real de generar-les i acaben amb la volatilitat.",
-     "pagina_pdf": 29,
-     "traduccion": "Reduciremos el peso del mercado marginalista e implementaremos un modelo de remuneración regulado y estable, con contratos a largo plazo a precio fijo para las renovables, que trasladen a la ciudadanía el bajo coste real de generarlas y acaben con la volatilidad."
+     "texto": "Reduirem el pes del mercat marginalista i implementarem un model de remuneració regulat i estable, amb contractes a llarg termini a preu fix per a les renovables, de manera que es trasllade a la ciutadania el baix cost real de generar-les i s’acabe amb la volatilitat.",
+     "pagina_pdf": 26,
+     "traduccion": "Reduciremos el peso del mercado marginalista e implementaremos un modelo de remuneración regulado y estable, con contratos a largo plazo a precio fijo para las renovables, de modo que se traslade a la ciudadanía el bajo coste real de generarlas y se acabe con la volatilidad."
     },
     {
      "texto": "Implementarem una prestació universal per criança de 200 euros mensuals per fill o filla per acabar amb la transmissió generacional de l’empobriment.",
-     "pagina_pdf": 46,
+     "pagina_pdf": 41,
      "traduccion": "Implementaremos una prestación universal por crianza de 200 euros mensuales por hijo o hija para acabar con la transmisión generacional del empobrecimiento."
     },
     {
-     "texto": "Ampliarem el control públic sobre la concentració empresarial i els marges de les grans cadenes de distribució alimentària, exigint transparència en els preus i els marges de cada fase de la cadena i actuant contra les pràctiques abusives que perjudiquen les persones productores i consumidores.",
-     "pagina_pdf": 24,
+     "texto": "Ampliarem el control públic sobre la concentració empresarial i els marges de les grans cadenes de distribució alimentària, tot exigint transparència en els preus i els marges de cada fase de la cadena i actuant contra les pràctiques abusives que perjudiquen les persones productores i consumidores.",
+     "pagina_pdf": 22,
      "traduccion": "Ampliaremos el control público sobre la concentración empresarial y los márgenes de las grandes cadenas de distribución alimentaria, exigiendo transparencia en los precios y los márgenes de cada fase de la cadena y actuando contra las prácticas abusivas que perjudican a las personas productoras y consumidoras."
     }
    ]
@@ -2019,18 +2029,18 @@ window.DATOS = {
    "citas": [
     {
      "texto": "Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou.",
-     "pagina_pdf": 6,
+     "pagina_pdf": 7,
      "traduccion": "Reduciremos la jornada laboral a cuatro días (treinta y dos horas) semanales, sin disminución del sueldo."
     },
     {
      "texto": "Garantirem per llei que l’SMI arribe al 60% del salari mitjà, sense que l’augment puga absorbir els complements retributius, i impulsarem mesures per a augmentar el salari mitjà.",
-     "pagina_pdf": 6,
+     "pagina_pdf": 7,
      "traduccion": "Garantizaremos por ley que el SMI llegue al 60 % del salario medio, sin que el aumento pueda absorber los complementos retributivos, e impulsaremos medidas para aumentar el salario medio."
     },
     {
-     "texto": "Millorarem la protecció social de les persones autònomes fent que per accedir a la prestació per cessament d’activitat només hagen d’acreditar un any de pèrdues.",
-     "pagina_pdf": 7,
-     "traduccion": "Mejoraremos la protección social de las personas autónomas haciendo que, para acceder a la prestación por cese de actividad, solo tengan que acreditar un año de pérdidas."
+     "texto": "Millorarem la protecció social de les persones autònomes, de manera que per accedir a la prestació per cessament d’activitat només hagen d’acreditar un any de pèrdues.",
+     "pagina_pdf": 8,
+     "traduccion": "Mejoraremos la protección social de las personas autónomas, de modo que, para acceder a la prestación por cese de actividad, solo tengan que acreditar un año de pérdidas."
     }
    ]
   },
@@ -2050,7 +2060,7 @@ window.DATOS = {
      "traduccion": "Garantizaremos el acceso universal a la atención sanitaria pública, sin discriminaciones por origen o situación administrativa."
     },
     {
-     "texto": "Reforçarem l’atenció primària, la salut comunitària i la prevenció, fixant per llei bàsica un finançament mínim així com unes ràtios poblacionals i llistes d’espera màxims, i millorant la continuïtat assistencial.",
+     "texto": "Reforçarem l’atenció primària, la salut comunitària i la prevenció, fixant per llei bàsica un finançament mínim així com unes ràtios poblacionals i llistes d’espera màxims, tot millorant la continuïtat assistencial.",
      "pagina_pdf": 9,
      "traduccion": "Reforzaremos la atención primaria, la salud comunitaria y la prevención, fijando por ley básica una financiación mínima así como unas ratios de población y listas de espera máximas, y mejorando la continuidad asistencial."
     }
@@ -2062,9 +2072,9 @@ window.DATOS = {
    "resumen": "Propone acercar la inversión educativa al 7 % del PIB (producción del país). Quiere prohibir ceder suelo público a colegios privados y que la concertada solo complemente la pública.",
    "citas": [
     {
-     "texto": "Exigirem recursos per a una educació pública de qualitat, amb millora de la inclusió i de les condicions d’aprenentatge, augmentant la inversió educativa estatal i les transferències a les comunitats autònomes, amb l’objectiu d’avançar cap a una inversió educativa equivalent al 7% del PIB estatal.",
+     "texto": "Exigirem recursos per a una educació pública de qualitat, per millorar la inclusió i les condicions d’aprenentatge, amb l’augment de la inversió educativa estatal i les transferències a les comunitats autònomes, per tal d’avançar cap a una inversió educativa equivalent al 7% del PIB estatal.",
      "pagina_pdf": 10,
-     "traduccion": "Exigiremos recursos para una educación pública de calidad, con mejora de la inclusión y de las condiciones de aprendizaje, aumentando la inversión educativa estatal y las transferencias a las comunidades autónomas, con el objetivo de avanzar hacia una inversión educativa equivalente al 7 % del PIB estatal."
+     "traduccion": "Exigiremos recursos para una educación pública de calidad, para mejorar la inclusión y las condiciones de aprendizaje, con el aumento de la inversión educativa estatal y de las transferencias a las comunidades autónomas, para avanzar hacia una inversión educativa equivalente al 7 % del PIB estatal."
     },
     {
      "texto": "Prohibirem la cessió de sòl públic per a la construcció de centres educatius privats.",
@@ -2084,18 +2094,18 @@ window.DATOS = {
    "resumen": "Propone prohibir que la Administración trate con paraísos fiscales o con empresas que los usen. Quiere reformar el Tribunal de Cuentas para garantizar su independencia y crear una oficina antifraude.",
    "citas": [
     {
-     "texto": "Prohibirem que l'Administració pública es relacione mitjançant els paradisos fiscals i amb empreses que en facen us, incloent el finançament i la contractació pública.",
-     "pagina_pdf": 40,
+     "texto": "Prohibirem que l'Administració pública es relacione mitjançant els paradisos fiscals i amb empreses que en facen us, tot incloent-hi el finançament i la contractació pública.",
+     "pagina_pdf": 36,
      "traduccion": "Prohibiremos que la Administración pública se relacione a través de los paraísos fiscales y con empresas que hagan uso de ellos, incluidas la financiación y la contratación pública."
     },
     {
      "texto": "Promourem la reforma del Tribunal de Cuentas per a garantir-ne la independència i que compte amb els mitjans suficients per a desenvolupar la seua tasca.",
-     "pagina_pdf": 40,
+     "pagina_pdf": 36,
      "traduccion": "Promoveremos la reforma del Tribunal de Cuentas para garantizar su independencia y que cuente con los medios suficientes para desarrollar su tarea."
     },
     {
      "texto": "Crearem una oficina antifrau que perseguisca qualsevol tipus d'il·legalitat en l'àmbit de l'administració pública i en previnga el delicte.",
-     "pagina_pdf": 40,
+     "pagina_pdf": 36,
      "traduccion": "Crearemos una oficina antifraude que persiga cualquier tipo de ilegalidad en el ámbito de la administración pública y prevenga el delito."
     }
    ]
@@ -2129,12 +2139,12 @@ window.DATOS = {
    "citas": [
     {
      "texto": "Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació.",
-     "pagina_pdf": 18,
+     "pagina_pdf": 17,
      "traduccion": "Deflactaremos el IRPF en las rentas inferiores a 30.000 € para ajustarlo a la inflación."
     },
     {
      "texto": "Mantindrem i ampliarem l’Impost a les Grans Fortunes per a aproximar-la a propostes internacionals de tributació progressiva al patrimoni com la taxa Zucman.",
-     "pagina_pdf": 18,
+     "pagina_pdf": 17,
      "traduccion": "Mantendremos y ampliaremos el Impuesto a las Grandes Fortunas para aproximarlo a propuestas internacionales de tributación progresiva del patrimonio como la tasa Zucman."
     }
    ]
@@ -2146,17 +2156,17 @@ window.DATOS = {
    "citas": [
     {
      "texto": "Reformarem el sistema de finançament autonòmic per a que atenga a criteris poblacionals i de prestació dels serveis públics i desenvolupament competencial, per tal d’acabar amb l’infrafinançament valencià.",
-     "pagina_pdf": 57,
+     "pagina_pdf": 50,
      "traduccion": "Reformaremos el sistema de financiación autonómica para que atienda a criterios de población, de prestación de los servicios públicos y de desarrollo competencial, con el fin de acabar con la infrafinanciación valenciana."
     },
     {
      "texto": "Apostarem per un concert econòmic responsable o, en el seu defecte, per un sistema de finançament on la Generalitat Valenciana recapte directament la major part dels tributs.",
-     "pagina_pdf": 57,
+     "pagina_pdf": 50,
      "traduccion": "Apostaremos por un concierto económico responsable o, en su defecto, por un sistema de financiación en el que la Generalitat Valenciana recaude directamente la mayor parte de los tributos."
     },
     {
      "texto": "Avançarem en el desplegament de l’autogovern i en el traspàs a la Generalitat Valenciana de les competències que permeten gestionar millor els serveis i les infraestructures que afecten directament al territori.",
-     "pagina_pdf": 59,
+     "pagina_pdf": 52,
      "traduccion": "Avanzaremos en el despliegue del autogobierno y en el traspaso a la Generalitat Valenciana de las competencias que permiten gestionar mejor los servicios y las infraestructuras que afectan directamente al territorio."
     }
    ]
@@ -2164,22 +2174,22 @@ window.DATOS = {
   "compromis/igualdad": {
    "estado": "propuesta",
    "titular": "Castigar la violencia machista",
-   "resumen": "Propone revisar la protección de las víctimas, con auditorías externas de los fallos, y una respuesta penal proporcionada y efectiva. Quiere sancionar la explotación sexual, no a las personas prostituidas.",
+   "resumen": "Propone revisar la protección de víctimas, con auditorías externas de los fallos, y una respuesta penal proporcionada y efectiva. Quiere sancionar más la explotación sexual, no a las personas prostituidas.",
    "citas": [
     {
      "texto": "Revisarem de manera integral els protocols de valoració del risc i de protecció de les víctimes, incorporant auditories externes dels casos en què els mecanismes de protecció hagen fallat.",
-     "pagina_pdf": 54,
+     "pagina_pdf": 47,
      "traduccion": "Revisaremos de manera integral los protocolos de valoración del riesgo y de protección de las víctimas, incorporando auditorías externas de los casos en que los mecanismos de protección hayan fallado."
     },
     {
      "texto": "Garantirem una resposta penal proporcionada i efectiva davant la violència masclista, amb especial atenció a la reincidència, l’incompliment de les ordres de protecció i les conductes d’alt risc.",
-     "pagina_pdf": 54,
+     "pagina_pdf": 47,
      "traduccion": "Garantizaremos una respuesta penal proporcionada y efectiva ante la violencia machista, con especial atención a la reincidencia, el incumplimiento de las órdenes de protección y las conductas de alto riesgo."
     },
     {
-     "texto": "Establirem majors responsabilitats i sancions per a activitats que impliquen explotació sexual i tràfic de persones amb finalitats d’explotació sexual, amb un règim penal proporcionat per als supòsits més greus, evitant en tot cas sancionar les persones prostituïdes.",
-     "pagina_pdf": 54,
-     "traduccion": "Estableceremos mayores responsabilidades y sanciones para actividades que impliquen explotación sexual y trata de personas con fines de explotación sexual, con un régimen penal proporcionado para los supuestos más graves, evitando en todo caso sancionar a las personas prostituidas."
+     "texto": "Establirem majors responsabilitats i sancions per a activitats que impliquen explotació sexual i tràfic de persones amb finalitats d’explotació sexual, amb un règim penal proporcionat per als supòsits més greus, per tal d’evitar en tot cas sancionar les persones prostituïdes.",
+     "pagina_pdf": 48,
+     "traduccion": "Estableceremos mayores responsabilidades y sanciones para actividades que impliquen explotación sexual y trata de personas con fines de explotación sexual, con un régimen penal proporcionado para los supuestos más graves, para evitar en todo caso sancionar a las personas prostituidas."
     }
    ]
   },
@@ -2190,17 +2200,17 @@ window.DATOS = {
    "citas": [
     {
      "texto": "Garantirem la interrupció voluntària de l’embaràs gratuïta, segura i accessible dins de la xarxa sanitària pública, en els termes previstos legalment, sense desplaçaments injustificats ni obstacles administratius.",
-     "pagina_pdf": 52,
+     "pagina_pdf": 46,
      "traduccion": "Garantizaremos la interrupción voluntaria del embarazo gratuita, segura y accesible dentro de la red sanitaria pública, en los términos previstos legalmente, sin desplazamientos injustificados ni obstáculos administrativos."
     },
     {
      "texto": "Regularem i supervisarem l’objecció de consciència individual per a impedir que es convertisca en una objecció institucional encoberta. Cap hospital públic ha de deixar de prestar el servei per falta de planificació.",
-     "pagina_pdf": 53,
+     "pagina_pdf": 46,
      "traduccion": "Regularemos y supervisaremos la objeción de conciencia individual para impedir que se convierta en una objeción institucional encubierta. Ningún hospital público debe dejar de prestar el servicio por falta de planificación."
     },
     {
      "texto": "Reforçarem la prohibició dels contractes de gestació per substitució/gestació subrogada/ventres de lloguer o qualsevol altre eufemisme, amb les garanties constitucionals i jurídiques corresponents.",
-     "pagina_pdf": 53,
+     "pagina_pdf": 47,
      "traduccion": "Reforzaremos la prohibición de los contratos de gestación por sustitución/gestación subrogada/vientres de alquiler o cualquier otro eufemismo, con las garantías constitucionales y jurídicas correspondientes."
     }
    ]
@@ -2900,40 +2910,257 @@ window.DATOS = {
    ]
   },
   "junts/vivienda": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Desalojar pisos ocupados en 48 h",
+   "resumen": "Propone desalojar ocupaciones ilegales en 48 horas con juicio inmediato, que la Administración pague al propietario la deuda de inquilinos vulnerables y ceder a Cataluña pisos vacíos de la Sareb.",
+   "citas": [
+    {
+     "texto": "Desnonar les ocupacions il·legals en un màxim de 48 hores, mitjançant un judici immediat, i garantir l’atenció pública a les persones en situació de vulnerabilitat.",
+     "pagina_pdf": 17,
+     "traduccion": "Desahuciar las ocupaciones ilegales en un máximo de 48 horas, mediante un juicio inmediato, y garantizar la atención pública a las personas en situación de vulnerabilidad."
+    },
+    {
+     "texto": "Quan un llogater vulnerable no pugui pagar el lloguer , l’Administració ha d’abonar la totalitat del deute al propietari en un termini màxim de dos mesos, amb fons de l’Estat.",
+     "pagina_pdf": 17,
+     "traduccion": "Cuando un inquilino vulnerable no pueda pagar el alquiler, la Administración debe abonar la totalidad de la deuda al propietario en un plazo máximo de dos meses, con fondos del Estado."
+    },
+    {
+     "texto": "Volem que els pisos buits i els solars de la SAREB i Casa 47 que estiguin a Catalunya passin a mans de la Generalitat i dels ajuntaments.",
+     "pagina_pdf": 9,
+     "traduccion": "Queremos que los pisos vacíos y los solares de la SAREB y Casa 47 que estén en Cataluña pasen a manos de la Generalitat y de los ayuntamientos."
+    }
+   ]
   },
   "junts/inmigracion": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Inmigración: que decida Cataluña",
+   "resumen": "Propone que Cataluña decida sobre inmigración, limitar los «flujos desordenados» hasta donde el país pueda integrar, priorizando vías legales, y exigir catalán para el arraigo y la renovación de permisos.",
+   "citas": [
+    {
+     "texto": "Aprovar la llei de delegació de competències en immigració a la Generalitat, que hem tornat a registrar al Congrés (publicada al BOCG l’11 de setembre de 2026)",
+     "pagina_pdf": 48,
+     "traduccion": "Aprobar la ley de delegación de competencias en inmigración a la Generalitat, que hemos vuelto a registrar en el Congreso (publicada en el BOCG el 11 de septiembre de 2026)"
+    },
+    {
+     "texto": "Limitar i controlar els fluxos desordenats i la irregularitat acumulada fins on el país pugui integrar bé, prioritzant les vies legals i la contractació en origen.",
+     "pagina_pdf": 47,
+     "traduccion": "Limitar y controlar los flujos desordenados y la irregularidad acumulada hasta donde el país pueda integrar bien, priorizando las vías legales y la contratación en origen."
+    },
+    {
+     "texto": "Exigir el coneixement del català en els processos d’arrelament i de renovació dels permisos, i que cap regularització no es faci d’esquena a la llengua del país.",
+     "pagina_pdf": 48,
+     "traduccion": "Exigir el conocimiento del catalán en los procesos de arraigo y de renovación de los permisos, y que ninguna regularización se haga de espaldas a la lengua del país."
+    }
+   ]
   },
   "junts/economia": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Reforzar la industria catalana",
+   "resumen": "Quiere reforzar la industria, que Cataluña reciba las ayudas industriales según su peso productivo e ir hacia una inversión en investigación del 3 % del PIB (producción del país).",
+   "citas": [
+    {
+     "texto": "Volem una Catalunya que reforci la seva indústria i els sectors estratègics, des de l’agroalimentari i la química fins a l’automoció, la salut, l’energia i les tecnologies digitals.",
+     "pagina_pdf": 67,
+     "traduccion": "Queremos una Cataluña que refuerce su industria y los sectores estratégicos, desde el agroalimentario y la química hasta la automoción, la salud, la energía y las tecnologías digitales."
+    },
+    {
+     "texto": "Garantir que Catalunya rebi els recursos i ajuts industrials que corresponen al seu pes productiu, amb gestió des de la Generalitat i respecte a les seves competències.",
+     "pagina_pdf": 69,
+     "traduccion": "Garantizar que Cataluña reciba los recursos y ayudas industriales que corresponden a su peso productivo, con gestión desde la Generalitat y respeto a sus competencias."
+    },
+    {
+     "texto": "Avançar cap a una inversió total en R+D del 3% del PIB, reforçar els centres tecnològics i la transferència a les empreses",
+     "pagina_pdf": 70,
+     "traduccion": "Avanzar hacia una inversión total en I+D del 3 % del PIB, reforzar los centros tecnológicos y la transferencia a las empresas"
+    }
+   ]
   },
   "junts/empleo": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Crear un salario mínimo catalán",
+   "resumen": "Propone un salario mínimo catalán que avance hacia el 60 % del salario medio catalán, frenar las subidas «indiscriminadas» de cuota a autónomos y permitir más horas extra voluntarias.",
+   "citas": [
+    {
+     "texto": "Impulsar un salari mínim català que avanci progressivament cap al 60% del salari mitjà català, amb diàleg social, millores de productivitat i mesures d’acompanyament a les petites empreses.",
+     "pagina_pdf": 70,
+     "traduccion": "Impulsar un salario mínimo catalán que avance progresivamente hacia el 60 % del salario medio catalán, con diálogo social, mejoras de productividad y medidas de acompañamiento a las pequeñas empresas."
+    },
+    {
+     "texto": "Frenar les pujades indiscriminades de quotes dels autònoms i adequar la cotització als rendiments reals, amb més reconeixement de les despeses de l’activitat.",
+     "pagina_pdf": 69,
+     "traduccion": "Frenar las subidas indiscriminadas de cuotas de los autónomos y adecuar la cotización a los rendimientos reales, con más reconocimiento de los gastos de la actividad."
+    },
+    {
+     "texto": "Ampliar el límit d’hores extraordinàries perquè qui ho vulgui pugui treballar més i cobrar més, amb hores voluntàries, registrades i remunerades i respecte als descansos.",
+     "pagina_pdf": 70,
+     "traduccion": "Ampliar el límite de horas extraordinarias para que quien quiera pueda trabajar más y cobrar más, con horas voluntarias, registradas y remuneradas y respeto a los descansos."
+    }
+   ]
   },
   "junts/sanidad": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Avanzar al 8 % del PIB en salud",
+   "resumen": "Propone avanzar hacia un gasto sanitario público del 8 % del PIB (producción del país), dedicar el 25 % a atención primaria y más plazas de médicos especialistas en formación.",
+   "citas": [
+    {
+     "texto": "Reclamarem un finançament sanitari suficient i pluriennal, amb l’objectiu d’avançar cap als estàndards europeus del 8 % del PIB en despesa sanitària pública i destinar el 25 % del pressupost de salut a l’atenció primària.",
+     "pagina_pdf": 51,
+     "traduccion": "Reclamaremos una financiación sanitaria suficiente y plurianual, con el objetivo de avanzar hacia los estándares europeos del 8 % del PIB en gasto sanitario público y destinar el 25 % del presupuesto de salud a la atención primaria."
+    },
+    {
+     "texto": "Reclamarem el traspàs de les competències i els recursos de la formació sanitària especialitzada i l’ampliació de les places MIR d’acord amb les necessitats assistencials, amb especial atenció a Medicina Familiar i Comunitària i a les especialitats deficitàries.",
+     "pagina_pdf": 51,
+     "traduccion": "Reclamaremos el traspaso de las competencias y los recursos de la formación sanitaria especializada y la ampliación de las plazas MIR de acuerdo con las necesidades asistenciales, con especial atención a Medicina Familiar y Comunitaria y a las especialidades deficitarias."
+    }
+   ]
   },
   "junts/educacion": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Defender la escuela en catalán",
+   "resumen": "Quiere defender la escuela en catalán, llegar al 6 % del PIB (producción del país) en educación, como fija la ley catalana, y financiación estatal para 0-3 años.",
+   "citas": [
+    {
+     "texto": "L ’escola catalana, amb el català com a llengua vehicular , és una línia vermella i la defensarem.",
+     "pagina_pdf": 8,
+     "traduccion": "La escuela catalana, con el catalán como lengua vehicular, es una línea roja y la defenderemos."
+    },
+    {
+     "texto": "Volem arribar al 6% del PIB en educació, com fixa la Llei d’Educació de Catalunya, i que tots els centres del Servei d’Educació de Catalunya tinguin els recursos que mereixen.",
+     "pagina_pdf": 9,
+     "traduccion": "Queremos llegar al 6 % del PIB en educación, como fija la Ley de Educación de Cataluña, y que todos los centros del Servicio de Educación de Cataluña tengan los recursos que merecen."
+    },
+    {
+     "texto": "L ’educació dels infants de 0 a 3 anys ha de tenir finançament públic estatal.",
+     "pagina_pdf": 54,
+     "traduccion": "La educación de los niños de 0 a 3 años debe tener financiación pública estatal."
+    }
+   ]
   },
   "junts/regeneracion": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Suprimir la Audiencia Nacional",
+   "resumen": "Quiere suprimir la Audiencia Nacional, «despolitizar» el gobierno de los jueces y que el Tribunal Superior de Justicia de Cataluña sea la última instancia judicial.",
+   "citas": [
+    {
+     "texto": "Suprimir l’Audiència Nacional, una excepcionalitat jurisdiccional hereva del Tribunal de Orden Público franquista contrària als estàndards europeus d’independència i imparcialitat judicial",
+     "pagina_pdf": 14,
+     "traduccion": "Suprimir la Audiencia Nacional, una excepcionalidad jurisdiccional heredera del Tribunal de Orden Público franquista contraria a los estándares europeos de independencia e imparcialidad judicial"
+    },
+    {
+     "texto": "Despolititzar el CGPJ i establir criteris tècnics per a tots els nomenaments judicials.",
+     "pagina_pdf": 14,
+     "traduccion": "Despolitizar el CGPJ y establecer criterios técnicos para todos los nombramientos judiciales."
+    },
+    {
+     "texto": "Volem una justícia propera, àgil i independent, homologable als estàndards europeus, amb el Tribunal Superior de Justícia de Catalunya com a darrera instància i el català plenament garantit.",
+     "pagina_pdf": 8,
+     "traduccion": "Queremos una justicia cercana, ágil e independiente, homologable a los estándares europeos, con el Tribunal Superior de Justicia de Cataluña como última instancia y el catalán plenamente garantizado."
+    }
+   ]
   },
   "junts/pensiones": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Revisar las pensiones cada año",
+   "resumen": "Propone revisar cada año las pensiones según los precios catalanes, subir mínimas y viudedad hasta 1.400 euros mensuales (14 pagas) y no penalizar la jubilación anticipada con 40 años cotizados.",
+   "citas": [
+    {
+     "texto": "Garantir el sistema públic de pensions i assegurar per llei el manteniment del poder adquisitiu de les persones pensionistes, revisant anualment les pensions segons l’IPC català i el superior cost de la vida a Catalunya.",
+     "pagina_pdf": 57,
+     "traduccion": "Garantizar el sistema público de pensiones y asegurar por ley el mantenimiento del poder adquisitivo de los pensionistas, revisando anualmente las pensiones según el IPC catalán y el mayor coste de la vida en Cataluña."
+    },
+    {
+     "texto": "Millorar les pensions mínimes i de viduïtat, incrementant-les anualment per sobre de l’IPC català, fins a igualar-les al salari mínim català (1.400 euros mensuals en 14 pagues).",
+     "pagina_pdf": 57,
+     "traduccion": "Mejorar las pensiones mínimas y de viudedad, incrementándolas anualmente por encima del IPC catalán, hasta igualarlas al salario mínimo catalán (1.400 euros mensuales en 14 pagas)."
+    },
+    {
+     "texto": "Establir per llei que les persones jubilades amb 40 anys o més cotitzats puguin percebre íntegrament la pensió que els correspongui sense penalitzacions per jubilació anticipada, amb caràcter retroactiu.",
+     "pagina_pdf": 58,
+     "traduccion": "Establecer por ley que las personas jubiladas con 40 años o más cotizados puedan percibir íntegramente la pensión que les corresponda sin penalizaciones por jubilación anticipada, con carácter retroactivo."
+    }
+   ]
   },
   "junts/impuestos": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Bajar el impuesto sobre la renta",
+   "resumen": "Propone bajar los primeros tramos del impuesto sobre la renta, suprimir el de sucesiones y donaciones y bajar al 10 % el IVA de luz y gas.",
+   "citas": [
+    {
+     "texto": "Deflactar l’IRPF, rebaixar els primers trams, augmentar els mínims personals i familiars i actualitzar-los anualment segons la inflació.",
+     "pagina_pdf": 68,
+     "traduccion": "Deflactar el IRPF, rebajar los primeros tramos, aumentar los mínimos personales y familiares y actualizarlos anualmente según la inflación."
+    },
+    {
+     "texto": "Eliminar l’impost de successions i donacions.",
+     "pagina_pdf": 68,
+     "traduccion": "Eliminar el impuesto de sucesiones y donaciones."
+    },
+    {
+     "texto": "Reduir al 10% l’IVA de la llum i el gas natural, garantint que la rebaixa es traslladi a la factura de les famílies i les pimes.",
+     "pagina_pdf": 69,
+     "traduccion": "Reducir al 10 % el IVA de la luz y el gas natural, garantizando que la rebaja se traslade a la factura de las familias y las pymes."
+    }
+   ]
   },
   "junts/territorio": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Que Cataluña cobre sus impuestos",
+   "resumen": "Propone un «concierto económico» para que Cataluña recaude todos sus impuestos, garantizar el derecho a la autodeterminación y perdonar toda su deuda con el Fondo de Liquidez Autonómico.",
+   "citas": [
+    {
+     "texto": "Per això volem el concert econòmic: que tots els impostos que paguem a Catalunya els reculli l’Agència Tributària de Catalunya i que decideixi el Parlament com es gasten.",
+     "pagina_pdf": 10,
+     "traduccion": "Por eso queremos el concierto económico: que todos los impuestos que pagamos en Cataluña los recaude la Agencia Tributaria de Cataluña y que decida el Parlamento cómo se gastan."
+    },
+    {
+     "texto": "Garantir el dret de Catalunya a la seva autodeterminació emprant tots els mitjans democràtics necessaris.",
+     "pagina_pdf": 13,
+     "traduccion": "Garantizar el derecho de Cataluña a su autodeterminación empleando todos los medios democráticos necesarios."
+    },
+    {
+     "texto": "Exigir la condonació del 100% del deute de la Generalitat amb el Fons de Liquiditat Autonòmic (FLA).",
+     "pagina_pdf": 68,
+     "traduccion": "Exigir la condonación del 100 % de la deuda de la Generalitat con el Fondo de Liquidez Autonómico (FLA)."
+    }
+   ]
   },
   "junts/igualdad": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Reducir la brecha salarial",
+   "resumen": "Propone mismo sueldo por trabajo de igual valor, evitar que la víctima de violencia machista repita su declaración y sancionar difundir sin consentimiento imágenes íntimas manipuladas con inteligencia artificial.",
+   "citas": [
+    {
+     "texto": "Impulsar una reforma legislativa per reforçar la igualtat salarial i la transparència retributiva. Mateix sou per a treballs d’igual valor , amb auditories retributives i control de les discriminacions d’acord amb la normativa europea",
+     "pagina_pdf": 33,
+     "traduccion": "Impulsar una reforma legislativa para reforzar la igualdad salarial y la transparencia retributiva. Mismo sueldo para trabajos de igual valor, con auditorías retributivas y control de las discriminaciones de acuerdo con la normativa europea"
+    },
+    {
+     "texto": "Millorar la legislació processal per evitar la revictimització de les dones que pateixen violències masclistes. La declaració de la víctima s’ha de poder fer com a prova preconstituïda quan la llei ho permeti, perquè no l’hagi de repetir una vegada i una altra",
+     "pagina_pdf": 33,
+     "traduccion": "Mejorar la legislación procesal para evitar la revictimización de las mujeres que sufren violencias machistas. La declaración de la víctima se tiene que poder hacer como prueba preconstituida cuando la ley lo permita, para que no la tenga que repetir una y otra vez"
+    },
+    {
+     "texto": "Tancar els buits legals davant la creació i difusió sense consentiment d’imatges íntimes manipulades amb intel·ligència artificial i la suplantació d’identitat per assetjar sexualment, amb sancions proporcionades.",
+     "pagina_pdf": 33,
+     "traduccion": "Cerrar los vacíos legales ante la creación y difusión sin consentimiento de imágenes íntimas manipuladas con inteligencia artificial y la suplantación de identidad para acosar sexualmente, con sanciones proporcionadas."
+    }
+   ]
   },
   "junts/aborto": {
-   "estado": "pendiente"
+   "estado": "sin_propuesta",
+   "terminos_buscados": [
+    "avorta",
+    "embarass",
+    "embaràs",
+    "gestació",
+    "interrupció de l",
+    "objecció de consciència",
+    "per substitució",
+    "reproductiv",
+    "subrogad",
+    "ventre",
+    "ventre de lloguer"
+   ]
   },
   "upc/vivienda": {
    "estado": "pendiente"

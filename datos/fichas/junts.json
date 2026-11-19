@@ -1,0 +1,292 @@
+[
+  {
+    "partido": "junts",
+    "tema": "vivienda",
+    "estado": "propuesta",
+    "titular": "Desalojar pisos ocupados en 48 h",
+    "resumen": "Propone desalojar ocupaciones ilegales en 48 horas con juicio inmediato, que la Administración pague al propietario la deuda de inquilinos vulnerables y ceder a Cataluña pisos vacíos de la Sareb.",
+    "citas": [
+      {
+        "texto": "Desnonar les ocupacions il·legals en un màxim de 48 hores, mitjançant un judici immediat, i garantir l’atenció pública a les persones en situació de vulnerabilitat.",
+        "pagina_pdf": 17,
+        "traduccion": "Desahuciar las ocupaciones ilegales en un máximo de 48 horas, mediante un juicio inmediato, y garantizar la atención pública a las personas en situación de vulnerabilidad."
+      },
+      {
+        "texto": "Quan un llogater vulnerable no pugui pagar el lloguer , l’Administració ha d’abonar la totalitat del deute al propietari en un termini màxim de dos mesos, amb fons de l’Estat.",
+        "pagina_pdf": 17,
+        "traduccion": "Cuando un inquilino vulnerable no pueda pagar el alquiler, la Administración debe abonar la totalidad de la deuda al propietario en un plazo máximo de dos meses, con fondos del Estado."
+      },
+      {
+        "texto": "Volem que els pisos buits i els solars de la SAREB i Casa 47 que estiguin a Catalunya passin a mans de la Generalitat i dels ajuntaments.",
+        "pagina_pdf": 9,
+        "traduccion": "Queremos que los pisos vacíos y los solares de la SAREB y Casa 47 que estén en Cataluña pasen a manos de la Generalitat y de los ayuntamientos."
+      }
+    ],
+    "seleccion": "El desalojo en 48 horas está en el resumen del modelo («Catalunya al centre», p. 9) y es la medida 1.1 del capítulo de vivienda; el pago al propietario (2.1) es la primera «mesura urgent» de la introducción del capítulo; la cesión de los pisos de la SAREB y Casa 47 está en el resumen (p. 9) y en las competencias a reclamar."
+  },
+  {
+    "partido": "junts",
+    "tema": "inmigracion",
+    "estado": "propuesta",
+    "titular": "Inmigración: que decida Cataluña",
+    "resumen": "Propone que Cataluña decida sobre inmigración, limitar los «flujos desordenados» hasta donde el país pueda integrar, priorizando vías legales, y exigir catalán para el arraigo y la renovación de permisos.",
+    "citas": [
+      {
+        "texto": "Aprovar la llei de delegació de competències en immigració a la Generalitat, que hem tornat a registrar al Congrés (publicada al BOCG l’11 de setembre de 2026)",
+        "pagina_pdf": 48,
+        "traduccion": "Aprobar la ley de delegación de competencias en inmigración a la Generalitat, que hemos vuelto a registrar en el Congreso (publicada en el BOCG el 11 de septiembre de 2026)"
+      },
+      {
+        "texto": "Limitar i controlar els fluxos desordenats i la irregularitat acumulada fins on el país pugui integrar bé, prioritzant les vies legals i la contractació en origen.",
+        "pagina_pdf": 47,
+        "traduccion": "Limitar y controlar los flujos desordenados y la irregularidad acumulada hasta donde el país pueda integrar bien, priorizando las vías legales y la contratación en origen."
+      },
+      {
+        "texto": "Exigir el coneixement del català en els processos d’arrelament i de renovació dels permisos, i que cap regularització no es faci d’esquena a la llengua del país.",
+        "pagina_pdf": 48,
+        "traduccion": "Exigir el conocimiento del catalán en los procesos de arraigo y de renovación de los permisos, y que ninguna regularización se haga de espaldas a la lengua del país."
+      }
+    ],
+    "seleccion": "Primera medida (1.1) del capítulo «Les competències en immigració al centre»; los flujos son el primero de los «tres verbs» con que la introducción del capítulo resume su modelo; el catalán para el arraigo está también en el resumen del modelo (p. 9) y es la medida 4.1."
+  },
+  {
+    "partido": "junts",
+    "tema": "economia",
+    "estado": "propuesta",
+    "titular": "Reforzar la industria catalana",
+    "resumen": "Quiere reforzar la industria, que Cataluña reciba las ayudas industriales según su peso productivo e ir hacia una inversión en investigación del 3 % del PIB (producción del país).",
+    "citas": [
+      {
+        "texto": "Volem una Catalunya que reforci la seva indústria i els sectors estratègics, des de l’agroalimentari i la química fins a l’automoció, la salut, l’energia i les tecnologies digitals.",
+        "pagina_pdf": 67,
+        "traduccion": "Queremos una Cataluña que refuerce su industria y los sectores estratégicos, desde el agroalimentario y la química hasta la automoción, la salud, la energía y las tecnologías digitales."
+      },
+      {
+        "texto": "Garantir que Catalunya rebi els recursos i ajuts industrials que corresponen al seu pes productiu, amb gestió des de la Generalitat i respecte a les seves competències.",
+        "pagina_pdf": 69,
+        "traduccion": "Garantizar que Cataluña reciba los recursos y ayudas industriales que corresponden a su peso productivo, con gestión desde la Generalitat y respeto a sus competencias."
+      },
+      {
+        "texto": "Avançar cap a una inversió total en R+D del 3% del PIB, reforçar els centres tecnològics i la transferència a les empreses",
+        "pagina_pdf": 70,
+        "traduccion": "Avanzar hacia una inversión total en I+D del 3 % del PIB, reforzar los centros tecnológicos y la transferencia a las empresas"
+      }
+    ],
+    "seleccion": "Introducción del capítulo «L’economia, les empreses i el treball al centre» y medidas 4.1 y 4.7 de su objetivo «motor productiu»; sus medidas fiscales (luz y gas incluidas) van a Impuestos y el salario mínimo a Empleo, por las exclusiones del tema."
+  },
+  {
+    "partido": "junts",
+    "tema": "empleo",
+    "estado": "propuesta",
+    "titular": "Crear un salario mínimo catalán",
+    "resumen": "Propone un salario mínimo catalán que avance hacia el 60 % del salario medio catalán, frenar las subidas «indiscriminadas» de cuota a autónomos y permitir más horas extra voluntarias.",
+    "citas": [
+      {
+        "texto": "Impulsar un salari mínim català que avanci progressivament cap al 60% del salari mitjà català, amb diàleg social, millores de productivitat i mesures d’acompanyament a les petites empreses.",
+        "pagina_pdf": 70,
+        "traduccion": "Impulsar un salario mínimo catalán que avance progresivamente hacia el 60 % del salario medio catalán, con diálogo social, mejoras de productividad y medidas de acompañamiento a las pequeñas empresas."
+      },
+      {
+        "texto": "Frenar les pujades indiscriminades de quotes dels autònoms i adequar la cotització als rendiments reals, amb més reconeixement de les despeses de l’activitat.",
+        "pagina_pdf": 69,
+        "traduccion": "Frenar las subidas indiscriminadas de cuotas de los autónomos y adecuar la cotización a los rendimientos reales, con más reconocimiento de los gastos de la actividad."
+      },
+      {
+        "texto": "Ampliar el límit d’hores extraordinàries perquè qui ho vulgui pugui treballar més i cobrar més, amb hores voluntàries, registrades i remunerades i respecte als descansos.",
+        "pagina_pdf": 70,
+        "traduccion": "Ampliar el límite de horas extraordinarias para que quien quiera pueda trabajar más y cobrar más, con horas voluntarias, registradas y remuneradas y respeto a los descansos."
+      }
+    ],
+    "seleccion": "Primera medida (5.1) del objetivo «productivitat, salaris i oportunitats laborals» del capítulo de economía y trabajo (también entre las competencias a reclamar); primera medida (3.1) del objetivo de actividad empresarial, sobre autónomos; 5.5 es la primera medida laboral del objetivo 5 tras las de Seguridad Social y pensiones."
+  },
+  {
+    "partido": "junts",
+    "tema": "sanidad",
+    "estado": "propuesta",
+    "titular": "Avanzar al 8 % del PIB en salud",
+    "resumen": "Propone avanzar hacia un gasto sanitario público del 8 % del PIB (producción del país), dedicar el 25 % a atención primaria y más plazas de médicos especialistas en formación.",
+    "citas": [
+      {
+        "texto": "Reclamarem un finançament sanitari suficient i pluriennal, amb l’objectiu d’avançar cap als estàndards europeus del 8 % del PIB en despesa sanitària pública i destinar el 25 % del pressupost de salut a l’atenció primària.",
+        "pagina_pdf": 51,
+        "traduccion": "Reclamaremos una financiación sanitaria suficiente y plurianual, con el objetivo de avanzar hacia los estándares europeos del 8 % del PIB en gasto sanitario público y destinar el 25 % del presupuesto de salud a la atención primaria."
+      },
+      {
+        "texto": "Reclamarem el traspàs de les competències i els recursos de la formació sanitària especialitzada i l’ampliació de les places MIR d’acord amb les necessitats assistencials, amb especial atenció a Medicina Familiar i Comunitària i a les especialitats deficitàries.",
+        "pagina_pdf": 51,
+        "traduccion": "Reclamaremos el traspaso de las competencias y los recursos de la formación sanitaria especializada y la ampliación de las plazas MIR de acuerdo con las necesidades asistenciales, con especial atención a Medicina Familiar y Comunitaria y a las especialidades deficitarias."
+      }
+    ],
+    "seleccion": "Primera medida (1.1) del capítulo «La salut dels catalans al centre» y medida 2.2, del objetivo de formar y retener profesionales que destaca la introducción del capítulo."
+  },
+  {
+    "partido": "junts",
+    "tema": "educacion",
+    "estado": "propuesta",
+    "titular": "Defender la escuela en catalán",
+    "resumen": "Quiere defender la escuela en catalán, llegar al 6 % del PIB (producción del país) en educación, como fija la ley catalana, y financiación estatal para 0-3 años.",
+    "citas": [
+      {
+        "texto": "L ’escola catalana, amb el català com a llengua vehicular , és una línia vermella i la defensarem.",
+        "pagina_pdf": 8,
+        "traduccion": "La escuela catalana, con el catalán como lengua vehicular, es una línea roja y la defenderemos."
+      },
+      {
+        "texto": "Volem arribar al 6% del PIB en educació, com fixa la Llei d’Educació de Catalunya, i que tots els centres del Servei d’Educació de Catalunya tinguin els recursos que mereixen.",
+        "pagina_pdf": 9,
+        "traduccion": "Queremos llegar al 6 % del PIB en educación, como fija la Ley de Educación de Cataluña, y que todos los centros del Servicio de Educación de Cataluña tengan los recursos que merecen."
+      },
+      {
+        "texto": "L ’educació dels infants de 0 a 3 anys ha de tenir finançament públic estatal.",
+        "pagina_pdf": 54,
+        "traduccion": "La educación de los niños de 0 a 3 años debe tener financiación pública estatal."
+      }
+    ],
+    "seleccion": "La escuela en catalán y el 6 % del PIB están en el resumen del modelo («Catalunya al centre», p. 8-9) y en la introducción del capítulo de escuela y universidad; el 0-3 es la medida 1.3, la primera concreta del objetivo de presupuesto del capítulo."
+  },
+  {
+    "partido": "junts",
+    "tema": "regeneracion",
+    "estado": "propuesta",
+    "titular": "Suprimir la Audiencia Nacional",
+    "resumen": "Quiere suprimir la Audiencia Nacional, «despolitizar» el gobierno de los jueces y que el Tribunal Superior de Justicia de Cataluña sea la última instancia judicial.",
+    "citas": [
+      {
+        "texto": "Suprimir l’Audiència Nacional, una excepcionalitat jurisdiccional hereva del Tribunal de Orden Público franquista contrària als estàndards europeus d’independència i imparcialitat judicial",
+        "pagina_pdf": 14,
+        "traduccion": "Suprimir la Audiencia Nacional, una excepcionalidad jurisdiccional heredera del Tribunal de Orden Público franquista contraria a los estándares europeos de independencia e imparcialidad judicial"
+      },
+      {
+        "texto": "Despolititzar el CGPJ i establir criteris tècnics per a tots els nomenaments judicials.",
+        "pagina_pdf": 14,
+        "traduccion": "Despolitizar el CGPJ y establecer criterios técnicos para todos los nombramientos judiciales."
+      },
+      {
+        "texto": "Volem una justícia propera, àgil i independent, homologable als estàndards europeus, amb el Tribunal Superior de Justícia de Catalunya com a darrera instància i el català plenament garantit.",
+        "pagina_pdf": 8,
+        "traduccion": "Queremos una justicia cercana, ágil e independiente, homologable a los estándares europeos, con el Tribunal Superior de Justicia de Cataluña como última instancia y el catalán plenamente garantizado."
+      }
+    ],
+    "seleccion": "Medidas 4.1 y 4.2, las primeras del objetivo «Institucions judicials i de l’Estat d’acord amb els estàndards europeus» del capítulo de derechos y justicia; la justicia con el TSJC como última instancia es la frase sobre justicia del resumen del modelo (p. 8)."
+  },
+  {
+    "partido": "junts",
+    "tema": "pensiones",
+    "estado": "propuesta",
+    "titular": "Revisar las pensiones cada año",
+    "resumen": "Propone revisar cada año las pensiones según los precios catalanes, subir mínimas y viudedad hasta 1.400 euros mensuales (14 pagas) y no penalizar la jubilación anticipada con 40 años cotizados.",
+    "citas": [
+      {
+        "texto": "Garantir el sistema públic de pensions i assegurar per llei el manteniment del poder adquisitiu de les persones pensionistes, revisant anualment les pensions segons l’IPC català i el superior cost de la vida a Catalunya.",
+        "pagina_pdf": 57,
+        "traduccion": "Garantizar el sistema público de pensiones y asegurar por ley el mantenimiento del poder adquisitivo de los pensionistas, revisando anualmente las pensiones según el IPC catalán y el mayor coste de la vida en Cataluña."
+      },
+      {
+        "texto": "Millorar les pensions mínimes i de viduïtat, incrementant-les anualment per sobre de l’IPC català, fins a igualar-les al salari mínim català (1.400 euros mensuals en 14 pagues).",
+        "pagina_pdf": 57,
+        "traduccion": "Mejorar las pensiones mínimas y de viudedad, incrementándolas anualmente por encima del IPC catalán, hasta igualarlas al salario mínimo catalán (1.400 euros mensuales en 14 pagas)."
+      },
+      {
+        "texto": "Establir per llei que les persones jubilades amb 40 anys o més cotitzats puguin percebre íntegrament la pensió que els correspongui sense penalitzacions per jubilació anticipada, amb caràcter retroactiu.",
+        "pagina_pdf": 58,
+        "traduccion": "Establecer por ley que las personas jubiladas con 40 años o más cotizados puedan percibir íntegramente la pensión que les corresponda sin penalizaciones por jubilación anticipada, con carácter retroactivo."
+      }
+    ],
+    "seleccion": "La revisión anual según el IPC catalán abre la introducción del capítulo «Les persones grans al centre» y su medida 5.1, que también fija las mínimas y de viudedad; los 40 años cotizados son la medida 5.3 (repetida en el capítulo de economía, 5.4)."
+  },
+  {
+    "partido": "junts",
+    "tema": "impuestos",
+    "estado": "propuesta",
+    "titular": "Bajar el impuesto sobre la renta",
+    "resumen": "Propone bajar los primeros tramos del impuesto sobre la renta, suprimir el de sucesiones y donaciones y bajar al 10 % el IVA de luz y gas.",
+    "citas": [
+      {
+        "texto": "Deflactar l’IRPF, rebaixar els primers trams, augmentar els mínims personals i familiars i actualitzar-los anualment segons la inflació.",
+        "pagina_pdf": 68,
+        "traduccion": "Deflactar el IRPF, rebajar los primeros tramos, aumentar los mínimos personales y familiares y actualizarlos anualmente según la inflación."
+      },
+      {
+        "texto": "Eliminar l’impost de successions i donacions.",
+        "pagina_pdf": 68,
+        "traduccion": "Eliminar el impuesto de sucesiones y donaciones."
+      },
+      {
+        "texto": "Reduir al 10% l’IVA de la llum i el gas natural, garantint que la rebaixa es traslladi a la factura de les famílies i les pimes.",
+        "pagina_pdf": 69,
+        "traduccion": "Reducir al 10 % el IVA de la luz y el gas natural, garantizando que la rebaja se traslade a la factura de las familias y las pymes."
+      }
+    ],
+    "seleccion": "Medidas 2.1 y 2.2, las primeras del objetivo «Reduir la pressió fiscal» del capítulo de economía (el IRPF ajustado a la inflación está también en el resumen del modelo, p. 10), y 2.9, la del IVA de la luz y el gas, que el tema Economía excluye y viene aquí."
+  },
+  {
+    "partido": "junts",
+    "tema": "territorio",
+    "estado": "propuesta",
+    "titular": "Que Cataluña cobre sus impuestos",
+    "resumen": "Propone un «concierto económico» para que Cataluña recaude todos sus impuestos, garantizar el derecho a la autodeterminación y perdonar toda su deuda con el Fondo de Liquidez Autonómico.",
+    "citas": [
+      {
+        "texto": "Per això volem el concert econòmic: que tots els impostos que paguem a Catalunya els reculli l’Agència Tributària de Catalunya i que decideixi el Parlament com es gasten.",
+        "pagina_pdf": 10,
+        "traduccion": "Por eso queremos el concierto económico: que todos los impuestos que pagamos en Cataluña los recaude la Agencia Tributaria de Cataluña y que decida el Parlamento cómo se gastan."
+      },
+      {
+        "texto": "Garantir el dret de Catalunya a la seva autodeterminació emprant tots els mitjans democràtics necessaris.",
+        "pagina_pdf": 13,
+        "traduccion": "Garantizar el derecho de Cataluña a su autodeterminación empleando todos los medios democráticos necesarios."
+      },
+      {
+        "texto": "Exigir la condonació del 100% del deute de la Generalitat amb el Fons de Liquiditat Autonòmic (FLA).",
+        "pagina_pdf": 68,
+        "traduccion": "Exigir la condonación del 100 % de la deuda de la Generalitat con el Fondo de Liquidez Autonómico (FLA)."
+      }
+    ],
+    "seleccion": "El concierto económico es el primer «espai de sobirania» que cita la introducción (p. 5) y está en el resumen del modelo (p. 10) y en la medida 1.1 de economía; la autodeterminación es la medida 1.1 del primer capítulo; la condonación de la deuda es la 1.3 de economía."
+  },
+  {
+    "partido": "junts",
+    "tema": "igualdad",
+    "estado": "propuesta",
+    "titular": "Reducir la brecha salarial",
+    "resumen": "Propone mismo sueldo por trabajo de igual valor, evitar que la víctima de violencia machista repita su declaración y sancionar difundir sin consentimiento imágenes íntimas manipuladas con inteligencia artificial.",
+    "citas": [
+      {
+        "texto": "Impulsar una reforma legislativa per reforçar la igualtat salarial i la transparència retributiva. Mateix sou per a treballs d’igual valor , amb auditories retributives i control de les discriminacions d’acord amb la normativa europea",
+        "pagina_pdf": 33,
+        "traduccion": "Impulsar una reforma legislativa para reforzar la igualdad salarial y la transparencia retributiva. Mismo sueldo para trabajos de igual valor, con auditorías retributivas y control de las discriminaciones de acuerdo con la normativa europea"
+      },
+      {
+        "texto": "Millorar la legislació processal per evitar la revictimització de les dones que pateixen violències masclistes. La declaració de la víctima s’ha de poder fer com a prova preconstituïda quan la llei ho permeti, perquè no l’hagi de repetir una vegada i una altra",
+        "pagina_pdf": 33,
+        "traduccion": "Mejorar la legislación procesal para evitar la revictimización de las mujeres que sufren violencias machistas. La declaración de la víctima se tiene que poder hacer como prueba preconstituida cuando la ley lo permita, para que no la tenga que repetir una y otra vez"
+      },
+      {
+        "texto": "Tancar els buits legals davant la creació i difusió sense consentiment d’imatges íntimes manipulades amb intel·ligència artificial i la suplantació d’identitat per assetjar sexualment, amb sancions proporcionades.",
+        "pagina_pdf": 33,
+        "traduccion": "Cerrar los vacíos legales ante la creación y difusión sin consentimiento de imágenes íntimas manipuladas con inteligencia artificial y la suplantación de identidad para acosar sexualmente, con sanciones proporcionadas."
+      }
+    ],
+    "seleccion": "Primera medida de cada uno de los tres objetivos que destaca la introducción del capítulo «La igualtat entre catalans i catalanes al centre»: igualdad económica (1.1), violencias machistas (2.1) y violencia digital (4.1)."
+  },
+  {
+    "partido": "junts",
+    "tema": "aborto",
+    "estado": "sin_propuesta",
+    "terminos_buscados": [
+      "avorta",
+      "embarass",
+      "embaràs",
+      "gestació",
+      "interrupció de l",
+      "objecció de consciència",
+      "per substitució",
+      "reproductiv",
+      "subrogad",
+      "ventre",
+      "ventre de lloguer"
+    ],
+    "apariciones_revisadas": true,
+    "nota": "Ninguna aparición de aborto, interrupción del embarazo, gestación subrogada ni objeción de conciencia. «reproductiva» sale 3 veces, en el capítulo de jóvenes (p. 59 y 62): anticonceptivos y productos de salud sexual y reproductiva gratis hasta 35 años, sin relación con el aborto; no cuenta por el criterio literal."
+  }
+]
