@@ -4,7 +4,7 @@ window.DATOS = {
   "base_url": "https://agentism-project.github.io/29n/",
   "direccion": "agentism-project.github.io/29n",
   "url_correcciones": "https://github.com/agentism-project/29n/issues",
-  "actualizado": "2026-11-19"
+  "actualizado": "2026-11-20"
  },
  "criterios": {
   "partidos_regla": "Candidaturas a las que el estudio preelectoral del CIS n.º 3584 (elecciones generales 2026) atribuye al menos un escaño en su horquilla nacional. La página nombra el estudio, no reproduce sus cifras.",
@@ -133,7 +133,8 @@ window.DATOS = {
     "paginas": 141,
     "idioma": "es",
     "sha256": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb",
-    "descargado": "2026-11-18"
+    "descargado": "2026-11-18",
+    "url_archivo": "https://web.archive.org/web/20261120110023/https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf"
    }
   },
   {
@@ -218,9 +219,17 @@ window.DATOS = {
    "comunidades": [
     "Illes Balears"
    ],
-   "color": "#8a8a8a",
+   "color": "#13606c",
    "programa": {
-    "estado": "pendiente"
+    "estado": "publicado",
+    "titulo": "Programa electoral. Eleccions 29 novembre 2026 («Viure bé, viure aquí»)",
+    "url": "https://www.mespermenorca.cat/ca/download/683/",
+    "fecha_pdf": "2026-11-16",
+    "paginas": 17,
+    "idioma": "ca",
+    "sha256": "75149b3b5db92d0a8de0332b005c5114f04c63062fa5cda932eacf65c9f8a6f8",
+    "descargado": "2026-11-20",
+    "url_archivo": "https://web.archive.org/web/20261120105947/https://www.mespermenorca.cat/ca/download/683/"
    }
   },
   {
@@ -1662,40 +1671,248 @@ window.DATOS = {
    ]
   },
   "arames/vivienda": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Comprar casa solo para vivir",
+   "resumen": "Propone que solo se compre vivienda para vivir. En zonas tensionadas, alquiler máximo del 25 % de la renta de la zona y fin de pisos turísticos en tres años.",
+   "citas": [
+    {
+     "texto": "Es prohibirà la compra d’habitatges per a finalitats que no siguin l’habitatge habitual i permanent de la persona compradora, així com la prohibició absoluta de la compra de persones jurídiques amb ànim de lucre.",
+     "pagina_pdf": 4,
+     "traduccion": "Se prohibirá la compra de viviendas para fines que no sean la vivienda habitual y permanente de la persona compradora, así como la prohibición absoluta de la compra por personas jurídicas con ánimo de lucro."
+    },
+    {
+     "texto": "Es limitarà, per llei, el preu del lloguer a zones tensionades en el 25 % de la renda neta de les llars de la secció censal, a tot estirar.",
+     "pagina_pdf": 4,
+     "traduccion": "Se limitará, por ley, el precio del alquiler en zonas tensionadas al 25 % de la renta neta de los hogares de la sección censal, como máximo."
+    },
+    {
+     "texto": "Extingirem progressivament totes les llicències d’habitatge d’ús turístic i lloguers de temporada fraudulents en zones tensionades en un termini màxim de tres anys.",
+     "pagina_pdf": 4,
+     "traduccion": "Extinguiremos progresivamente todas las licencias de vivienda de uso turístico y alquileres de temporada fraudulentos en zonas tensionadas en un plazo máximo de tres años."
+    }
+   ]
   },
   "arames/inmigracion": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Crear una ley contra el racismo",
+   "resumen": "Propone una ley integral contra el racismo, que el Estado reconozca la ruta migratoria Argelia-Baleares y apruebe un plan para el Mediterráneo occidental, y facilitar el empadronamiento.",
+   "citas": [
+    {
+     "texto": "Aprovarem una Llei integral contra el racisme i un Pacte social i polític contra els discursos d’odi cap a les persones migrants o refugiades.",
+     "pagina_pdf": 15,
+     "traduccion": "Aprobaremos una Ley integral contra el racismo y un Pacto social y político contra los discursos de odio hacia las personas migrantes o refugiadas."
+    },
+    {
+     "texto": "Exigirem que l’Estat reconegui oficialment la ruta Algèia-Balears d'immigració i aprovi un Pla Estatal per a la Mediterrània Occidental, amb pressupost propi i plurianual",
+     "pagina_pdf": 15,
+     "traduccion": "Exigiremos que el Estado reconozca oficialmente la ruta Argelia-Baleares de inmigración y apruebe un Plan Estatal para el Mediterráneo Occidental, con presupuesto propio y plurianual"
+    },
+    {
+     "texto": "Eliminarem les traves administratives per a l'accés efectiu a drets mitjançant un empadronament flexible, garantia de comptes bancaris i agilització de l'homologació de títols.",
+     "pagina_pdf": 15,
+     "traduccion": "Eliminaremos las trabas administrativas para el acceso efectivo a derechos mediante un empadronamiento flexible, garantía de cuentas bancarias y agilización de la homologación de títulos."
+    }
+   ]
   },
   "arames/economia": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Limitar el precio del carburante",
+   "resumen": "Propone un tope al precio de los carburantes respecto a la península, controlar el precio de la cesta básica y una ayuda universal de 200 € por menor.",
+   "citas": [
+    {
+     "texto": "Impulsarem un topall de preu als carburants, de manera que no superin, en cap cas, el 5 % del preu mitjà de la península.",
+     "pagina_pdf": 2,
+     "traduccion": "Impulsaremos un tope de precio a los carburantes, de manera que no superen, en ningún caso, el 5 % del precio medio de la península."
+    },
+    {
+     "texto": "Controlarem el preu de la cistella dels aliments bàsics i, en cas d’acreditar-ne abusos, fixarem preus màxims en la cistella de la compra saludable.",
+     "pagina_pdf": 2,
+     "traduccion": "Controlaremos el precio de la cesta de los alimentos básicos y, en caso de acreditarse abusos, fijaremos precios máximos en la cesta de la compra saludable."
+    },
+    {
+     "texto": "Aprovarem una prestació universal de 200 € per cada menor fins els 18 anys com a dret del menor, inembargable i desvinculat dels ingressos o situació laboral dels progenitors.",
+     "pagina_pdf": 2,
+     "traduccion": "Aprobaremos una prestación universal de 200 € por cada menor hasta los 18 años como derecho del menor, inembargable y desvinculada de los ingresos o la situación laboral de los progenitores."
+    }
+   ]
   },
   "arames/empleo": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Crear un salario mínimo balear",
+   "resumen": "Propone un salario mínimo balear por la diferencia de coste de vida, jornada máxima de 32 horas semanales sin bajar sueldo y que Baleares gestione la inspección laboral.",
+   "citas": [
+    {
+     "texto": "Implantarem un Salari Mínim Interprofessional Illenc que permeti compensar les diferències que hi ha entre el cost de vida a les Illes Balears i el de la resta de comunitats autònomes.",
+     "pagina_pdf": 2,
+     "traduccion": "Implantaremos un Salario Mínimo Interprofesional Isleño que permita compensar las diferencias que hay entre el coste de vida en las Islas Baleares y el del resto de comunidades autónomas."
+    },
+    {
+     "texto": "Reduirem la jornada laboral a un màxim de 32 hores setmanals de feina efectiva sense reducció salarial.",
+     "pagina_pdf": 2,
+     "traduccion": "Reduciremos la jornada laboral a un máximo de 32 horas semanales de trabajo efectivo sin reducción salarial."
+    },
+    {
+     "texto": "Impulsarem la transferència de les competències d’inspecció laboral i en reforçarem la presència a les Illes Balears, per tal de garantir que s’acabin els fraus en els contractes.",
+     "pagina_pdf": 2,
+     "traduccion": "Impulsaremos la transferencia de las competencias de inspección laboral y reforzaremos su presencia en las Islas Baleares, para garantizar que se acaben los fraudes en los contratos."
+    }
+   ]
   },
   "arames/sanidad": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Dar más dinero a la sanidad",
+   "resumen": "Propone más dinero para la sanidad y para retener al personal, especialidades básicas en los hospitales de Menorca, Ibiza y Formentera, y más profesionales de salud mental.",
+   "citas": [
+    {
+     "texto": "Incrementarem el finançament de la sanitat, amb una atenció especial als increments dels complements salarials per insularitat, així com mesures per fidelitzar el personal sanitari a les Illes Balears.",
+     "pagina_pdf": 10,
+     "traduccion": "Incrementaremos la financiación de la sanidad, con una atención especial a los incrementos de los complementos salariales por insularidad, así como medidas para fidelizar al personal sanitario en las Islas Baleares."
+    },
+    {
+     "texto": "Impulsarem un pla estatal per garantir especialitats bàsiques al Mateu Orfila (Menorca), a Can Misses (Eivissa) i a l'Hospital de Formentera, perquè els pacients no hagin de desplaçar-se a Son Espases;",
+     "pagina_pdf": 10,
+     "traduccion": "Impulsaremos un plan estatal para garantizar especialidades básicas en el Mateu Orfila (Menorca), en Can Misses (Ibiza) y en el Hospital de Formentera, para que los pacientes no tengan que desplazarse a Son Espases;"
+    },
+    {
+     "texto": "Crearem un fons específic per a la Xarxa de Salut Mental Comunitària i augment de les ràtios de professionals fins a un mínim de 10 per cada 100.000 habitants",
+     "pagina_pdf": 10,
+     "traduccion": "Crearemos un fondo específico para la Red de Salud Mental Comunitaria y aumento de las ratios de profesionales hasta un mínimo de 10 por cada 100.000 habitantes"
+    }
+   ]
   },
   "arames/educacion": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Dar plazas gratis de 0 a 3 años",
+   "resumen": "Propone plazas públicas gratis de 0 a 3 años, pasar poco a poco la concertada a la red pública y 1,5 % del PIB (producción del país) para universidades públicas.",
+   "citas": [
+    {
+     "texto": "Farem que l’Estat es corresponsabilitzi en la universalització de l'educació de 0 a 3 anys, amb un finançament extraordinari a les Comunitats autònomes, tot garantint places públiques gratuïtes.",
+     "pagina_pdf": 9,
+     "traduccion": "Haremos que el Estado se corresponsabilice de la universalización de la educación de 0 a 3 años, con una financiación extraordinaria a las comunidades autónomas, garantizando plazas públicas gratuitas."
+    },
+    {
+     "texto": "Impulsarem un procés progressiu d’eliminació del sistema de concerts educatius, amb la integració d'aquests centres privats a la xarxa pública",
+     "pagina_pdf": 9,
+     "traduccion": "Impulsaremos un proceso progresivo de eliminación del sistema de conciertos educativos, con la integración de estos centros privados en la red pública"
+    },
+    {
+     "texto": "Impulsarem el finançament de les universitats públiques fins a assolir l’1,5% del PIB",
+     "pagina_pdf": 9,
+     "traduccion": "Impulsaremos la financiación de las universidades públicas hasta alcanzar el 1,5 % del PIB"
+    }
+   ]
   },
   "arames/regeneracion": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Votar y presentarse desde los 16",
+   "resumen": "Propone democratizar la policía y la justicia, una Ley de Integridad Pública contra la ocultación del poder económico, y votar y ser candidato desde los 16 años.",
+   "citas": [
+    {
+     "texto": "impulsarem mesures per la democratització real de les estructures de l’Estat: cossos policials i justícia.",
+     "pagina_pdf": 15,
+     "traduccion": "impulsaremos medidas para la democratización real de las estructuras del Estado: cuerpos policiales y justicia."
+    },
+    {
+     "texto": "Elaborarem la Llei d’Integritat Pública, que tanqui la via d’ocultació del poder econòmic.",
+     "pagina_pdf": 15,
+     "traduccion": "Elaboraremos la Ley de Integridad Pública, que cierre la vía de ocultación del poder económico."
+    },
+    {
+     "texto": "Impulsarem una reforma de la Llei electoral que garanteixi el dret al sufragi actiu i passiu a partir dels 16 anys.",
+     "pagina_pdf": 11,
+     "traduccion": "Impulsaremos una reforma de la Ley electoral que garantice el derecho al sufragio activo y pasivo a partir de los 16 años."
+    }
+   ]
   },
   "arames/pensiones": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Dar un plus a pensiones baleares",
+   "resumen": "Propone un complemento a las pensiones en Baleares por el coste de la vida, sobre todo las mínimas y no contributivas, y jubilación anticipada sin recorte para camareras de piso.",
+   "citas": [
+    {
+     "texto": "Aprovarem un complement insular per a les pensions, per compensar el cost de la vida a les Illes Balears i garantir que els pensionistes tenguin una igualtat de poder adquisitiu que a la península, amb especial atenció a les pensions mínimes i no contributives.",
+     "pagina_pdf": 2,
+     "traduccion": "Aprobaremos un complemento insular para las pensiones, para compensar el coste de la vida en las Islas Baleares y garantizar que los pensionistas tengan el mismo poder adquisitivo que en la península, con especial atención a las pensiones mínimas y no contributivas."
+    },
+    {
+     "texto": "Aprovarem la jubilació anticipada per a les cambreres de pis (kellys) sense penalització.",
+     "pagina_pdf": 3,
+     "traduccion": "Aprobaremos la jubilación anticipada para las camareras de piso (kellys) sin penalización."
+    }
+   ]
   },
   "arames/impuestos": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Bajar el IVA en Baleares",
+   "resumen": "Propone un IVA reducido en Baleares. Primera vivienda habitual sin impuesto de transmisiones; recargos desde la segunda. Impuesto a dueños de tres o más viviendas sin alquiler estable y asequible.",
+   "citas": [
+    {
+     "texto": "Implantarem un IVA propi reduït, que ens iguali a la resta de territoris extrapeninsulars de l’Estat.",
+     "pagina_pdf": 2,
+     "traduccion": "Implantaremos un IVA propio reducido, que nos iguale al resto de territorios extrapeninsulares del Estado."
+    },
+    {
+     "texto": "S’eximirà de l’Impost sobre Transmissions Patrimonials de la compra del primer habitatge habitual de famílies i individus, tota vegada que s’aplicarà un recàrrec del 200 % del segon habitatge i del 1000 % a partir del tercer.",
+     "pagina_pdf": 4,
+     "traduccion": "Se eximirá del Impuesto sobre Transmisiones Patrimoniales la compra de la primera vivienda habitual de familias e individuos, toda vez que se aplicará un recargo del 200 % a la segunda vivienda y del 1000 % a partir de la tercera."
+    },
+    {
+     "texto": "es crearà un impost que desincentivi l’especulació, de forma que s’apliqui únicament sobre els propietaris de 3 o més habitatges que no facin lloguer estable i assequible.",
+     "pagina_pdf": 4,
+     "traduccion": "se creará un impuesto que desincentive la especulación, de forma que se aplique únicamente a los propietarios de 3 o más viviendas que no hagan alquiler estable y asequible."
+    }
+   ]
   },
   "arames/territorio": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Reformar la financiación balear",
+   "resumen": "Propone una financiación que tenga en cuenta ser islas, sin renunciar a una «financiación singular»; que Baleares gestione justicia, prisiones e inmigración; un Estado «plurinacional confederal», autodeterminación y «república feminista».",
+   "citas": [
+    {
+     "texto": "Sense renunciar a un sistema de finançament singular per a les Illes Balears basat en la plena capacitat fiscal i tributària i una relació amb l'Estat assimilable al concert econòmic, impulsarem un nou model de finançament autonòmic […] que tengui en compte […] la insularitat i la pluriinsularitat,",
+     "pagina_pdf": 7,
+     "traduccion": "Sin renunciar a un sistema de financiación singular para las Islas Baleares basado en la plena capacidad fiscal y tributaria y una relación con el Estado asimilable al concierto económico, impulsaremos un nuevo modelo de financiación autonómica […] que tenga en cuenta […] la insularidad y la pluriinsularidad,"
+    },
+    {
+     "texto": "Reclamarem la transferència de les competències de justícia, execució i gestió penitenciaria i inmigració, avançant en l’autogovern",
+     "pagina_pdf": 13,
+     "traduccion": "Reclamaremos la transferencia de las competencias de justicia, ejecución y gestión penitenciaria e inmigración, avanzando en el autogobierno"
+    },
+    {
+     "texto": "Treballarem per el reconeixement de la plurinacionalitat confederal de l’Estat espanyol, el dret a l’autodeterminació dels pobles i la defensa de la república feminista com a forma de govern.",
+     "pagina_pdf": 13,
+     "traduccion": "Trabajaremos por el reconocimiento de la plurinacionalidad confederal del Estado español, el derecho a la autodeterminación de los pueblos y la defensa de la república feminista como forma de gobierno."
+    }
+   ]
   },
   "arames/igualdad": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Dar el 5 % del gasto a igualdad",
+   "resumen": "Propone al menos el 5 % del presupuesto no financiero del Estado para igualdad, un 10 % más contra la violencia machista, más juzgados especializados y dos centros de crisis.",
+   "citas": [
+    {
+     "texto": "Augmentarem el pressupost a polítiques d’igualtat, destinant-hi, almanco un 5% del pressupost no financer de l’Estat (superant el 4,4% actual). En particular, s’incrementarà un 10% la dotació contra les violències masclistes",
+     "pagina_pdf": 11,
+     "traduccion": "Aumentaremos el presupuesto para políticas de igualdad, destinando al menos un 5 % del presupuesto no financiero del Estado (superando el 4,4 % actual). En particular, se incrementará un 10 % la dotación contra las violencias machistas"
+    },
+    {
+     "texto": "Crearem més Jutjats de Violència sobre la Dona i dotarem les Illes Balears amb els recursos adequats per al personal i per a la creació de dos centres de crisi suplementaris, un a Menorca i l’altre a Eivissa i Formentera).",
+     "pagina_pdf": 11,
+     "traduccion": "Crearemos más Juzgados de Violencia sobre la Mujer y dotaremos a las Islas Baleares de los recursos adecuados para el personal y para la creación de dos centros de crisis suplementarios, uno en Menorca y el otro en Ibiza y Formentera)."
+    }
+   ]
   },
   "arames/aborto": {
-   "estado": "pendiente"
+   "estado": "propuesta",
+   "titular": "Proteger la ley del aborto",
+   "resumen": "Propone dar protección en la Constitución a la ley de salud sexual y reproductiva y de interrupción voluntaria del embarazo, que regula el aborto.",
+   "citas": [
+    {
+     "texto": "Promourem el blindatge constitucional de la Llei de Salut Sexual i Reproductiva i de la Interrupció Voluntària de l’Embaràs.",
+     "pagina_pdf": 11,
+     "traduccion": "Promoveremos el blindaje constitucional de la Ley de Salud Sexual y Reproductiva y de la Interrupción Voluntaria del Embarazo."
+    }
+   ]
   },
   "bng/vivienda": {
    "estado": "propuesta",

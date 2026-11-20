@@ -51,6 +51,9 @@ def normalizar(texto: str) -> str:
     # Y el guion entre letras, en los dos lados: el catalán corta «incrementant-\nles»
     # en su propio guion, que la regla anterior no puede distinguir de un corte de sílaba.
     t = re.sub(r"(\w)-(\w)", r"\1\2", t)
+    # El PDF de Ara Més separa la «T» mayúscula de su palabra («T reballarem»): la
+    # extracción mete un espacio de interletraje que el PDF no muestra.
+    t = re.sub(r"\bT (?=[a-zàèéíïòóúüç])", "T", t)
     for a, b in COMILLAS.items():
         t = t.replace(a, b)
     return re.sub(r"\s+", " ", t).strip().casefold()
